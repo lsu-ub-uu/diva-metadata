@@ -1,0 +1,629 @@
+{
+    "children": [
+        {
+            "repeatId": "4",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "iso31661Alpha3ItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "7",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "marcCountryCodeItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "11",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "namePartNameGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "namePart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "12",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "bibliographicGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "bibliographic"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "15",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "authorityGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "18",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "iso31661Alpha2ItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "25",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "languageCollectionItemExtraDataGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraData"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "32",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "iso639Alpha2ItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "35",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "namePartOrganisationNameGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "namePart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "36",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "iso31661NumericItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "46",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "personNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "49",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "placeInformationGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "placeInformation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "56",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "nameAlternativeGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "name"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "66",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "personGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "70",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "organisationGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "75",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "countryCollectionItemExtraDataGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraData"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "86",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "writtenTextNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "bibliographic"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "87",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "organisationNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "89",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "endDateGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "endDate"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "104",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "writtenTextGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "bibliographic"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "109",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "startDateGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "startDate"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "122",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "countryCollectionItemNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "125",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "countryCollectionItemGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "157",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoBibsysGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        }
+    ],
+    "name": "collectedData"
+}
