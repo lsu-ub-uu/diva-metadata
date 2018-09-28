@@ -47487,162 +47487,8 @@
                 {
                     "children": [
                         {
-                            "repeatId": "0",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationTextVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
-                            "repeatId": "1",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
-                            "repeatId": "2",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationFromTextVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
-                            "repeatId": "3",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationFromPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
-                            "repeatId": "4",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationUntilTextVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
-                            "repeatId": "5",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationUntilPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        }
-                    ],
-                    "name": "childReferences"
-                },
-                {
-                    "name": "mode",
-                    "value": "input"
-                },
-                {
-                    "children": [
-                        {
                             "name": "id",
                             "value": "divaPersonOtherAffiliationPGroup"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
                         },
                         {
                             "children": [
@@ -47669,6 +47515,19 @@
                                 }
                             ],
                             "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
                         },
                         {
                             "name": "tsCreated",
@@ -47696,6 +47555,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-28 13:27:20.963"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -47712,17 +47594,11 @@
                         }
                     ],
                     "name": "presentationOf"
-                }
-            ],
-            "name": "presentation",
-            "attributes": {"type": "pGroup"}
-        },
-        {
-            "children": [
+                },
                 {
                     "children": [
                         {
-                            "repeatId": "6",
+                            "repeatId": "0",
                             "children": [{
                                 "repeatId": "0",
                                 "children": [{
@@ -47744,29 +47620,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "7",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationOutputPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "8",
+                            "repeatId": "2",
                             "children": [{
                                 "repeatId": "0",
                                 "children": [{
@@ -47788,29 +47670,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "9",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationFromOutputPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationFromPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "10",
+                            "repeatId": "4",
                             "children": [{
                                 "repeatId": "0",
                                 "children": [{
@@ -47832,25 +47720,31 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "11",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaPersonOtherAffiliationUntilOutputPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationUntilPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
                             "name": "childReference"
                         }
                     ],
@@ -47858,26 +47752,19 @@
                 },
                 {
                     "name": "mode",
-                    "value": "output"
-                },
+                    "value": "input"
+                }
+            ],
+            "name": "presentation",
+            "attributes": {"type": "pGroup"}
+        },
+        {
+            "children": [
                 {
                     "children": [
                         {
                             "name": "id",
                             "value": "divaPersonOtherAffiliationOutputPGroup"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
                         },
                         {
                             "children": [
@@ -47906,6 +47793,19 @@
                             "name": "createdBy"
                         },
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
                             "name": "tsCreated",
                             "value": "2018-09-28 13:20:37.280"
                         },
@@ -47931,6 +47831,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-28 13:27:35.395"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -47947,6 +47870,165 @@
                         }
                     ],
                     "name": "presentationOf"
+                },
+                {
+                    "children": [
+                        {
+                            "repeatId": "6",
+                            "children": [{
+                                "repeatId": "0",
+                                "children": [{
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "coraText"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "divaPersonOtherAffiliationTextVarText"
+                                        }
+                                    ],
+                                    "name": "ref",
+                                    "attributes": {"type": "text"}
+                                }],
+                                "name": "refGroup"
+                            }],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "7",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationOutputPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "8",
+                            "children": [{
+                                "repeatId": "0",
+                                "children": [{
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "coraText"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "divaPersonOtherAffiliationFromTextVarText"
+                                        }
+                                    ],
+                                    "name": "ref",
+                                    "attributes": {"type": "text"}
+                                }],
+                                "name": "refGroup"
+                            }],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "9",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationFromOutputPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "10",
+                            "children": [{
+                                "repeatId": "0",
+                                "children": [{
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "coraText"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "divaPersonOtherAffiliationUntilTextVarText"
+                                        }
+                                    ],
+                                    "name": "ref",
+                                    "attributes": {"type": "text"}
+                                }],
+                                "name": "refGroup"
+                            }],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "11",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaPersonOtherAffiliationUntilOutputPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        }
+                    ],
+                    "name": "childReferences"
+                },
+                {
+                    "name": "mode",
+                    "value": "output"
                 }
             ],
             "name": "presentation",
