@@ -4,19 +4,6 @@
             {
                 "children": [
                     {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "diva"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
                         "name": "id",
                         "value": "divaOrganisation:4243100046360469"
                     },
@@ -47,6 +34,19 @@
                         "name": "createdBy"
                     },
                     {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "diva"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
                         "name": "tsCreated",
                         "value": "2018-09-18 12:23:35.645"
                     },
@@ -72,6 +72,29 @@
                             }
                         ],
                         "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412982402853626"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-28 08:06:24.178"
+                            }
+                        ],
+                        "name": "updated"
                     }
                 ],
                 "name": "recordInfo"
@@ -85,8 +108,20 @@
                 "value": "TestOrganisation1"
             },
             {
+                "name": "divaOrganisationBox",
+                "value": "35"
+            },
+            {
+                "name": "divaOrganisationCity",
+                "value": "TestStad"
+            },
+            {
                 "name": "divaOrganisationCountry",
                 "value": "divaOrgSweden"
+            },
+            {
+                "name": "divaOrganisationURL",
+                "value": ""
             },
             {
                 "name": "divaOrganisationOrgType",
@@ -99,18 +134,6 @@
             {
                 "name": "divaOrganisationEligible",
                 "value": "divaOrgYes"
-            },
-            {
-                "name": "divaOrganisationBox",
-                "value": "35"
-            },
-            {
-                "name": "divaOrganisationCity",
-                "value": "TestStad"
-            },
-            {
-                "name": "divaOrganisationURL",
-                "value": ""
             },
             {
                 "name": "divaOrganisationClosed",

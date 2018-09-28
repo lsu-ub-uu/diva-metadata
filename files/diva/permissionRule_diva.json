@@ -118,6 +118,52 @@
                             }
                         ],
                         "name": "updated"
+                    },
+                    {
+                        "repeatId": "4",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-28 07:39:59.303"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "5",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-09-28 07:47:49.304"
+                            }
+                        ],
+                        "name": "updated"
                     }
                 ],
                 "name": "recordInfo"
@@ -146,7 +192,7 @@
                     {
                         "repeatId": "10",
                         "name": "permissionRulePartValue",
-                        "value": "system.organisation"
+                        "value": "system.divaOrganisation"
                     },
                     {
                         "repeatId": "7",
@@ -202,6 +248,11 @@
                         "repeatId": "19",
                         "name": "permissionRulePartValue",
                         "value": "system.report"
+                    },
+                    {
+                        "repeatId": "20",
+                        "name": "permissionRulePartValue",
+                        "value": "system.project"
                     }
                 ],
                 "name": "permissionRulePart",
