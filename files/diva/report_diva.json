@@ -5,19 +5,6 @@
                 {
                     "children": [
                         {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
                             "name": "id",
                             "value": "report:2681115163328087"
                         },
@@ -48,6 +35,19 @@
                             "name": "createdBy"
                         },
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
                             "name": "tsCreated",
                             "value": "2018-08-31 10:30:30.762"
                         },
@@ -73,9 +73,36 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-01 09:34:42.730"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
+                },
+                {
+                    "name": "publicationNoOfAuthors",
+                    "value": "1"
                 },
                 {
                     "children": [
@@ -100,10 +127,6 @@
                         "value": "2018"
                     }],
                     "name": "reportOtherInformation"
-                },
-                {
-                    "name": "publicationNoOfAuthors",
-                    "value": "1"
                 }
             ],
             "name": "report"

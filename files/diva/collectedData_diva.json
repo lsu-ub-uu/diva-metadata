@@ -1119,7 +1119,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "131",
+            "repeatId": "130",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:5368656924943436"
+                },
+                {
+                    "name": "value",
+                    "value": "divaguest@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "132",
             "children": [
                 {
                     "name": "type",
@@ -1145,7 +1171,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "140",
+            "repeatId": "141",
             "children": [
                 {
                     "name": "type",
