@@ -911,7 +911,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "113",
+            "repeatId": "111",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "seriesNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "seriesNew"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "114",
             "children": [
                 {
                     "name": "type",
@@ -937,7 +963,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "115",
+            "repeatId": "116",
             "children": [
                 {
                     "name": "type",
@@ -963,7 +989,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "119",
+            "repeatId": "120",
             "children": [
                 {
                     "name": "type",
@@ -989,7 +1015,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "123",
+            "repeatId": "124",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "seriesGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "series"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "125",
             "children": [
                 {
                     "name": "type",
@@ -1015,7 +1067,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "124",
+            "repeatId": "126",
             "children": [
                 {
                     "name": "type",
@@ -1041,7 +1093,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "125",
+            "repeatId": "127",
             "children": [
                 {
                     "name": "type",
@@ -1067,7 +1119,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "128",
+            "repeatId": "130",
             "children": [
                 {
                     "name": "type",
@@ -1093,7 +1145,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "130",
+            "repeatId": "132",
             "children": [
                 {
                     "name": "type",
@@ -1119,7 +1171,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "131",
+            "repeatId": "133",
             "children": [
                 {
                     "name": "type",
@@ -1145,7 +1197,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "133",
+            "repeatId": "135",
             "children": [
                 {
                     "name": "type",
@@ -1171,7 +1223,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "142",
+            "repeatId": "144",
             "children": [
                 {
                     "name": "type",

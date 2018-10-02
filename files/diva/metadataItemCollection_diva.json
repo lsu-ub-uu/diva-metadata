@@ -859,6 +859,425 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "seriesPublicationTypeCollection"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "metadataItemCollection"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-02 12:17:20.333"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 12:17:20.333"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 12:18:39.653"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "nameInData",
+                    "value": "seriesPublicationType"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "seriesPublicationTypeCollectionText"
+                        }
+                    ],
+                    "name": "textId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "seriesPublicationTypeCollectionDefText"
+                        }
+                    ],
+                    "name": "defTextId"
+                },
+                {
+                    "children": [
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesArticleInJournalItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesArticleBookReviewItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesArticleReviewSurveyItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesArtisticOutputItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "4",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesBookItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesChapterInBookItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "6",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesCollectionEdItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "7",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesConferencePaperItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "8",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesConferenceProceedingsEdItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "9",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesDataSetItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "10",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesDoctoralThesisComprehensiveSummaryItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "11",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesDoctoralThesisMonographItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "12",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesLicentiateThesisComprehensiveSummaryItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "13",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesLicentiateThesisMonographItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "14",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesManuscriptItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "15",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesOtherPubItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "16",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesPatentItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "17",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesReportItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "18",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesStudentThesisItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "19",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "seriesDissertationItem"
+                                }
+                            ],
+                            "name": "ref"
+                        }
+                    ],
+                    "name": "collectionItemReferences"
+                }
+            ],
+            "name": "metadata",
+            "attributes": {"type": "itemCollection"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "publicationURLFreeCollection"
                         },
                         {
@@ -2461,7 +2880,7 @@
                     "children": [
                         {
                             "name": "id",
-                            "value": "seriesPublicatonTypeCollection"
+                            "value": "seriesContentTypeCollection"
                         },
                         {
                             "children": [
@@ -2504,7 +2923,7 @@
                         },
                         {
                             "name": "tsCreated",
-                            "value": "2018-10-02 11:00:53.701"
+                            "value": "2018-10-02 11:58:49.419"
                         },
                         {
                             "repeatId": "0",
@@ -2524,7 +2943,7 @@
                                 },
                                 {
                                     "name": "tsUpdated",
-                                    "value": "2018-10-02 11:00:53.701"
+                                    "value": "2018-10-02 11:58:49.419"
                                 }
                             ],
                             "name": "updated"
@@ -2534,7 +2953,7 @@
                 },
                 {
                     "name": "nameInData",
-                    "value": "seriesPublicatonType"
+                    "value": "seriesContentType"
                 },
                 {
                     "children": [
@@ -2544,7 +2963,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "seriesPublicatonTypeCollectionText"
+                            "value": "seriesContentTypeCollectionText"
                         }
                     ],
                     "name": "textId"
@@ -2557,7 +2976,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "seriesPublicatonTypeCollectionDefText"
+                            "value": "seriesContentTypeCollectionDefText"
                         }
                     ],
                     "name": "defTextId"
@@ -2573,7 +2992,7 @@
                                 },
                                 {
                                     "name": "linkedRecordId",
-                                    "value": "seriesArticleInJournalItem"
+                                    "value": "seriesRefereeItem"
                                 }
                             ],
                             "name": "ref"
@@ -2587,7 +3006,7 @@
                                 },
                                 {
                                     "name": "linkedRecordId",
-                                    "value": "seriesArticleBookReviewItem"
+                                    "value": "seriesOtherAcademicItem"
                                 }
                             ],
                             "name": "ref"
@@ -2601,7 +3020,7 @@
                                 },
                                 {
                                     "name": "linkedRecordId",
-                                    "value": "seriesArticleReviewSurveyItem"
+                                    "value": "seriesOtherItem"
                                 }
                             ],
                             "name": "ref"
@@ -2615,7 +3034,7 @@
                                 },
                                 {
                                     "name": "linkedRecordId",
-                                    "value": "seriesArtisticOutputItem"
+                                    "value": "seriesReviewedItem"
                                 }
                             ],
                             "name": "ref"
@@ -2629,217 +3048,7 @@
                                 },
                                 {
                                     "name": "linkedRecordId",
-                                    "value": "seriesBookItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "5",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesChapterInBookItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "6",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesCollectionEdItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "7",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesConferencePaperItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "8",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesConferenceProceedingsEdItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "9",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesDataSetItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "10",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesDoctoralThesisComprehensiveSummaryItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "11",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesDoctoralThesisMonographItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "12",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesLicentiateThesisComprehensiveSummaryItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "13",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesLicentiateThesisMonographItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "14",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesManuscriptItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "15",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesOtherItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "16",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesPatentItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "17",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesReportItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "18",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesStudentThesisItem"
-                                }
-                            ],
-                            "name": "ref"
-                        },
-                        {
-                            "repeatId": "19",
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "genericCollectionItem"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "seriesDissertationItem"
+                                    "value": "seriesNotReviewedItem"
                                 }
                             ],
                             "name": "ref"
