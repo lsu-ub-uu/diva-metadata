@@ -573,7 +573,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "120",
+            "repeatId": "112",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "languageCollectionItemGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "121",
             "children": [
                 {
                     "name": "type",
@@ -599,7 +625,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "128",
+            "repeatId": "129",
             "children": [
                 {
                     "name": "type",
