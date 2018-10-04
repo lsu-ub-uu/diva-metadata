@@ -53,7 +53,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "9",
+            "repeatId": "10",
             "children": [
                 {
                     "name": "type",
@@ -70,32 +70,6 @@
                 {
                     "name": "value",
                     "value": "bibliographic"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
-            "repeatId": "11",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "authorityGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "authority"
                 },
                 {
                     "name": "dataDivider",
@@ -131,7 +105,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "16",
+            "repeatId": "13",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "authorityGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "authority"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "bibsys"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "17",
             "children": [
                 {
                     "name": "type",
@@ -157,7 +157,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "22",
+            "repeatId": "23",
             "children": [
                 {
                     "name": "type",
@@ -183,7 +183,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "27",
+            "repeatId": "28",
             "children": [
                 {
                     "name": "type",
@@ -209,7 +209,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "29",
+            "repeatId": "30",
             "children": [
                 {
                     "name": "type",
@@ -235,7 +235,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "31",
+            "repeatId": "33",
             "children": [
                 {
                     "name": "type",
@@ -261,7 +261,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "39",
+            "repeatId": "41",
             "children": [
                 {
                     "name": "type",
@@ -287,7 +287,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "40",
+            "repeatId": "42",
             "children": [
                 {
                     "name": "type",
@@ -313,7 +313,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "59",
+            "repeatId": "62",
             "children": [
                 {
                     "name": "type",
@@ -339,7 +339,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "62",
+            "repeatId": "65",
             "children": [
                 {
                     "name": "type",
@@ -365,7 +365,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "68",
+            "repeatId": "71",
             "children": [
                 {
                     "name": "type",
@@ -391,7 +391,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "75",
+            "repeatId": "78",
             "children": [
                 {
                     "name": "type",
@@ -417,7 +417,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "77",
+            "repeatId": "80",
             "children": [
                 {
                     "name": "type",
@@ -443,7 +443,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "80",
+            "repeatId": "83",
             "children": [
                 {
                     "name": "type",
@@ -469,7 +469,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "93",
+            "repeatId": "96",
             "children": [
                 {
                     "name": "type",
@@ -495,7 +495,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "98",
+            "repeatId": "101",
             "children": [
                 {
                     "name": "type",
@@ -521,7 +521,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "107",
+            "repeatId": "110",
             "children": [
                 {
                     "name": "type",
@@ -547,33 +547,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "109",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "countryCollectionItemGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "metadata"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
-            "repeatId": "117",
+            "repeatId": "121",
             "children": [
                 {
                     "name": "type",
@@ -599,7 +573,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "126",
+            "repeatId": "130",
             "children": [
                 {
                     "name": "type",
@@ -625,7 +599,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "136",
+            "repeatId": "141",
             "children": [
                 {
                     "name": "type",

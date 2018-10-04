@@ -1701,21 +1701,21 @@
                 {
                     "children": [
                         {
-                            "name": "id",
-                            "value": "publishingHouseSearch"
+                            "name": "linkedRecordType",
+                            "value": "metadataGroup"
                         },
                         {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
+                            "name": "linkedRecordId",
+                            "value": "publishingHouseAutocompleteSearchGroup"
+                        }
+                    ],
+                    "name": "metadataId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "publishingHouseSearch"
                         },
                         {
                             "children": [
@@ -1744,6 +1744,19 @@
                             "name": "createdBy"
                         },
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
                             "name": "tsCreated",
                             "value": "2018-09-12 12:46:11.687"
                         },
@@ -1769,9 +1782,45 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-04 12:34:55.030"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "presentationGroup"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "publishingHouseAutocompleteSearchPGroup"
+                        }
+                    ],
+                    "name": "presentationId"
                 },
                 {
                     "repeatId": "0",
@@ -1788,30 +1837,8 @@
                     "name": "recordTypeToSearchIn"
                 },
                 {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "metadataGroup"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "autocompleteSearchGroup"
-                        }
-                    ],
-                    "name": "metadataId"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "presentationGroup"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "autocompleteSearchPGroup"
-                        }
-                    ],
-                    "name": "presentationId"
+                    "name": "searchGroup",
+                    "value": "autocomplete"
                 },
                 {
                     "children": [
@@ -1838,10 +1865,6 @@
                         }
                     ],
                     "name": "defTextId"
-                },
-                {
-                    "name": "searchGroup",
-                    "value": "autocomplete"
                 }
             ],
             "name": "search"
