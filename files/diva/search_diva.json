@@ -478,21 +478,21 @@
                 {
                     "children": [
                         {
-                            "name": "id",
-                            "value": "divaPersonSearch"
+                            "name": "linkedRecordType",
+                            "value": "metadataGroup"
                         },
                         {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
+                            "name": "linkedRecordId",
+                            "value": "autocompleteSearchGroup"
+                        }
+                    ],
+                    "name": "metadataId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "divaPersonSearch"
                         },
                         {
                             "children": [
@@ -510,15 +510,28 @@
                         {
                             "children": [
                                 {
-                                    "name": "linkedRecordId",
-                                    "value": "141414"
-                                },
-                                {
                                     "name": "linkedRecordType",
                                     "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
                                 }
                             ],
                             "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
                         },
                         {
                             "name": "tsCreated",
@@ -546,9 +559,45 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-05 09:32:54.229"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "presentationGroup"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "autocompleteSearchPGroup"
+                        }
+                    ],
+                    "name": "presentationId"
                 },
                 {
                     "repeatId": "0",
@@ -565,40 +614,18 @@
                     "name": "recordTypeToSearchIn"
                 },
                 {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "metadataGroup"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "autocompleteSearchGroup"
-                        }
-                    ],
-                    "name": "metadataId"
+                    "name": "searchGroup",
+                    "value": "autocomplete"
                 },
                 {
                     "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "presentationGroup"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "autocompleteSearchPGroup"
-                        }
-                    ],
-                    "name": "presentationId"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordId",
-                            "value": "divaPersonSearchText"
-                        },
                         {
                             "name": "linkedRecordType",
                             "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "divaPersonSearchText"
                         }
                     ],
                     "name": "textId"
@@ -606,19 +633,15 @@
                 {
                     "children": [
                         {
-                            "name": "linkedRecordId",
-                            "value": "divaPersonSearchDefText"
-                        },
-                        {
                             "name": "linkedRecordType",
                             "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "divaPersonSearchDefText"
                         }
                     ],
                     "name": "defTextId"
-                },
-                {
-                    "name": "searchGroup",
-                    "value": "autocomplete"
                 }
             ],
             "name": "search"
