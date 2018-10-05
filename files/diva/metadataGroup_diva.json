@@ -1934,6 +1934,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "15",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-05 08:19:15.068"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -2314,6 +2337,33 @@
                                         {
                                             "name": "linkedRecordId",
                                             "value": "publicationAbstractGroup"
+                                        }
+                                    ],
+                                    "name": "ref"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "13",
+                            "children": [
+                                {
+                                    "name": "repeatMin",
+                                    "value": "0"
+                                },
+                                {
+                                    "name": "repeatMax",
+                                    "value": "1"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataTextVariable"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "publicationNoteTextVar"
                                         }
                                     ],
                                     "name": "ref"
@@ -5333,6 +5383,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "26",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-05 07:50:11.790"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -5389,6 +5462,33 @@
                                         {
                                             "name": "linkedRecordId",
                                             "value": "recordInfoGroup"
+                                        }
+                                    ],
+                                    "name": "ref"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "14",
+                            "children": [
+                                {
+                                    "name": "repeatMin",
+                                    "value": "1"
+                                },
+                                {
+                                    "name": "repeatMax",
+                                    "value": "X"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataRecordLink"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "divaPersonLink"
                                         }
                                     ],
                                     "name": "ref"
@@ -7512,6 +7612,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "15",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-05 08:18:28.830"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -7892,6 +8015,33 @@
                                         {
                                             "name": "linkedRecordId",
                                             "value": "publicationAbstractGroup"
+                                        }
+                                    ],
+                                    "name": "ref"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "13",
+                            "children": [
+                                {
+                                    "name": "repeatMin",
+                                    "value": "0"
+                                },
+                                {
+                                    "name": "repeatMax",
+                                    "value": "1"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataTextVariable"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "publicationNoteTextVar"
                                         }
                                     ],
                                     "name": "ref"
@@ -26015,6 +26165,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "28",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-05 07:50:25.538"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -26071,6 +26244,33 @@
                                         {
                                             "name": "linkedRecordId",
                                             "value": "recordInfoAutogeneratedNewGroup"
+                                        }
+                                    ],
+                                    "name": "ref"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "14",
+                            "children": [
+                                {
+                                    "name": "repeatMin",
+                                    "value": "1"
+                                },
+                                {
+                                    "name": "repeatMax",
+                                    "value": "X"
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "metadataRecordLink"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "divaPersonLink"
                                         }
                                     ],
                                     "name": "ref"
