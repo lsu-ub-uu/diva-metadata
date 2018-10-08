@@ -1261,6 +1261,32 @@
                 },
                 {
                     "name": "id",
+                    "value": "abstractGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "abstract"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "135",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
                     "value": "bookNewGroup"
                 },
                 {
@@ -1275,7 +1301,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "135",
+            "repeatId": "136",
             "children": [
                 {
                     "name": "type",
@@ -1301,7 +1327,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "136",
+            "repeatId": "137",
             "children": [
                 {
                     "name": "type",
@@ -1327,7 +1353,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "137",
+            "repeatId": "138",
             "children": [
                 {
                     "name": "type",
@@ -1353,7 +1379,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "140",
+            "repeatId": "141",
             "children": [
                 {
                     "name": "type",
@@ -1379,7 +1405,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "142",
+            "repeatId": "143",
             "children": [
                 {
                     "name": "type",
@@ -1405,7 +1431,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "143",
+            "repeatId": "144",
             "children": [
                 {
                     "name": "type",
@@ -1431,7 +1457,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "145",
+            "repeatId": "146",
             "children": [
                 {
                     "name": "type",
@@ -1457,7 +1483,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "154",
+            "repeatId": "155",
             "children": [
                 {
                     "name": "type",
