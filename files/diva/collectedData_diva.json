@@ -455,11 +455,11 @@
                 },
                 {
                     "name": "id",
-                    "value": "bookGroup"
+                    "value": "projectGroup"
                 },
                 {
                     "name": "value",
-                    "value": "book"
+                    "value": "project"
                 },
                 {
                     "name": "dataDivider",
@@ -481,11 +481,11 @@
                 },
                 {
                     "name": "id",
-                    "value": "projectGroup"
+                    "value": "bookGroup"
                 },
                 {
                     "name": "value",
-                    "value": "project"
+                    "value": "book"
                 },
                 {
                     "name": "dataDivider",
@@ -975,6 +975,32 @@
                 },
                 {
                     "name": "id",
+                    "value": "artisticOutputIdentifiersGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "artisticOutputIdentifiers"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "108",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
                     "value": "projectIDAndLinksGroup"
                 },
                 {
@@ -989,7 +1015,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "112",
+            "repeatId": "113",
             "children": [
                 {
                     "name": "type",
@@ -1015,7 +1041,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "113",
+            "repeatId": "114",
             "children": [
                 {
                     "name": "type",
@@ -1041,7 +1067,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "115",
+            "repeatId": "116",
             "children": [
                 {
                     "name": "type",
@@ -1067,7 +1093,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "116",
+            "repeatId": "117",
             "children": [
                 {
                     "name": "type",
@@ -1093,7 +1119,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "117",
+            "repeatId": "118",
             "children": [
                 {
                     "name": "type",
@@ -1119,7 +1145,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "119",
+            "repeatId": "120",
             "children": [
                 {
                     "name": "type",
@@ -1145,7 +1171,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "122",
+            "repeatId": "123",
             "children": [
                 {
                     "name": "type",
@@ -1171,7 +1197,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "124",
+            "repeatId": "125",
             "children": [
                 {
                     "name": "type",
@@ -1197,7 +1223,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "128",
+            "repeatId": "129",
             "children": [
                 {
                     "name": "type",
@@ -1223,7 +1249,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "133",
+            "repeatId": "134",
             "children": [
                 {
                     "name": "type",
@@ -1249,7 +1275,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "134",
+            "repeatId": "135",
             "children": [
                 {
                     "name": "type",
@@ -1275,7 +1301,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "135",
+            "repeatId": "136",
             "children": [
                 {
                     "name": "type",
@@ -1292,32 +1318,6 @@
                 {
                     "name": "value",
                     "value": "book"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "diva"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
-            "repeatId": "136",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "collectionEditorNewGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "collectionEditor"
                 },
                 {
                     "name": "dataDivider",
@@ -1379,7 +1379,33 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "141",
+            "repeatId": "139",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "collectionEditorNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "collectionEditor"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "diva"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "142",
             "children": [
                 {
                     "name": "type",
@@ -1405,7 +1431,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "143",
+            "repeatId": "144",
             "children": [
                 {
                     "name": "type",
@@ -1431,7 +1457,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "144",
+            "repeatId": "145",
             "children": [
                 {
                     "name": "type",
@@ -1457,7 +1483,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "146",
+            "repeatId": "147",
             "children": [
                 {
                     "name": "type",
@@ -1483,7 +1509,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "155",
+            "repeatId": "156",
             "children": [
                 {
                     "name": "type",
