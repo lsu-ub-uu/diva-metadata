@@ -21531,6 +21531,75 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "26",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:02:30.925"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "27",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:09:46.733"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "28",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:24:41.289"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -21861,7 +21930,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "12",
+                            "repeatId": "15",
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "h3TextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationChapterInBookPartOfGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "16",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -21873,7 +21970,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationKeywordsPGroup"
+                                                "value": "publicationChapterInBookPartOfPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -21945,12 +22042,8 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "15",
+                            "repeatId": "26",
                             "children": [
-                                {
-                                    "name": "textStyle",
-                                    "value": "h3TextStyle"
-                                },
                                 {
                                     "repeatId": "0",
                                     "children": [{
@@ -21961,19 +22054,23 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationChapterInBookPartOfGroupText"
+                                                "value": "publicationSeriesGroupText"
                                             }
                                         ],
                                         "name": "ref",
                                         "attributes": {"type": "text"}
                                     }],
                                     "name": "refGroup"
+                                },
+                                {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
                                 }
                             ],
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "16",
+                            "repeatId": "27",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -21985,7 +22082,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationChapterInBookPartOfPGroup"
+                                                "value": "publicationSeriesPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -22154,6 +22251,34 @@
                                             {
                                                 "name": "linkedRecordId",
                                                 "value": "bookIdentifiersPGroup"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "12",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationGroup"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationKeywordsPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -32826,6 +32951,52 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "11",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:14:43.142"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "12",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:18:21.164"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -32946,36 +33117,13 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "11",
-                            "children": [
-                                {
-                                    "name": "textStyle",
-                                    "value": "h2TextStyle"
-                                },
-                                {
-                                    "repeatId": "0",
-                                    "children": [{
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "publicationTitlesGroupText"
-                                            }
-                                        ],
-                                        "name": "ref",
-                                        "attributes": {"type": "text"}
-                                    }],
-                                    "name": "refGroup"
-                                }
-                            ],
-                            "name": "childReference"
-                        },
-                        {
                             "repeatId": "12",
                             "children": [
+                                {
+                                    "repeatId": "1",
+                                    "name": "childStyle",
+                                    "value": "zeroChildStyle"
+                                },
                                 {
                                     "repeatId": "0",
                                     "children": [{
@@ -33471,6 +33619,10 @@
                             "repeatId": "29",
                             "children": [
                                 {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
+                                },
+                                {
                                     "repeatId": "0",
                                     "children": [{
                                         "children": [
@@ -33487,10 +33639,6 @@
                                         "attributes": {"type": "text"}
                                     }],
                                     "name": "refGroup"
-                                },
-                                {
-                                    "name": "textStyle",
-                                    "value": "boldTextStyle"
                                 }
                             ],
                             "name": "childReference"
@@ -60784,6 +60932,75 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:14:21.145"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:14:33.992"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "4",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:17:52.710"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -60804,74 +61021,71 @@
                 {
                     "children": [
                         {
-                            "repeatId": "6",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "publicationMainTitleTextVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
                             "repeatId": "7",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "publicationMainTitleOutputPVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "children": [
+                                {
+                                    "repeatId": "1",
+                                    "name": "childStyle",
+                                    "value": "compactChildStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationMainTitleOutputPVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
                             "repeatId": "8",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "publicationSubTitleTextVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "children": [
+                                {
+                                    "repeatId": "1",
+                                    "name": "childStyle",
+                                    "value": "compactChildStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "colonText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
                             "repeatId": "9",
                             "children": [
+                                {
+                                    "repeatId": "1",
+                                    "name": "childStyle",
+                                    "value": "compactChildStyle"
+                                },
                                 {
                                     "repeatId": "0",
                                     "children": [{
@@ -60898,51 +61112,39 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "10",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaLanguageCollectionVarText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
-                            "name": "childReference"
-                        },
-                        {
                             "repeatId": "11",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "presentationCollectionVar"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "divaLanguageOutputPCollVar"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "presentation"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "specificationTextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationCollectionVar"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "divaLanguageOutputPCollVar"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
                             "name": "childReference"
                         }
                     ],
                     "name": "childReferences"
+                },
+                {
+                    "name": "presentationStyle",
+                    "value": "inline"
                 },
                 {
                     "name": "mode",
@@ -63431,6 +63633,98 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "31",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:03:10.433"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "32",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:10:23.124"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "33",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:26:00.056"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "34",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:31:09.740"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -63577,7 +63871,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h2TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -63627,7 +63921,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h2TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -63773,7 +64067,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "13",
+                            "repeatId": "16",
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationChapterInBookPartOfGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "17",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -63785,7 +64107,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationKeywordsPGroup"
+                                                "value": "publicationChapterInBookPartOfPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -63805,7 +64127,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h3TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -63857,29 +64179,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "16",
-                            "children": [{
-                                "repeatId": "0",
-                                "children": [{
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "coraText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "publicationChapterInBookPartOfGroupText"
-                                        }
-                                    ],
-                                    "name": "ref",
-                                    "attributes": {"type": "text"}
-                                }],
-                                "name": "refGroup"
-                            }],
+                            "repeatId": "27",
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationSeriesGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "17",
+                            "repeatId": "28",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -63891,7 +64219,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationChapterInBookPartOfPGroup"
+                                                "value": "publicationSeriesPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -63911,7 +64239,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h2TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -63967,7 +64295,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h2TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -64023,7 +64351,7 @@
                             "children": [
                                 {
                                     "name": "textStyle",
-                                    "value": "h2TextStyle"
+                                    "value": "boldTextStyle"
                                 },
                                 {
                                     "repeatId": "0",
@@ -64060,6 +64388,34 @@
                                             {
                                                 "name": "linkedRecordId",
                                                 "value": "bookIdentifiersPGroup"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "13",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationGroup"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationKeywordsPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -74885,6 +75241,98 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "30",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 12:45:56.558"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "31",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 13:04:20.615"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "32",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:11:03.534"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "33",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-10 15:27:02.459"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -75237,7 +75685,35 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "13",
+                            "repeatId": "16",
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "h3TextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationChapterInBookPartOfGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "17",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -75249,7 +75725,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationKeywordsOutputPGroup"
+                                                "value": "publicationChapterInBookPartOfOutputPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -75321,12 +75797,8 @@
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "16",
+                            "repeatId": "29",
                             "children": [
-                                {
-                                    "name": "textStyle",
-                                    "value": "h3TextStyle"
-                                },
                                 {
                                     "repeatId": "0",
                                     "children": [{
@@ -75337,19 +75809,23 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationChapterInBookPartOfGroupText"
+                                                "value": "publicationSeriesGroupText"
                                             }
                                         ],
                                         "name": "ref",
                                         "attributes": {"type": "text"}
                                     }],
                                     "name": "refGroup"
+                                },
+                                {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
                                 }
                             ],
                             "name": "childReference"
                         },
                         {
-                            "repeatId": "17",
+                            "repeatId": "30",
                             "children": [
                                 {
                                     "repeatId": "0",
@@ -75361,7 +75837,7 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "publicationChapterInBookPartOfOutputPGroup"
+                                                "value": "publicationSeriesOutputPGroup"
                                             }
                                         ],
                                         "name": "ref",
@@ -75540,6 +76016,62 @@
                                 {
                                     "name": "minNumberOfRepeatingToShow",
                                     "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "28",
+                            "children": [
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "presentationGroup"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "publicationKeywordsOutputPGroup"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "presentation"}
+                                    }],
+                                    "name": "refGroup"
+                                },
+                                {
+                                    "name": "minNumberOfRepeatingToShow",
+                                    "value": "1"
+                                }
+                            ],
+                            "name": "childReference"
+                        },
+                        {
+                            "repeatId": "27",
+                            "children": [
+                                {
+                                    "name": "textStyle",
+                                    "value": "boldTextStyle"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "children": [{
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "abstractGroupText"
+                                            }
+                                        ],
+                                        "name": "ref",
+                                        "attributes": {"type": "text"}
+                                    }],
+                                    "name": "refGroup"
                                 }
                             ],
                             "name": "childReference"
