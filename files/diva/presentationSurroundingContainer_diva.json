@@ -1,0 +1,157 @@
+{
+    "children": [{
+        "children": [
+            {
+                "children": [
+                    {
+                        "name": "id",
+                        "value": "journalSubTitleOutputSContainer"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "diva"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "recordType"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "presentationSurroundingContainer"
+                            }
+                        ],
+                        "name": "type"
+                    },
+                    {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "user"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "coraUser:4412982402853626"
+                            }
+                        ],
+                        "name": "createdBy"
+                    },
+                    {
+                        "name": "tsCreated",
+                        "value": "2018-10-12 11:31:08.362"
+                    },
+                    {
+                        "repeatId": "0",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "coraUser:4412982402853626"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-12 11:31:08.362"
+                            }
+                        ],
+                        "name": "updated"
+                    }
+                ],
+                "name": "recordInfo"
+            },
+            {
+                "children": [{
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "metadataGroup"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "journalSubTitleGroup"
+                        }
+                    ],
+                    "name": "presentationOf"
+                }],
+                "name": "presentationsOf"
+            },
+            {
+                "children": [
+                    {
+                        "repeatId": "0",
+                        "children": [{
+                            "repeatId": "0",
+                            "children": [{
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "coraText"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "journalSubTitleGroupText"
+                                    }
+                                ],
+                                "name": "ref",
+                                "attributes": {"type": "text"}
+                            }],
+                            "name": "refGroup"
+                        }],
+                        "name": "childReference"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [{
+                            "repeatId": "0",
+                            "children": [{
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "presentationGroup"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "journalSubTitleOutputPGroup"
+                                    }
+                                ],
+                                "name": "ref",
+                                "attributes": {"type": "presentation"}
+                            }],
+                            "name": "refGroup"
+                        }],
+                        "name": "childReference"
+                    }
+                ],
+                "name": "childReferences"
+            },
+            {
+                "name": "mode",
+                "value": "output"
+            }
+        ],
+        "name": "presentation",
+        "attributes": {
+            "repeat": "children",
+            "type": "container"
+        }
+    }],
+    "name": "recordList"
+}
