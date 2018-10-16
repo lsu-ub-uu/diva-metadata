@@ -210,6 +210,29 @@
                             }
                         ],
                         "name": "updated"
+                    },
+                    {
+                        "repeatId": "8",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-16 13:04:53.955"
+                            }
+                        ],
+                        "name": "updated"
                     }
                 ],
                 "name": "recordInfo"
@@ -309,6 +332,11 @@
                         "repeatId": "22",
                         "name": "permissionRulePartValue",
                         "value": "system.journal"
+                    },
+                    {
+                        "repeatId": "23",
+                        "name": "permissionRulePartValue",
+                        "value": "system.person"
                     }
                 ],
                 "name": "permissionRulePart",

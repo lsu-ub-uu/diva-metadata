@@ -4,8 +4,21 @@
             {
                 "children": [
                     {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "diva"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
                         "name": "id",
-                        "value": "divaPerson:5111838165835366"
+                        "value": "person:452665199963652"
                     },
                     {
                         "children": [
@@ -15,7 +28,7 @@
                             },
                             {
                                 "name": "linkedRecordId",
-                                "value": "divaPerson"
+                                "value": "person"
                             }
                         ],
                         "name": "type"
@@ -34,21 +47,8 @@
                         "name": "createdBy"
                     },
                     {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "diva"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
                         "name": "tsCreated",
-                        "value": "2018-09-28 13:42:33.765"
+                        "value": "2018-10-16 13:05:59.399"
                     },
                     {
                         "repeatId": "0",
@@ -68,30 +68,7 @@
                             },
                             {
                                 "name": "tsUpdated",
-                                "value": "2018-09-28 13:42:33.765"
-                            }
-                        ],
-                        "name": "updated"
-                    },
-                    {
-                        "repeatId": "1",
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "name": "linkedRecordType",
-                                        "value": "user"
-                                    },
-                                    {
-                                        "name": "linkedRecordId",
-                                        "value": "coraUser:4412982402853626"
-                                    }
-                                ],
-                                "name": "updatedBy"
-                            },
-                            {
-                                "name": "tsUpdated",
-                                "value": "2018-09-28 13:42:40.270"
+                                "value": "2018-10-16 13:05:59.399"
                             }
                         ],
                         "name": "updated"
@@ -101,40 +78,41 @@
             },
             {
                 "children": [{
-                    "name": "divaPersonPublic",
+                    "name": "personPublic",
                     "value": "publicYes"
                 }],
-                "name": "divaPersonPublicAuthorityRecord"
+                "name": "personPublicAuthorityRecord"
             },
             {
                 "children": [
                     {
-                        "name": "divaPersonLastName",
-                        "value": "Testsson"
+                        "name": "personLastName",
+                        "value": "sdfsdf"
                     },
                     {
-                        "name": "divaPersonFirstName",
-                        "value": "Test"
+                        "name": "personFirstName",
+                        "value": "sdfsdf"
                     }
                 ],
-                "name": "divaPersonName"
+                "name": "personName"
             },
             {
                 "repeatId": "0",
                 "children": [
                     {
-                        "name": "divaPersonIdentifiers",
-                        "value": "divaORCID"
+                        "name": "personIdentifiersColl",
+                        "value": "divaLocalIdentifier"
                     },
                     {
-                        "name": "divaPersonValue",
-                        "value": "jag vill inte ha en identificator"
+                        "name": "personValue",
+                        "value": "sdfsdf"
                     }
                 ],
-                "name": "divaPersonIdentifiers"
+                "name": "personIdentifiers"
             }
         ],
-        "name": "divaPerson"
+        "name": "person",
+        "attributes": {"type": "person"}
     }],
     "name": "recordList"
 }

@@ -750,6 +750,130 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "personIdentifiersCollectionVar"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "metadataCollectionVariable"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-16 12:29:29.794"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 12:29:29.794"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "nameInData",
+                    "value": "personIdentifiersColl"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "metadataItemCollection"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personIdentifiersCollection"
+                        }
+                    ],
+                    "name": "refCollection"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personIdentifiersCollectionVarText"
+                        }
+                    ],
+                    "name": "textId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personIdentifiersCollectionVarDefText"
+                        }
+                    ],
+                    "name": "defTextId"
+                }
+            ],
+            "name": "metadata",
+            "attributes": {"type": "collectionVariable"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "seriesPublicationTypeCollectionVar"
                         },
                         {
@@ -1976,6 +2100,130 @@
                         {
                             "name": "linkedRecordId",
                             "value": "publicationDOIFreeCollectionVarDefText"
+                        }
+                    ],
+                    "name": "defTextId"
+                }
+            ],
+            "name": "metadata",
+            "attributes": {"type": "collectionVariable"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "personPublicCollectionVar"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "metadataCollectionVariable"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-16 12:05:28.768"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 12:05:28.768"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "nameInData",
+                    "value": "personPublic"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "metadataItemCollection"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personPublicCollection"
+                        }
+                    ],
+                    "name": "refCollection"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personPublicCollectionVarText"
+                        }
+                    ],
+                    "name": "textId"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personPublicCollectionVarDefText"
                         }
                     ],
                     "name": "defTextId"

@@ -348,6 +348,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 13:12:34.570"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -390,7 +413,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "divaPerson"
+                            "value": "person"
                         }
                     ],
                     "name": "linkedRecordType"
@@ -1011,130 +1034,6 @@
                         {
                             "name": "linkedRecordType",
                             "value": "coraText"
-                        }
-                    ],
-                    "name": "defTextId"
-                }
-            ],
-            "name": "metadata",
-            "attributes": {"type": "recordLink"}
-        },
-        {
-            "children": [
-                {
-                    "children": [
-                        {
-                            "name": "id",
-                            "value": "divaPersonLink"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "recordType"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "metadataRecordLink"
-                                }
-                            ],
-                            "name": "type"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "user"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "coraUser:4412982402853626"
-                                }
-                            ],
-                            "name": "createdBy"
-                        },
-                        {
-                            "name": "tsCreated",
-                            "value": "2018-10-05 07:49:15.556"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "user"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "coraUser:4412982402853626"
-                                        }
-                                    ],
-                                    "name": "updatedBy"
-                                },
-                                {
-                                    "name": "tsUpdated",
-                                    "value": "2018-10-05 07:49:15.556"
-                                }
-                            ],
-                            "name": "updated"
-                        }
-                    ],
-                    "name": "recordInfo"
-                },
-                {
-                    "name": "nameInData",
-                    "value": "divaPersonLink"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "recordType"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "divaPerson"
-                        }
-                    ],
-                    "name": "linkedRecordType"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "coraText"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "divaPersonLinkText"
-                        }
-                    ],
-                    "name": "textId"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "coraText"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "divaPersonLinkDefText"
                         }
                     ],
                     "name": "defTextId"
