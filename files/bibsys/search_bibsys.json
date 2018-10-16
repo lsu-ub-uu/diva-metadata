@@ -37,12 +37,12 @@
                         {
                             "children": [
                                 {
-                                    "name": "linkedRecordId",
-                                    "value": "141414"
-                                },
-                                {
                                     "name": "linkedRecordType",
                                     "value": "systemOneUser"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
                                 }
                             ],
                             "name": "createdBy"
@@ -86,6 +86,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 07:15:54.113"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -112,7 +135,7 @@
                         },
                         {
                             "name": "linkedRecordId",
-                            "value": "person"
+                            "value": "divaPerson"
                         }
                     ],
                     "name": "recordTypeToSearchIn"
@@ -124,12 +147,12 @@
                 {
                     "children": [
                         {
-                            "name": "linkedRecordId",
-                            "value": "personSearchText"
-                        },
-                        {
                             "name": "linkedRecordType",
                             "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personSearchText"
                         }
                     ],
                     "name": "textId"
@@ -137,12 +160,12 @@
                 {
                     "children": [
                         {
-                            "name": "linkedRecordId",
-                            "value": "personSearchDefText"
-                        },
-                        {
                             "name": "linkedRecordType",
                             "value": "coraText"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "personSearchDefText"
                         }
                     ],
                     "name": "defTextId"
