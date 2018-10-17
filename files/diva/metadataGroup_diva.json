@@ -12148,19 +12148,6 @@
                             "children": [
                                 {
                                     "name": "linkedRecordType",
-                                    "value": "system"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "diva"
-                                }
-                            ],
-                            "name": "dataDivider"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
                                     "value": "recordType"
                                 },
                                 {
@@ -12182,6 +12169,19 @@
                                 }
                             ],
                             "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
                         },
                         {
                             "name": "tsCreated",
@@ -12206,6 +12206,29 @@
                                 {
                                     "name": "tsUpdated",
                                     "value": "2018-10-16 12:57:40.103"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-17 12:48:26.859"
                                 }
                             ],
                             "name": "updated"
@@ -12264,7 +12287,7 @@
                                         },
                                         {
                                             "name": "linkedRecordId",
-                                            "value": "recordInfoGroup"
+                                            "value": "recordInfoDivaGroup"
                                         }
                                     ],
                                     "name": "ref"
