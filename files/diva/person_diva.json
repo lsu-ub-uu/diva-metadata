@@ -4,19 +4,6 @@
             {
                 "children": [
                     {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "diva"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
                         "name": "id",
                         "value": "person:452665199963652"
                     },
@@ -47,6 +34,19 @@
                         "name": "createdBy"
                     },
                     {
+                        "children": [
+                            {
+                                "name": "linkedRecordType",
+                                "value": "system"
+                            },
+                            {
+                                "name": "linkedRecordId",
+                                "value": "diva"
+                            }
+                        ],
+                        "name": "dataDivider"
+                    },
+                    {
                         "name": "tsCreated",
                         "value": "2018-10-16 13:05:59.399"
                     },
@@ -69,6 +69,29 @@
                             {
                                 "name": "tsUpdated",
                                 "value": "2018-10-16 13:05:59.399"
+                            }
+                        ],
+                        "name": "updated"
+                    },
+                    {
+                        "repeatId": "1",
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "name": "linkedRecordType",
+                                        "value": "user"
+                                    },
+                                    {
+                                        "name": "linkedRecordId",
+                                        "value": "141414"
+                                    }
+                                ],
+                                "name": "updatedBy"
+                            },
+                            {
+                                "name": "tsUpdated",
+                                "value": "2018-10-17 07:12:46.076"
                             }
                         ],
                         "name": "updated"
@@ -111,8 +134,7 @@
                 "name": "personIdentifiers"
             }
         ],
-        "name": "person",
-        "attributes": {"type": "person"}
+        "name": "person"
     }],
     "name": "recordList"
 }
