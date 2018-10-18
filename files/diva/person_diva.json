@@ -1,140 +1,477 @@
 {
-    "children": [{
-        "children": [
-            {
-                "children": [
-                    {
-                        "name": "id",
-                        "value": "person:452665199963652"
-                    },
-                    {
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "person:452665199963652"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "person"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-16 13:05:59.399"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-16 13:05:59.399"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-17 07:12:46.076"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-18 12:47:43.952"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-18 12:54:10.770"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "personPublic",
+                        "value": "publicYes"
+                    }],
+                    "name": "personPublicAuthorityRecord"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Sahlin"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Mona"
+                        },
+                        {
+                            "name": "personAcademicTitle",
+                            "value": "Professor"
+                        },
+                        {
+                            "name": "divaPersonYearOfBirth",
+                            "value": "1955"
+                        },
+                        {
+                            "name": "personEmail",
+                            "value": "mona.sahlin@uu.se"
+                        }
+                    ],
+                    "name": "personName"
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "personIdentifiersColl",
+                            "value": "divaLocalIdentifier"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "123"
+                        },
+                        {
+                            "name": "identifierDomain",
+                            "value": "UU"
+                        }
+                    ],
+                    "name": "personIdentifiers"
+                },
+                {
+                    "repeatId": "1",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Mona-Lisa"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Andersson"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "Mona Ingeborg Sahlin, född Andersson 9 mars 1957 i Sollefteå, är en svensk tidigare politiker, som var partiordförande för Socialdemokraterna mellan 2007 och 2011 samt 1994 och 1995 Sveriges vice statsminister. Hon invaldes som ledamot av Sveriges riksdag första gången 1982 och har haft flera statsrådsposter i Ingvar Carlssons och Göran Perssons regeringar. Mona Sahlin var mellan juli 2014 och maj 2016 Nationell samordnare för att värna demokratin mot våldsbejakande extremism."
+                            },
+                            {
+                                "name": "language",
+                                "value": "sv"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "3",
+                    "children": [
+                        {
+                            "name": "personIdentifiersColl",
+                            "value": "divaORCID"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "0000-0002-6330-5640"
+                        }
+                    ],
+                    "name": "personIdentifiers"
+                },
+                {
+                    "repeatId": "4",
+                    "children": [
+                        {
+                            "name": "personExternalURLLabel",
+                            "value": "Mona Sahlin på Wikipedia"
+                        },
+                        {
+                            "name": "personExternalURL",
+                            "value": "https://sv.wikipedia.org/wiki/Mona_Sahlin"
+                        }
+                    ],
+                    "name": "personURL"
+                }
+            ],
+            "name": "person"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "person:624812837378403"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "person"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-18 12:55:07.036"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-18 12:55:07.036"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "personPublic",
+                        "value": "publicYes"
+                    }],
+                    "name": "personPublicAuthorityRecord"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Svensson"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Bengt"
+                        },
+                        {
+                            "name": "personAcademicTitle",
+                            "value": "körv"
+                        },
+                        {
+                            "name": "divaPersonYearOfBirth",
+                            "value": "2001"
+                        },
+                        {
+                            "name": "personYearOfDeath",
+                            "value": "2002"
+                        },
+                        {
+                            "name": "personEmail",
+                            "value": "bengt.svensson@epost.se"
+                        }
+                    ],
+                    "name": "personName"
+                },
+                {
+                    "repeatId": "4",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Bengtsson"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Sven"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "5",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Klättermus"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Klas"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "personIdentifiersColl",
+                            "value": "divaLocalIdentifier"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "klakl123"
+                        },
+                        {
+                            "name": "identifierDomain",
+                            "value": "uu"
+                        }
+                    ],
+                    "name": "personIdentifiers"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "hej hej"
+                            },
+                            {
+                                "name": "language",
+                                "value": "sv"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "3",
+                    "children": [{
                         "children": [
                             {
                                 "name": "linkedRecordType",
-                                "value": "recordType"
+                                "value": "divaOrganisation"
                             },
                             {
                                 "name": "linkedRecordId",
-                                "value": "person"
+                                "value": "divaOrganisation:4243100046360469"
                             }
                         ],
-                        "name": "type"
-                    },
-                    {
+                        "name": "organisation"
+                    }],
+                    "name": "personAffiliation"
+                },
+                {
+                    "repeatId": "6",
+                    "children": [{
                         "children": [
                             {
-                                "name": "linkedRecordType",
-                                "value": "user"
+                                "name": "personBiography",
+                                "value": "hello hello"
                             },
                             {
-                                "name": "linkedRecordId",
-                                "value": "coraUser:4412982402853626"
+                                "name": "language",
+                                "value": "en"
                             }
                         ],
-                        "name": "createdBy"
-                    },
-                    {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "diva"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
-                        "name": "tsCreated",
-                        "value": "2018-10-16 13:05:59.399"
-                    },
-                    {
-                        "repeatId": "0",
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "name": "linkedRecordType",
-                                        "value": "user"
-                                    },
-                                    {
-                                        "name": "linkedRecordId",
-                                        "value": "coraUser:4412982402853626"
-                                    }
-                                ],
-                                "name": "updatedBy"
-                            },
-                            {
-                                "name": "tsUpdated",
-                                "value": "2018-10-16 13:05:59.399"
-                            }
-                        ],
-                        "name": "updated"
-                    },
-                    {
-                        "repeatId": "1",
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "name": "linkedRecordType",
-                                        "value": "user"
-                                    },
-                                    {
-                                        "name": "linkedRecordId",
-                                        "value": "141414"
-                                    }
-                                ],
-                                "name": "updatedBy"
-                            },
-                            {
-                                "name": "tsUpdated",
-                                "value": "2018-10-17 07:12:46.076"
-                            }
-                        ],
-                        "name": "updated"
-                    }
-                ],
-                "name": "recordInfo"
-            },
-            {
-                "children": [{
-                    "name": "personPublic",
-                    "value": "publicYes"
-                }],
-                "name": "personPublicAuthorityRecord"
-            },
-            {
-                "children": [
-                    {
-                        "name": "personLastName",
-                        "value": "sdfsdf"
-                    },
-                    {
-                        "name": "personFirstName",
-                        "value": "sdfsdf"
-                    }
-                ],
-                "name": "personName"
-            },
-            {
-                "repeatId": "0",
-                "children": [
-                    {
-                        "name": "personIdentifiersColl",
-                        "value": "divaLocalIdentifier"
-                    },
-                    {
-                        "name": "personValue",
-                        "value": "sdfsdf"
-                    }
-                ],
-                "name": "personIdentifiers"
-            }
-        ],
-        "name": "person"
-    }],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                }
+            ],
+            "name": "person",
+            "attributes": {"type": "person"}
+        }
+    ],
     "name": "recordList"
 }
