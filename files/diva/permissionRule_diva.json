@@ -348,6 +348,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "9",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-22 07:38:30.297"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -452,6 +475,11 @@
                             "repeatId": "23",
                             "name": "permissionRulePartValue",
                             "value": "system.person"
+                        },
+                        {
+                            "repeatId": "24",
+                            "name": "permissionRulePartValue",
+                            "value": "system.other"
                         }
                     ],
                     "name": "permissionRulePart",

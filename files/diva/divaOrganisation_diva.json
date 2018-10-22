@@ -1,146 +1,268 @@
 {
-    "children": [{
-        "children": [
-            {
-                "children": [
-                    {
-                        "name": "id",
-                        "value": "divaOrganisation:4243100046360469"
-                    },
-                    {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "recordType"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "divaOrganisation"
-                            }
-                        ],
-                        "name": "type"
-                    },
-                    {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "user"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "141414"
-                            }
-                        ],
-                        "name": "createdBy"
-                    },
-                    {
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "system"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "diva"
-                            }
-                        ],
-                        "name": "dataDivider"
-                    },
-                    {
-                        "name": "tsCreated",
-                        "value": "2018-09-18 12:23:35.645"
-                    },
-                    {
-                        "repeatId": "0",
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "name": "linkedRecordType",
-                                        "value": "user"
-                                    },
-                                    {
-                                        "name": "linkedRecordId",
-                                        "value": "141414"
-                                    }
-                                ],
-                                "name": "updatedBy"
-                            },
-                            {
-                                "name": "tsUpdated",
-                                "value": "2018-09-18 12:23:35.645"
-                            }
-                        ],
-                        "name": "updated"
-                    },
-                    {
-                        "repeatId": "1",
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "name": "linkedRecordType",
-                                        "value": "user"
-                                    },
-                                    {
-                                        "name": "linkedRecordId",
-                                        "value": "coraUser:4412982402853626"
-                                    }
-                                ],
-                                "name": "updatedBy"
-                            },
-                            {
-                                "name": "tsUpdated",
-                                "value": "2018-09-28 08:06:24.178"
-                            }
-                        ],
-                        "name": "updated"
-                    }
-                ],
-                "name": "recordInfo"
-            },
-            {
-                "name": "divaOrganisationName",
-                "value": "TestOrganisation1"
-            },
-            {
-                "name": "divaOrganisationAlternativeName",
-                "value": "TestOrganisation1"
-            },
-            {
-                "name": "divaOrganisationBox",
-                "value": "35"
-            },
-            {
-                "name": "divaOrganisationCity",
-                "value": "TestStad"
-            },
-            {
-                "name": "divaOrganisationCountry",
-                "value": "divaOrgSweden"
-            },
-            {
-                "name": "divaOrganisationURL",
-                "value": ""
-            },
-            {
-                "name": "divaOrganisationOrgType",
-                "value": "divaOrgOther"
-            },
-            {
-                "name": "divaOrganisationOrgNumber",
-                "value": "123456789"
-            },
-            {
-                "name": "divaOrganisationEligible",
-                "value": "divaOrgYes"
-            },
-            {
-                "name": "divaOrganisationClosed",
-                "value": ""
-            }
-        ],
-        "name": "divaOrganisation"
-    }],
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "divaOrganisation:699038933507511"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-19 09:32:13.132"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-19 09:32:13.132"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "divaOrganisationName",
+                    "value": "Naturvårdsverket"
+                },
+                {
+                    "name": "divaOrganisationAlternativeName",
+                    "value": "Swedish Environmental Protection Agency"
+                },
+                {
+                    "name": "divaOrganisationCountry",
+                    "value": "divaOrgSweden"
+                },
+                {
+                    "name": "divaOrganisationOrgType",
+                    "value": "divaOrgAuthorityItem"
+                },
+                {
+                    "name": "divaOrganisationOrgNumber",
+                    "value": "202100-1975"
+                },
+                {
+                    "name": "divaOrganisationEligible",
+                    "value": "divaOrgYes"
+                },
+                {
+                    "name": "divaOrganisationPostcode",
+                    "value": "106 48"
+                },
+                {
+                    "name": "divaOrganisationCity",
+                    "value": "Stockholm"
+                },
+                {
+                    "name": "divaOrganisationURL",
+                    "value": "https://www.naturvardsverket.se/"
+                },
+                {
+                    "name": "divaOrganisationClosed",
+                    "value": ""
+                }
+            ],
+            "name": "divaOrganisation"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
+                            "value": "divaOrganisation:4243100046360469"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "141414"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-09-18 12:23:35.645"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-18 12:23:35.645"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-28 08:06:24.178"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "divaOrganisationName",
+                    "value": "TestOrganisation1"
+                },
+                {
+                    "name": "divaOrganisationAlternativeName",
+                    "value": "TestOrganisation1"
+                },
+                {
+                    "name": "divaOrganisationBox",
+                    "value": "35"
+                },
+                {
+                    "name": "divaOrganisationCity",
+                    "value": "TestStad"
+                },
+                {
+                    "name": "divaOrganisationCountry",
+                    "value": "divaOrgSweden"
+                },
+                {
+                    "name": "divaOrganisationURL",
+                    "value": ""
+                },
+                {
+                    "name": "divaOrganisationOrgType",
+                    "value": "divaOrgOther"
+                },
+                {
+                    "name": "divaOrganisationOrgNumber",
+                    "value": "123456789"
+                },
+                {
+                    "name": "divaOrganisationEligible",
+                    "value": "divaOrgYes"
+                },
+                {
+                    "name": "divaOrganisationClosed",
+                    "value": ""
+                }
+            ],
+            "name": "divaOrganisation"
+        }
+    ],
     "name": "recordList"
 }

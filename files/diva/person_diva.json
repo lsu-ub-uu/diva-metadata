@@ -6,6 +6,331 @@
                     "children": [
                         {
                             "name": "id",
+                            "value": "person:716007452683733"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "person"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-19 14:15:01.651"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-19 14:15:01.651"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-22 08:05:25.670"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-22 08:05:35.270"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "personPublic",
+                        "value": "publicYes"
+                    }],
+                    "name": "personPublicAuthorityRecord"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Marie"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Sörensen"
+                        },
+                        {
+                            "name": "personAcademicTitle",
+                            "value": "Magister-master"
+                        },
+                        {
+                            "name": "personEmail",
+                            "value": "marie.sorensen@ub.uu.se"
+                        },
+                        {
+                            "name": "personYearOfBirth",
+                            "value": "1981"
+                        }
+                    ],
+                    "name": "personName"
+                },
+                {
+                    "repeatId": "4",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Sörensen"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Inger Linda Marie"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "5",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Sörenssen"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Marie"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "personIdentifiersColl",
+                            "value": "divaORCID"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "0000-0001-0002-0003"
+                        }
+                    ],
+                    "name": "personIdentifiers"
+                },
+                {
+                    "repeatId": "1",
+                    "children": [
+                        {
+                            "name": "personExternalURLLabel",
+                            "value": "Min profilsida UU"
+                        },
+                        {
+                            "name": "personExternalURL",
+                            "value": "www.ub.uu.se"
+                        }
+                    ],
+                    "name": "personURL"
+                },
+                {
+                    "repeatId": "7",
+                    "children": [
+                        {
+                            "name": "personExternalURLLabel",
+                            "value": "körvkörv"
+                        },
+                        {
+                            "name": "personExternalURL",
+                            "value": "www.korv.se"
+                        }
+                    ],
+                    "name": "personURL"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "A biography is an account of a person's life. If the production is made by the author himself, it is called autobiography or memoirs. The word biography comes from the Greek biography, of bios, \"life\", and graphō, \"write\". An author of biographies is called cinema. "
+                            },
+                            {
+                                "name": "language",
+                                "value": "en"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "6",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "En biografi är en redogörelse för en persons liv. Om framställningen är gjord av författaren själv kallas den självbiografi eller memoarer. Ordet biografi kommer av grekiskans biographia, av bios, \"liv\", och graphō, \"skriva\". En författare av biografier kallas biograf."
+                            },
+                            {
+                                "name": "language",
+                                "value": "sv"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "12",
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "divaOrganisation"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation:4243100046360469"
+                                }
+                            ],
+                            "name": "organisation"
+                        },
+                        {
+                            "name": "personAffiliationFrom",
+                            "value": "2001"
+                        }
+                    ],
+                    "name": "personAffiliation"
+                },
+                {
+                    "repeatId": "9",
+                    "children": [
+                        {
+                            "name": "personOtherAffiliation",
+                            "value": "Säffle högskola"
+                        },
+                        {
+                            "name": "personAffiliationFrom",
+                            "value": "2001"
+                        },
+                        {
+                            "name": "personAffiliationUntil",
+                            "value": "2004"
+                        }
+                    ],
+                    "name": "personOtherAffiliation"
+                },
+                {
+                    "repeatId": "10",
+                    "children": [
+                        {
+                            "name": "personOtherAffiliation",
+                            "value": "Högskolan i Gävle"
+                        },
+                        {
+                            "name": "personAffiliationFrom",
+                            "value": "2005"
+                        }
+                    ],
+                    "name": "personOtherAffiliation"
+                },
+                {
+                    "repeatId": "11",
+                    "children": [{
+                        "name": "personOtherAffiliation",
+                        "value": "körv"
+                    }],
+                    "name": "personOtherAffiliation"
+                }
+            ],
+            "name": "person"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "name": "id",
                             "value": "person:452665199963652"
                         },
                         {
@@ -142,6 +467,75 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "4",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-18 13:45:47.271"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-19 07:38:51.870"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "6",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-19 09:00:55.166"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -179,6 +573,34 @@
                     "name": "personName"
                 },
                 {
+                    "repeatId": "1",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Andersson"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Ingeborg"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
+                    "repeatId": "5",
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Andersson"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Lisa-Mona"
+                        }
+                    ],
+                    "name": "personAlternativeName"
+                },
+                {
                     "repeatId": "0",
                     "children": [
                         {
@@ -186,46 +608,15 @@
                             "value": "divaLocalIdentifier"
                         },
                         {
-                            "name": "personValue",
-                            "value": "123"
-                        },
-                        {
                             "name": "identifierDomain",
                             "value": "UU"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "123"
                         }
                     ],
                     "name": "personIdentifiers"
-                },
-                {
-                    "repeatId": "1",
-                    "children": [
-                        {
-                            "name": "personLastName",
-                            "value": "Mona-Lisa"
-                        },
-                        {
-                            "name": "personFirstName",
-                            "value": "Andersson"
-                        }
-                    ],
-                    "name": "personAlternativeName"
-                },
-                {
-                    "repeatId": "2",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "personBiography",
-                                "value": "Mona Ingeborg Sahlin, född Andersson 9 mars 1957 i Sollefteå, är en svensk tidigare politiker, som var partiordförande för Socialdemokraterna mellan 2007 och 2011 samt 1994 och 1995 Sveriges vice statsminister. Hon invaldes som ledamot av Sveriges riksdag första gången 1982 och har haft flera statsrådsposter i Ingvar Carlssons och Göran Perssons regeringar. Mona Sahlin var mellan juli 2014 och maj 2016 Nationell samordnare för att värna demokratin mot våldsbejakande extremism."
-                            },
-                            {
-                                "name": "language",
-                                "value": "sv"
-                            }
-                        ],
-                        "name": "personBiographyLanguage"
-                    }],
-                    "name": "personBiography"
                 },
                 {
                     "repeatId": "3",
@@ -254,6 +645,67 @@
                         }
                     ],
                     "name": "personURL"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "Mona Ingeborg Sahlin, född Andersson 9 mars 1957 i Sollefteå, är en svensk tidigare politiker, som var partiordförande för Socialdemokraterna mellan 2007 och 2011 samt 1994 och 1995 Sveriges vice statsminister. Hon invaldes som ledamot av Sveriges riksdag första gången 1982 och har haft flera statsrådsposter i Ingvar Carlssons och Göran Perssons regeringar. Mona Sahlin var mellan juli 2014 och maj 2016 Nationell samordnare för att värna demokratin mot våldsbejakande extremism."
+                            },
+                            {
+                                "name": "language",
+                                "value": "sv"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "6",
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "divaOrganisation"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation:4243100046360469"
+                                }
+                            ],
+                            "name": "organisation"
+                        },
+                        {
+                            "name": "personAffiliationFrom",
+                            "value": "2012"
+                        },
+                        {
+                            "name": "personAffiliationUntil",
+                            "value": "2017"
+                        }
+                    ],
+                    "name": "personAffiliation"
+                },
+                {
+                    "repeatId": "7",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "Mona Ingeborg Sahlin, born Andersson mars 9 1957 in Sollefteå, is a former Swedish politician. "
+                            },
+                            {
+                                "name": "language",
+                                "value": "en"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
                 }
             ],
             "name": "person"

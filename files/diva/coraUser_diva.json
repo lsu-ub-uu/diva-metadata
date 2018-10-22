@@ -327,6 +327,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "6",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-19 09:03:15.466"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -342,54 +365,6 @@
                 {
                     "name": "userLastname",
                     "value": "User"
-                },
-                {
-                    "repeatId": "0",
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "permissionRole"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "binaryUserRole"
-                                }
-                            ],
-                            "name": "userRole"
-                        },
-                        {
-                            "repeatId": "0",
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "collectPermissionTerm"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "systemPermissionTerm"
-                                        }
-                                    ],
-                                    "name": "rule"
-                                },
-                                {
-                                    "repeatId": "2",
-                                    "name": "value",
-                                    "value": "system.system_bibsys"
-                                },
-                                {
-                                    "repeatId": "3",
-                                    "name": "value",
-                                    "value": "system.system_diva"
-                                }
-                            ],
-                            "name": "permissionTermRulePart"
-                        }
-                    ],
-                    "name": "userRole"
                 },
                 {
                     "repeatId": "1",
@@ -531,33 +506,6 @@
                     "name": "userRole"
                 },
                 {
-                    "name": "activeStatus",
-                    "value": "active"
-                },
-                {
-                    "repeatId": "4418450954247422",
-                    "children": [
-                        {
-                            "children": [
-                                {
-                                    "name": "linkedRecordType",
-                                    "value": "appToken"
-                                },
-                                {
-                                    "name": "linkedRecordId",
-                                    "value": "appToken:4418448890420375"
-                                }
-                            ],
-                            "name": "appTokenLink"
-                        },
-                        {
-                            "name": "note",
-                            "value": "JsClient DiVA"
-                        }
-                    ],
-                    "name": "userAppTokenGroup"
-                },
-                {
                     "repeatId": "4418450954247424",
                     "children": [
                         {
@@ -604,6 +552,33 @@
                         }
                     ],
                     "name": "userRole"
+                },
+                {
+                    "name": "activeStatus",
+                    "value": "active"
+                },
+                {
+                    "repeatId": "4418450954247422",
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "appToken"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "appToken:4418448890420375"
+                                }
+                            ],
+                            "name": "appTokenLink"
+                        },
+                        {
+                            "name": "note",
+                            "value": "JsClient DiVA"
+                        }
+                    ],
+                    "name": "userAppTokenGroup"
                 }
             ],
             "name": "user"
