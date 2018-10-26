@@ -1,7 +1,7 @@
 {
     "children": [
         {
-            "repeatId": "4",
+            "repeatId": "3",
             "children": [
                 {
                     "name": "type",
@@ -27,7 +27,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "6",
+            "repeatId": "5",
             "children": [
                 {
                     "name": "type",
@@ -53,7 +53,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "11",
+            "repeatId": "10",
             "children": [
                 {
                     "name": "type",
@@ -79,7 +79,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "13",
+            "repeatId": "12",
             "children": [
                 {
                     "name": "type",
@@ -105,7 +105,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "14",
+            "repeatId": "13",
             "children": [
                 {
                     "name": "type",
@@ -131,7 +131,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "18",
+            "repeatId": "17",
             "children": [
                 {
                     "name": "type",
@@ -157,7 +157,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "24",
+            "repeatId": "22",
             "children": [
                 {
                     "name": "type",
@@ -183,7 +183,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "29",
+            "repeatId": "27",
             "children": [
                 {
                     "name": "type",
@@ -209,7 +209,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "32",
+            "repeatId": "30",
             "children": [
                 {
                     "name": "type",
@@ -235,7 +235,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "35",
+            "repeatId": "33",
             "children": [
                 {
                     "name": "type",
@@ -261,7 +261,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "44",
+            "repeatId": "41",
             "children": [
                 {
                     "name": "type",
@@ -287,7 +287,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "67",
+            "repeatId": "65",
             "children": [
                 {
                     "name": "type",
@@ -313,7 +313,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "73",
+            "repeatId": "70",
             "children": [
                 {
                     "name": "type",
@@ -339,33 +339,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "80",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
-                    "value": "writtenTextNewGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "bibliographic"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
-            "repeatId": "82",
+            "repeatId": "78",
             "children": [
                 {
                     "name": "type",
@@ -391,7 +365,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "85",
+            "repeatId": "81",
             "children": [
                 {
                     "name": "type",
@@ -429,32 +403,6 @@
                 },
                 {
                     "name": "id",
-                    "value": "writtenTextGroup"
-                },
-                {
-                    "name": "value",
-                    "value": "bibliographic"
-                },
-                {
-                    "name": "dataDivider",
-                    "value": "bibsys"
-                }
-            ],
-            "name": "storageTerm"
-        },
-        {
-            "repeatId": "104",
-            "children": [
-                {
-                    "name": "type",
-                    "value": "metadataGroup"
-                },
-                {
-                    "name": "key",
-                    "value": "nameInData"
-                },
-                {
-                    "name": "id",
                     "value": "startDateGroup"
                 },
                 {
@@ -469,7 +417,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "118",
+            "repeatId": "113",
             "children": [
                 {
                     "name": "type",
@@ -495,7 +443,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "130",
+            "repeatId": "125",
             "children": [
                 {
                     "name": "type",
@@ -521,7 +469,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "140",
+            "repeatId": "135",
             "children": [
                 {
                     "name": "type",
@@ -547,7 +495,7 @@
             "name": "storageTerm"
         },
         {
-            "repeatId": "152",
+            "repeatId": "146",
             "children": [
                 {
                     "name": "type",

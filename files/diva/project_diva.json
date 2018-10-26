@@ -119,6 +119,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-23 12:23:36.480"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -157,19 +180,6 @@
                         "name": "projectTitleLanguage"
                     }],
                     "name": "projectTitles"
-                },
-                {
-                    "children": [
-                        {
-                            "name": "linkedRecordType",
-                            "value": "organisation"
-                        },
-                        {
-                            "name": "linkedRecordId",
-                            "value": "somebook"
-                        }
-                    ],
-                    "name": "organisationLink"
                 },
                 {
                     "children": [{

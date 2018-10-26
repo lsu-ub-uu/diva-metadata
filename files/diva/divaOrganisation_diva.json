@@ -5,6 +5,154 @@
                 {
                     "children": [
                         {
+                            "name": "id",
+                            "value": "divaOrganisation:1140505509964931"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-24 12:09:59.709"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-24 12:09:59.709"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-24 12:12:42.761"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "divaOrganisationName",
+                    "value": "Enheten för ufologi"
+                },
+                {
+                    "name": "divaOrganisationAlternativeName",
+                    "value": "Unit of ufology"
+                },
+                {
+                    "name": "divaOrganisationCountry",
+                    "value": "divaOrgSweden"
+                },
+                {
+                    "name": "divaOrganisationURL",
+                    "value": ""
+                },
+                {
+                    "name": "divaOrganisationOrgType",
+                    "value": "divaOrgUnit"
+                },
+                {
+                    "name": "divaOrganisationOrgNumber",
+                    "value": "898988989"
+                },
+                {
+                    "name": "divaOrganisationEligible",
+                    "value": "divaOrgYes"
+                },
+                {
+                    "name": "divaOrganisationClosed",
+                    "value": ""
+                },
+                {
+                    "children": [
+                        {
+                            "name": "linkedRecordType",
+                            "value": "divaOrganisation"
+                        },
+                        {
+                            "name": "linkedRecordId",
+                            "value": "divaOrganisation:1140628749150470"
+                        }
+                    ],
+                    "name": "organisation"
+                }
+            ],
+            "name": "divaOrganisation"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
                             "children": [
                                 {
                                     "name": "linkedRecordType",
@@ -216,25 +364,79 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-23 12:12:39.643"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-23 12:13:31.720"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
                 },
                 {
                     "name": "divaOrganisationName",
-                    "value": "TestOrganisation1"
+                    "value": "Institutionen för konspirationsteorier"
                 },
                 {
                     "name": "divaOrganisationAlternativeName",
-                    "value": "TestOrganisation1"
+                    "value": "Department of conspiracy"
                 },
                 {
                     "name": "divaOrganisationBox",
                     "value": "35"
                 },
                 {
+                    "name": "divaOrganisationStreet",
+                    "value": "Kungsgatan"
+                },
+                {
+                    "name": "divaOrganisationPostcode",
+                    "value": "751 00"
+                },
+                {
                     "name": "divaOrganisationCity",
-                    "value": "TestStad"
+                    "value": "Sala"
                 },
                 {
                     "name": "divaOrganisationCountry",
@@ -246,7 +448,7 @@
                 },
                 {
                     "name": "divaOrganisationOrgType",
-                    "value": "divaOrgOther"
+                    "value": "divaOrgResearchinstitut"
                 },
                 {
                     "name": "divaOrganisationOrgNumber",
@@ -255,6 +457,118 @@
                 {
                     "name": "divaOrganisationEligible",
                     "value": "divaOrgYes"
+                },
+                {
+                    "name": "divaOrganisationClosed",
+                    "value": ""
+                }
+            ],
+            "name": "divaOrganisation"
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "divaOrganisation:1140628749150470"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "divaOrganisation"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-24 12:12:02.948"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-24 12:12:02.948"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "name": "divaOrganisationName",
+                    "value": "Institutionen för konspirationsteorier"
+                },
+                {
+                    "name": "divaOrganisationAlternativeName",
+                    "value": "Institution of conspiracy theories"
+                },
+                {
+                    "name": "divaOrganisationCountry",
+                    "value": "divaOrgSweden"
+                },
+                {
+                    "name": "divaOrganisationOrgType",
+                    "value": "divaOrgInstitution"
+                },
+                {
+                    "name": "divaOrganisationOrgNumber",
+                    "value": "545654654"
+                },
+                {
+                    "name": "divaOrganisationEligible",
+                    "value": "divaOrgYes"
+                },
+                {
+                    "name": "divaOrganisationURL",
+                    "value": ""
                 },
                 {
                     "name": "divaOrganisationClosed",

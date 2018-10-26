@@ -5,6 +5,182 @@
                 {
                     "children": [
                         {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "system"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "diva"
+                                }
+                            ],
+                            "name": "dataDivider"
+                        },
+                        {
+                            "name": "id",
+                            "value": "person:1130788349635970"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "recordType"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "person"
+                                }
+                            ],
+                            "name": "type"
+                        },
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "user"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "coraUser:4412982402853626"
+                                }
+                            ],
+                            "name": "createdBy"
+                        },
+                        {
+                            "name": "tsCreated",
+                            "value": "2018-10-24 09:28:02.549"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-24 09:28:02.549"
+                                }
+                            ],
+                            "name": "updated"
+                        }
+                    ],
+                    "name": "recordInfo"
+                },
+                {
+                    "children": [{
+                        "name": "personPublic",
+                        "value": "publicYes"
+                    }],
+                    "name": "personPublicAuthorityRecord"
+                },
+                {
+                    "children": [
+                        {
+                            "name": "personLastName",
+                            "value": "Lagerlöf"
+                        },
+                        {
+                            "name": "personFirstName",
+                            "value": "Selma"
+                        },
+                        {
+                            "name": "personAcademicTitle",
+                            "value": "lärare"
+                        },
+                        {
+                            "name": "personYearOfBirth",
+                            "value": "1858"
+                        },
+                        {
+                            "name": "personYearOfDeath",
+                            "value": "1940"
+                        },
+                        {
+                            "name": "personEmail",
+                            "value": "selma.lagerlof"
+                        }
+                    ],
+                    "name": "personName"
+                },
+                {
+                    "repeatId": "0",
+                    "children": [
+                        {
+                            "name": "personIdentifiersColl",
+                            "value": "divaORCID"
+                        },
+                        {
+                            "name": "personValue",
+                            "value": "1111-2222-3333-4444"
+                        }
+                    ],
+                    "name": "personIdentifiers"
+                },
+                {
+                    "repeatId": "1",
+                    "children": [
+                        {
+                            "name": "personExternalURLLabel",
+                            "value": "Selma Lagerlöf"
+                        },
+                        {
+                            "name": "personExternalURL",
+                            "value": "https://sv.wikipedia.org/wiki/"
+                        }
+                    ],
+                    "name": "personURL"
+                },
+                {
+                    "repeatId": "2",
+                    "children": [{
+                        "children": [
+                            {
+                                "name": "personBiography",
+                                "value": "År 1891 debuterade Lagerlöf med romanen Gösta Berlings saga efter att ha vunnit en pristävling i tidningen Idun. Lagerlöf färdigställde boken med hjälp av ett stipendium som ordnats av Sophie Adlersparre, grundare av Fredrika-Bremer-Förbundet. Gösta Berlings saga är en av svensk litteraturs största klassiker - en rik och fantastisk skröna om kavaljererna och livet i Värmland på 1800-talet. Den bröt mot dåvarande stilideal som förespråkade realistisk saklighet. Boken fick ett blandat mottagande av kritikerkåren."
+                            },
+                            {
+                                "name": "language",
+                                "value": "sv"
+                            }
+                        ],
+                        "name": "personBiographyLanguage"
+                    }],
+                    "name": "personBiography"
+                },
+                {
+                    "repeatId": "4",
+                    "children": [
+                        {
+                            "name": "personOtherAffiliation",
+                            "value": "Svenska akademien"
+                        },
+                        {
+                            "name": "personAffiliationFrom",
+                            "value": "1914"
+                        }
+                    ],
+                    "name": "personOtherAffiliation"
+                }
+            ],
+            "name": "person",
+            "attributes": {"type": "person"}
+        },
+        {
+            "children": [
+                {
+                    "children": [
+                        {
                             "name": "id",
                             "value": "person:716007452683733"
                         },
@@ -119,6 +295,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "coraUser:4412982402853626"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-23 07:48:08.537"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -145,12 +344,12 @@
                             "value": "Magister-master"
                         },
                         {
-                            "name": "personEmail",
-                            "value": "marie.sorensen@ub.uu.se"
-                        },
-                        {
                             "name": "personYearOfBirth",
                             "value": "1981"
+                        },
+                        {
+                            "name": "personEmail",
+                            "value": "marie.sorensen@ub.uu.se"
                         }
                     ],
                     "name": "personName"
@@ -278,6 +477,10 @@
                         {
                             "name": "personAffiliationFrom",
                             "value": "2001"
+                        },
+                        {
+                            "name": "personAffiliationUntil",
+                            "value": "2018"
                         }
                     ],
                     "name": "personAffiliation"
