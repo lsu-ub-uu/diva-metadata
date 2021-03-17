@@ -46,7 +46,6 @@
 			<resource>
 				<targetPath>storagefiles</targetPath>
 				<directory>files</directory>
-<!-- 				<filtering>true</filtering> -->
 				<includes>
 				</includes>
 			</resource>
