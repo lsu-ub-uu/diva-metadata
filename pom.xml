@@ -26,7 +26,7 @@
 	</parent>
 
 	<artifactId>diva-metadata</artifactId>
-	<version>0.5-SNAPSHOT</version>
+	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>diva-metadata</name>
@@ -44,8 +44,8 @@
 	<build>
 		<resources>
 			<resource>
-				<targetPath>storagefiles</targetPath>
-				<directory>files</directory>
+				<targetPath>dbfiles</targetPath>
+				<directory>dbfiles</directory>
 				<includes>
 				</includes>
 			</resource>
@@ -54,7 +54,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-shade-plugin</artifactId>
-				<version>3.2.0</version>
 				<executions>
 					<execution>
 						<phase>package</phase>
