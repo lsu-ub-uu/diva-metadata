@@ -4,3 +4,6 @@ coraUser	coraUser:491144693381458	userUserIdStorageTerm	dominAdminUU@diva.cora.u
 coraUser	coraUser:490742519075086	userUserIdStorageTerm	divaEverything@diva.cora.uu.se	userId
 coraUser	coraUser:491055276494310	userUserIdStorageTerm	systemAdmin@diva.cora.uu.se	userId
 coraUser	coraUser:1299694997493014	userUserIdStorageTerm	divaFitnesseEverything@system.cora.uu.se	userId
+coraUser	coraUser:542168680454562	userUserIdStorageTerm	fitnesseDomainAdminKTH@user.kth.se	userId
+coraUser	coraUser:542165753711000	userUserIdStorageTerm	fitnesseDomainAdminUU@user.uu.se	userId
+coraUser	coraUser:542161975513761	userUserIdStorageTerm	fitnesseSystemAdmin@user.uu.se	userId
