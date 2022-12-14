@@ -1,4 +1,10 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+appToken	appToken:550887383131183	recordType	appToken
+appToken	appToken:550887383131183	system	divaTestSystem
+appToken	appToken:550887383131183	user	141414
+appToken	appToken:550832952874573	recordType	appToken
+appToken	appToken:550832952874573	system	divaTestSystem
+appToken	appToken:550832952874573	user	141414
 coraUser	coraUser:491055276494310	appToken	appToken:550760950710548
 coraUser	coraUser:491055276494310	permissionRole	divaSystemAdminRole
 coraUser	coraUser:491055276494310	recordType	coraUser
@@ -30,12 +36,6 @@ coraText	rkhTestDiVALoginUnitText	recordType	coraText
 coraText	rkhTestDiVALoginUnitText	system	divaTestSystem
 coraText	rkhTestDiVALoginUnitText	user	coraUser:4412982402853626
 coraText	rkhTestDiVALoginUnitText	user	coraUser:490742519075086
-appToken	appToken:550832952874573	recordType	appToken
-appToken	appToken:550832952874573	system	divaTestSystem
-appToken	appToken:550832952874573	user	141414
-appToken	appToken:550887383131183	recordType	appToken
-appToken	appToken:550887383131183	system	divaTestSystem
-appToken	appToken:550887383131183	user	141414
 coraText	mauTestDiVALoginUnitText	recordType	coraText
 coraText	mauTestDiVALoginUnitText	system	divaTestSystem
 coraText	mauTestDiVALoginUnitText	user	coraUser:4412982402853626
