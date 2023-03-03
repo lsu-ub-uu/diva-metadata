@@ -1400,12 +1400,8 @@ coraText	boCountryItemDefText	user	141414
 coraText	boCountryItemText	recordType	coraText
 coraText	boCountryItemText	user	141414
 coraText	boCountryItemText	system	diva
-coraText	bookGroupDefText	user	141414
-coraText	bookGroupDefText	recordType	coraText
 coraText	bookGroupDefText	system	diva
 coraText	bookGroupDefText	systemOneUser	141414
-coraText	bookGroupText	recordType	coraText
-coraText	bookGroupText	user	141414
 coraText	bookGroupText	system	diva
 coraText	bookGroupText	systemOneUser	141414
 coraText	bookIdentifiersGroupDefText	system	diva
@@ -6191,11 +6187,7 @@ coraText	localUserIDTextVarText	recordType	coraText
 coraText	localUserIDTextVarText	user	coraUser:4412982402853626
 coraText	localUserIDTextVarText	system	diva
 coraText	loginUnitLoginInfoGroupDefText	system	diva
-coraText	loginUnitLoginInfoGroupDefText	user	141414
-coraText	loginUnitLoginInfoGroupDefText	recordType	coraText
 coraText	loginUnitLoginInfoGroupDefText	systemOneUser	141414
-coraText	loginUnitLoginInfoGroupText	user	141414
-coraText	loginUnitLoginInfoGroupText	recordType	coraText
 coraText	loginUnitLoginInfoGroupText	systemOneUser	141414
 coraText	loginUnitLoginInfoGroupText	system	diva
 coraText	lolLanguageItemDefText	user	141414
@@ -10771,12 +10763,8 @@ coraText	searchForJournalText	system	diva
 coraText	searchForJournalText	user	coraUser:4412982402853626
 coraText	searchForJournalText	recordType	coraText
 coraText	searchRecordIdTextVarDefText	system	diva
-coraText	searchRecordIdTextVarDefText	user	141414
 coraText	searchRecordIdTextVarDefText	systemOneUser	141414
-coraText	searchRecordIdTextVarDefText	recordType	coraText
 coraText	searchRecordIdTextVarText	system	diva
-coraText	searchRecordIdTextVarText	user	141414
-coraText	searchRecordIdTextVarText	recordType	coraText
 coraText	searchRecordIdTextVarText	systemOneUser	141414
 coraText	searchTitleTextVarDefText	systemOneUser	141414
 coraText	searchTitleTextVarDefText	recordType	coraText
