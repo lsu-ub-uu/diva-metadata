@@ -59936,8 +59936,10 @@ text	zzaLanguageItemText	user	141414
 text	zzaLanguageItemText	user	coraUser:490742519075086
 text	zzaLanguageItemText	validationType	coraText
 user	161616	appToken	appToken:90785935390926
+user	161616	collectTerm	systemPermissionTerm
 user	161616	permissionRole	binaryUserRole
 user	161616	permissionRole	divaSystemAdminRole
+user	161616	permissionRole	metadataAdmin
 user	161616	permissionRole	userAdminRole
 user	161616	recordType	user
 user	161616	system	diva
