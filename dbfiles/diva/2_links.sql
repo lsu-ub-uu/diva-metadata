@@ -23919,6 +23919,7 @@ presentation	divaTextNewPGroup	presentation	textPartEnPGroup
 presentation	divaTextNewPGroup	presentation	textPartSvPGroup
 presentation	divaTextNewPGroup	recordType	presentation
 presentation	divaTextNewPGroup	system	diva
+presentation	divaTextNewPGroup	text	textPartGroupsHeadlineText
 presentation	divaTextNewPGroup	text	textText
 presentation	divaTextNewPGroup	user	161616
 presentation	divaTextNewPGroup	validationType	presentationGroup
@@ -23936,6 +23937,7 @@ presentation	divaTextPGroup	presentation	textPartEnPGroup
 presentation	divaTextPGroup	presentation	textPartSvPGroup
 presentation	divaTextPGroup	recordType	presentation
 presentation	divaTextPGroup	system	diva
+presentation	divaTextPGroup	text	textPartGroupsHeadlineText
 presentation	divaTextPGroup	text	textText
 presentation	divaTextPGroup	user	161616
 presentation	divaTextPGroup	validationType	presentationGroup
@@ -58962,6 +58964,10 @@ text	trafikverketItemText	system	diva
 text	trafikverketItemText	user	coraUser:4412982402853626
 text	trafikverketItemText	user	coraUser:490742519075086
 text	trafikverketItemText	validationType	coraText
+text	tramsText	recordType	text
+text	tramsText	system	diva
+text	tramsText	user	161616
+text	tramsText	validationType	divaText
 text	translationItemDefText	recordType	text
 text	translationItemDefText	system	diva
 text	translationItemDefText	user	141414
