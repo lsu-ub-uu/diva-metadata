@@ -58964,10 +58964,6 @@ text	trafikverketItemText	system	diva
 text	trafikverketItemText	user	coraUser:4412982402853626
 text	trafikverketItemText	user	coraUser:490742519075086
 text	trafikverketItemText	validationType	coraText
-text	tramsText	recordType	text
-text	tramsText	system	diva
-text	tramsText	user	161616
-text	tramsText	validationType	divaText
 text	translationItemDefText	recordType	text
 text	translationItemDefText	system	diva
 text	translationItemDefText	user	141414
