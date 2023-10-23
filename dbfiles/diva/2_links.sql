@@ -45008,9 +45008,10 @@ text	doctoralThesisComprehensiveSummaryItemText	user	coraUser:490742519075086
 text	doctoralThesisComprehensiveSummaryItemText	validationType	divaText
 text	doctoralThesisContentTypeCollectionVarDefText	recordType	text
 text	doctoralThesisContentTypeCollectionVarDefText	system	diva
+text	doctoralThesisContentTypeCollectionVarDefText	user	161616
 text	doctoralThesisContentTypeCollectionVarDefText	user	coraUser:4412982402853626
 text	doctoralThesisContentTypeCollectionVarDefText	user	coraUser:490742519075086
-text	doctoralThesisContentTypeCollectionVarDefText	validationType	coraText
+text	doctoralThesisContentTypeCollectionVarDefText	validationType	divaText
 text	doctoralThesisContentTypeCollectionVarText	recordType	text
 text	doctoralThesisContentTypeCollectionVarText	system	diva
 text	doctoralThesisContentTypeCollectionVarText	user	141414
@@ -57869,9 +57870,11 @@ text	researchSubjectValidationDefText	user	coraUser:490742519075086
 text	researchSubjectValidationDefText	validationType	divaText
 text	returnText	recordType	text
 text	returnText	system	diva
+text	returnText	user	141414
+text	returnText	user	161616
 text	returnText	user	coraUser:4412982402853626
 text	returnText	user	coraUser:490742519075086
-text	returnText	validationType	coraText
+text	returnText	validationType	divaText
 text	reviewSurveyItemDefText	recordType	text
 text	reviewSurveyItemDefText	system	diva
 text	reviewSurveyItemDefText	user	141414
