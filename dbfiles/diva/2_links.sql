@@ -859,6 +859,12 @@ metadata	adItem	text	adItemText
 metadata	adItem	user	141414
 metadata	adItem	user	coraUser:490742519075086
 metadata	adItem	validationType	genericCollectionItem
+metadata	administrativeNoteTextVar	recordType	metadata
+metadata	administrativeNoteTextVar	system	diva
+metadata	administrativeNoteTextVar	text	administrativeNoteTextVarDefText
+metadata	administrativeNoteTextVar	text	administrativeNoteTextVarText
+metadata	administrativeNoteTextVar	user	161616
+metadata	administrativeNoteTextVar	validationType	metadataTextVariable
 metadata	advancedLevelMasterOneItem	recordType	metadata
 metadata	advancedLevelMasterOneItem	system	diva
 metadata	advancedLevelMasterOneItem	text	advancedLevelMasterOneItemDefText
@@ -5314,6 +5320,7 @@ metadata	divaOrgUSAItem	user	141414
 metadata	divaOrgUSAItem	user	coraUser:490742519075086
 metadata	divaOrgUSAItem	validationType	genericCollectionItem
 metadata	divaOutputGroup	metadata	abstractTextVar
+metadata	divaOutputGroup	metadata	administrativeNoteTextVar
 metadata	divaOutputGroup	metadata	alternativeTitleGroup
 metadata	divaOutputGroup	metadata	archiveNumberTextVar
 metadata	divaOutputGroup	metadata	dateIssuedGroup
@@ -5323,6 +5330,7 @@ metadata	divaOutputGroup	metadata	localIdTextVar
 metadata	divaOutputGroup	metadata	nationalSubjectCategoryLink
 metadata	divaOutputGroup	metadata	numberOfContributorsNumberVar
 metadata	divaOutputGroup	metadata	recordInfoDivaGroup
+metadata	divaOutputGroup	metadata	researchSubjectLink
 metadata	divaOutputGroup	metadata	titleGroup
 metadata	divaOutputGroup	recordType	metadata
 metadata	divaOutputGroup	system	diva
@@ -9124,6 +9132,7 @@ metadata	manLanguageItem	user	141414
 metadata	manLanguageItem	user	coraUser:490742519075086
 metadata	manLanguageItem	validationType	languageCollectionItem
 metadata	manuscript2NewGroup	metadata	abstractTextVar
+metadata	manuscript2NewGroup	metadata	administrativeNoteTextVar
 metadata	manuscript2NewGroup	metadata	alternativeTitleGroup
 metadata	manuscript2NewGroup	metadata	archiveNumberTextVar
 metadata	manuscript2NewGroup	metadata	dateIssuedGroup
@@ -9133,6 +9142,7 @@ metadata	manuscript2NewGroup	metadata	localIdTextVar
 metadata	manuscript2NewGroup	metadata	nationalSubjectCategoryLink
 metadata	manuscript2NewGroup	metadata	numberOfContributorsNumberVar
 metadata	manuscript2NewGroup	metadata	recordInfoManuscriptNewGroup
+metadata	manuscript2NewGroup	metadata	researchSubjectLink
 metadata	manuscript2NewGroup	metadata	titleGroup
 metadata	manuscript2NewGroup	recordType	metadata
 metadata	manuscript2NewGroup	system	diva
@@ -9232,6 +9242,7 @@ metadata	manuscriptOtherInformationGroup	user	coraUser:4412982402853626
 metadata	manuscriptOtherInformationGroup	user	coraUser:490742519075086
 metadata	manuscriptOtherInformationGroup	validationType	metadataGroup
 metadata	manuscriptUpdateGroup	metadata	abstractTextVar
+metadata	manuscriptUpdateGroup	metadata	administrativeNoteTextVar
 metadata	manuscriptUpdateGroup	metadata	alternativeTitleGroup
 metadata	manuscriptUpdateGroup	metadata	archiveNumberTextVar
 metadata	manuscriptUpdateGroup	metadata	dateIssuedGroup
@@ -9241,6 +9252,7 @@ metadata	manuscriptUpdateGroup	metadata	localIdTextVar
 metadata	manuscriptUpdateGroup	metadata	nationalSubjectCategoryLink
 metadata	manuscriptUpdateGroup	metadata	numberOfContributorsNumberVar
 metadata	manuscriptUpdateGroup	metadata	recordInfoManuscriptGroup
+metadata	manuscriptUpdateGroup	metadata	researchSubjectLink
 metadata	manuscriptUpdateGroup	metadata	titleGroup
 metadata	manuscriptUpdateGroup	recordType	metadata
 metadata	manuscriptUpdateGroup	system	diva
@@ -14593,6 +14605,7 @@ metadata	researchSubjectLink	recordType	researchSubject
 metadata	researchSubjectLink	system	diva
 metadata	researchSubjectLink	text	researchSubjectLinkDefText
 metadata	researchSubjectLink	text	researchSubjectLinkText
+metadata	researchSubjectLink	user	161616
 metadata	researchSubjectLink	user	coraUser:4412982402853626
 metadata	researchSubjectLink	user	coraUser:490742519075086
 metadata	researchSubjectLink	validationType	metadataRecordLink
@@ -19550,6 +19563,16 @@ presentation	activeLanguagePCollVar	text	initialEmptyValueText
 presentation	activeLanguagePCollVar	user	coraUser:4412982402853626
 presentation	activeLanguagePCollVar	user	coraUser:490742519075086
 presentation	activeLanguagePCollVar	validationType	presentationCollectionVar
+presentation	administrativeNoteOutputPVar	metadata	administrativeNoteTextVar
+presentation	administrativeNoteOutputPVar	recordType	presentation
+presentation	administrativeNoteOutputPVar	system	diva
+presentation	administrativeNoteOutputPVar	user	161616
+presentation	administrativeNoteOutputPVar	validationType	presentationVar
+presentation	administrativeNotePVar	metadata	administrativeNoteTextVar
+presentation	administrativeNotePVar	recordType	presentation
+presentation	administrativeNotePVar	system	diva
+presentation	administrativeNotePVar	user	161616
+presentation	administrativeNotePVar	validationType	presentationVar
 presentation	alternativeNameLanguageEnOutputPCollVar	metadata	alternativeNameLanguageEnCollectionVar
 presentation	alternativeNameLanguageEnOutputPCollVar	recordType	presentation
 presentation	alternativeNameLanguageEnOutputPCollVar	system	diva
@@ -24160,6 +24183,7 @@ presentation	divaOutputOutputPGroup	user	161616
 presentation	divaOutputOutputPGroup	validationType	presentationGroup
 presentation	divaOutputPGroup	metadata	divaOutputGroup
 presentation	divaOutputPGroup	presentation	abstractOutputPVar
+presentation	divaOutputPGroup	presentation	administrativeNoteOutputPVar
 presentation	divaOutputPGroup	presentation	alternativeTitleOutputPGroup
 presentation	divaOutputPGroup	presentation	archiveNumberOutputPVar
 presentation	divaOutputPGroup	presentation	dateIssuedOutputPGroup
@@ -24169,6 +24193,7 @@ presentation	divaOutputPGroup	presentation	localIdOutputPVar
 presentation	divaOutputPGroup	presentation	nationalSubjectCategoryParentSContainer
 presentation	divaOutputPGroup	presentation	numberOfContributorsOutputPNumVar
 presentation	divaOutputPGroup	presentation	recordInfoDivaOutputPGroup
+presentation	divaOutputPGroup	presentation	researchSubjectParentSContainer
 presentation	divaOutputPGroup	presentation	titleOutputPGroup
 presentation	divaOutputPGroup	recordType	presentation
 presentation	divaOutputPGroup	system	diva
@@ -26887,6 +26912,7 @@ presentation	manuscript2NewOutputPGroup	user	161616
 presentation	manuscript2NewOutputPGroup	validationType	presentationGroup
 presentation	manuscript2NewPGroup	metadata	manuscript2NewGroup
 presentation	manuscript2NewPGroup	presentation	abstractPVar
+presentation	manuscript2NewPGroup	presentation	administrativeNotePVar
 presentation	manuscript2NewPGroup	presentation	alternativeTitlePGroup
 presentation	manuscript2NewPGroup	presentation	archiveNumberPVar
 presentation	manuscript2NewPGroup	presentation	dateIssuedPGroup
@@ -26895,6 +26921,7 @@ presentation	manuscript2NewPGroup	presentation	keywordsPVar
 presentation	manuscript2NewPGroup	presentation	localIdPVar
 presentation	manuscript2NewPGroup	presentation	nationalSubjectCategoryPLink
 presentation	manuscript2NewPGroup	presentation	numberOfContributorsPNumVar
+presentation	manuscript2NewPGroup	presentation	researchSubjectPLink
 presentation	manuscript2NewPGroup	presentation	titlePGroup
 presentation	manuscript2NewPGroup	recordType	presentation
 presentation	manuscript2NewPGroup	system	diva
@@ -27147,6 +27174,7 @@ presentation	manuscriptUpdateOutputPGroup	user	161616
 presentation	manuscriptUpdateOutputPGroup	validationType	presentationGroup
 presentation	manuscriptUpdatePGroup	metadata	manuscriptUpdateGroup
 presentation	manuscriptUpdatePGroup	presentation	abstractPVar
+presentation	manuscriptUpdatePGroup	presentation	administrativeNotePVar
 presentation	manuscriptUpdatePGroup	presentation	alternativeTitlePGroup
 presentation	manuscriptUpdatePGroup	presentation	archiveNumberPVar
 presentation	manuscriptUpdatePGroup	presentation	dateIssuedPGroup
@@ -27155,6 +27183,7 @@ presentation	manuscriptUpdatePGroup	presentation	keywordsPVar
 presentation	manuscriptUpdatePGroup	presentation	localIdPVar
 presentation	manuscriptUpdatePGroup	presentation	nationalSubjectCategoryPLink
 presentation	manuscriptUpdatePGroup	presentation	numberOfContributorsPNumVar
+presentation	manuscriptUpdatePGroup	presentation	researchSubjectPLink
 presentation	manuscriptUpdatePGroup	presentation	titlePGroup
 presentation	manuscriptUpdatePGroup	recordType	presentation
 presentation	manuscriptUpdatePGroup	system	diva
@@ -39794,6 +39823,14 @@ text	adItemText	system	diva
 text	adItemText	user	141414
 text	adItemText	user	coraUser:490742519075086
 text	adItemText	validationType	divaText
+text	administrativeNoteTextVarDefText	recordType	text
+text	administrativeNoteTextVarDefText	system	diva
+text	administrativeNoteTextVarDefText	user	161616
+text	administrativeNoteTextVarDefText	validationType	divaText
+text	administrativeNoteTextVarText	recordType	text
+text	administrativeNoteTextVarText	system	diva
+text	administrativeNoteTextVarText	user	161616
+text	administrativeNoteTextVarText	validationType	divaText
 text	advancedLevelMasterOneItemDefText	recordType	text
 text	advancedLevelMasterOneItemDefText	system	diva
 text	advancedLevelMasterOneItemDefText	user	141414
@@ -58045,6 +58082,7 @@ text	researchSubjectGroupText	validationType	divaText
 text	researchSubjectLinkDefText	recordType	text
 text	researchSubjectLinkDefText	system	diva
 text	researchSubjectLinkDefText	user	141414
+text	researchSubjectLinkDefText	user	161616
 text	researchSubjectLinkDefText	user	coraUser:4412982402853626
 text	researchSubjectLinkDefText	user	coraUser:490742519075086
 text	researchSubjectLinkDefText	validationType	divaText
