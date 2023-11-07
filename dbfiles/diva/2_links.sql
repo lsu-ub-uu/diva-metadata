@@ -20848,7 +20848,7 @@ presentation	authorPGroup	presentation	ORCIDPVar
 presentation	authorPGroup	presentation	organisationPLink
 presentation	authorPGroup	presentation	otherOrganisationPGroup
 presentation	authorPGroup	presentation	otherResearchGroupPVar
-presentation	authorPGroup	presentation	researchGroupPVar
+presentation	authorPGroup	presentation	researchGroupPLink
 presentation	authorPGroup	recordType	presentation
 presentation	authorPGroup	system	diva
 presentation	authorPGroup	user	141414
