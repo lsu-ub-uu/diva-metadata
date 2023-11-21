@@ -19815,7 +19815,6 @@ presentation	alternativeTitlePGroup	presentation	mainTitlePVar
 presentation	alternativeTitlePGroup	presentation	subTitlePVar
 presentation	alternativeTitlePGroup	recordType	presentation
 presentation	alternativeTitlePGroup	system	diva
-presentation	alternativeTitlePGroup	text	alternativeTitleGroupText
 presentation	alternativeTitlePGroup	user	161616
 presentation	alternativeTitlePGroup	validationType	presentationGroup
 presentation	amountPerYearOutputPVar	metadata	amountPerYearTextVar
@@ -37816,7 +37815,6 @@ presentation	titlePGroup	presentation	mainTitlePVar
 presentation	titlePGroup	presentation	subTitlePVar
 presentation	titlePGroup	recordType	presentation
 presentation	titlePGroup	system	diva
-presentation	titlePGroup	text	titleGroupText
 presentation	titlePGroup	user	161616
 presentation	titlePGroup	validationType	presentationGroup
 presentation	titleTypeOutputPCollVar	metadata	titleTypeCollectionVar
