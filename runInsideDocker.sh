@@ -3,7 +3,7 @@
 baseDir="dbfiles"
 
 database="diva"
-dataDividers="diva divaTestSystem divaProdSystem"
+dataDividers="diva divaTestSystem divaProdSystem divaClient"
 
 start(){
 	echo "Running inside docker..."
