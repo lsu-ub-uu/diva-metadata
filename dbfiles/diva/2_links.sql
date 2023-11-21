@@ -24458,7 +24458,6 @@ presentation	divaOutputPGroup	presentation	researchSubjectParentSContainer
 presentation	divaOutputPGroup	presentation	titleOutputPGroup
 presentation	divaOutputPGroup	recordType	presentation
 presentation	divaOutputPGroup	system	diva
-presentation	divaOutputPGroup	text	divaOutputText
 presentation	divaOutputPGroup	user	161616
 presentation	divaOutputPGroup	validationType	presentationGroup
 presentation	divaPersonOutputPLink	metadata	divaPersonLink
@@ -27236,7 +27235,6 @@ presentation	manuscript2NewPGroup	presentation	researchSubjectPLink
 presentation	manuscript2NewPGroup	presentation	titlePGroup
 presentation	manuscript2NewPGroup	recordType	presentation
 presentation	manuscript2NewPGroup	system	diva
-presentation	manuscript2NewPGroup	text	manuscriptUpdateGroupText
 presentation	manuscript2NewPGroup	user	161616
 presentation	manuscript2NewPGroup	validationType	presentationGroup
 presentation	manuscriptAutocompletePGroup	metadata	manuscriptGroup
