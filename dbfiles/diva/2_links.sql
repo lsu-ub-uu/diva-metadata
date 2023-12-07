@@ -24953,7 +24953,6 @@ presentation	divaTextPGroup	presentation	textPartSvPGroup
 presentation	divaTextPGroup	recordType	presentation
 presentation	divaTextPGroup	system	diva
 presentation	divaTextPGroup	text	textPartGroupsHeadlineText
-presentation	divaTextPGroup	text	textText
 presentation	divaTextPGroup	user	161616
 presentation	divaTextPGroup	validationType	presentationGroup
 presentation	divaYearDateOutputPGroup	metadata	divaYearDateGroup
@@ -34645,7 +34644,6 @@ presentation	recordInfoDivaTextPGroup	presentation	idTextOutputPVar
 presentation	recordInfoDivaTextPGroup	presentation	validationTypeDivaTextOutputPLink
 presentation	recordInfoDivaTextPGroup	recordType	presentation
 presentation	recordInfoDivaTextPGroup	system	diva
-presentation	recordInfoDivaTextPGroup	text	recordInfoText
 presentation	recordInfoDivaTextPGroup	user	161616
 presentation	recordInfoDivaTextPGroup	validationType	presentationGroup
 presentation	recordInfoIDLinkOutputPGroup	metadata	recordInfoGroup
