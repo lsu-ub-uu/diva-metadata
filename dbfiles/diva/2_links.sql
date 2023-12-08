@@ -184,6 +184,11 @@ divaOutput	divaOutput:532550934450059	recordType	divaOutput
 divaOutput	divaOutput:532550934450059	system	diva
 divaOutput	divaOutput:532550934450059	user	161616
 divaOutput	divaOutput:532550934450059	validationType	manuscript
+divaOutput	divaOutput:670219874137113	nationalSubjectCategory	nationalSubjectCategory:6325370460697648
+divaOutput	divaOutput:670219874137113	recordType	divaOutput
+divaOutput	divaOutput:670219874137113	system	diva
+divaOutput	divaOutput:670219874137113	user	161616
+divaOutput	divaOutput:670219874137113	validationType	preprint
 domain	domain:1138458407479873	recordType	domain
 domain	domain:1138458407479873	system	diva
 domain	domain:1138458407479873	user	coraUser:4412982402853626
@@ -29706,6 +29711,7 @@ presentation	outputIdentifierOutputSContainer	user	161616
 presentation	outputIdentifierOutputSContainer	validationType	presentationSurroundingContainer
 presentation	outputIdentifierSContainer	metadata	archiveNumberTextVar
 presentation	outputIdentifierSContainer	metadata	localIdTextVar
+presentation	outputIdentifierSContainer	metadata	scopusIdTextVar
 presentation	outputIdentifierSContainer	presentation	archiveNumberPVar
 presentation	outputIdentifierSContainer	presentation	localIdPVar
 presentation	outputIdentifierSContainer	presentation	scopusIdPVar
@@ -31733,6 +31739,7 @@ presentation	preprintNewPGroup	presentation	titlePGroup
 presentation	preprintNewPGroup	recordType	presentation
 presentation	preprintNewPGroup	system	diva
 presentation	preprintNewPGroup	user	161616
+presentation	preprintNewPGroup	user	coraUser:490742519075086
 presentation	preprintNewPGroup	validationType	presentationGroup
 presentation	preprintUpdateOutputPGroup	metadata	preprintUpdateGroup
 presentation	preprintUpdateOutputPGroup	presentation	abstractOutputPVar
@@ -31775,7 +31782,6 @@ presentation	preprintUpdatePGroup	presentation	otherFunderPGroup
 presentation	preprintUpdatePGroup	presentation	otherProjectPGroup
 presentation	preprintUpdatePGroup	presentation	outputURLPGroup
 presentation	preprintUpdatePGroup	presentation	projectPLink
-presentation	preprintUpdatePGroup	presentation	recordInfoPreprintPGroup
 presentation	preprintUpdatePGroup	presentation	researchSubjectPLink
 presentation	preprintUpdatePGroup	presentation	titlePGroup
 presentation	preprintUpdatePGroup	recordType	presentation
