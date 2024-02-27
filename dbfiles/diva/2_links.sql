@@ -841,6 +841,7 @@ text	divaPersonNoPublicRuleDefText	validationType	divaText
 text	divaPersonNoPublicRuleText	recordType	text
 text	divaPersonNoPublicRuleText	system	diva
 text	divaPersonNoPublicRuleText	user	141414
+text	divaPersonNoPublicRuleText	user	161616
 text	divaPersonNoPublicRuleText	user	coraUser:490742519075086
 text	divaPersonNoPublicRuleText	validationType	divaText
 text	divaPublicationTypeRuleDefText	recordType	text
