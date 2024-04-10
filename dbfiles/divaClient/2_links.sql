@@ -1,6 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
 system	divaClient	recordType	system
 system	divaClient	system	divaClient
+system	divaClient	text	divaClientDefText
+system	divaClient	text	divaClientText
+system	divaClient	user	161616
 system	divaClient	user	coraUser:490742519075086
 system	divaClient	validationType	system
 text	divaClient_continueText	recordType	text
