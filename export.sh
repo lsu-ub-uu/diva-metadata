@@ -9,7 +9,10 @@ start(){
 	docker exec  -i $dockerName bash < runInsideDocker.sh
 	echo "Copying files to local export folder..."
 	docker cp $dockerName:/$baseDir/diva ./$baseDir
-	docker cp $dockerName:/$baseDir/divaProdSystem ./$baseDir
+	docker cp $dockerName:/$baseDir/divaPreview ./$baseDir
+	docker cp $dockerName:/$baseDir/divaPre ./$baseDir
+	docker cp $dockerName:/$baseDir/divaProduction ./$baseDir
+	docker cp $dockerName:/$baseDir/divaData ./$baseDir
 	docker cp $dockerName:/$baseDir/divaTestSystem ./$baseDir
 	docker cp $dockerName:/$baseDir/divaClient ./$baseDir
 }
