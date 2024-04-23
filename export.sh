@@ -13,7 +13,6 @@ start(){
 	docker cp $dockerName:/$baseDir/divaPre ./$baseDir
 	docker cp $dockerName:/$baseDir/divaProduction ./$baseDir
 	docker cp $dockerName:/$baseDir/divaData ./$baseDir
-	docker cp $dockerName:/$baseDir/divaTestSystem ./$baseDir
 	docker cp $dockerName:/$baseDir/divaClient ./$baseDir
 }
 
