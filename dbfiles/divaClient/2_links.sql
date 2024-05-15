@@ -66,6 +66,10 @@ text	divaClient_LoginText	recordType	text
 text	divaClient_LoginText	system	divaClient
 text	divaClient_LoginText	user	161616
 text	divaClient_LoginText	validationType	coraText
+text	divaClient_metadataWarningText	recordType	text
+text	divaClient_metadataWarningText	system	divaClient
+text	divaClient_metadataWarningText	user	161616
+text	divaClient_metadataWarningText	validationType	coraText
 text	divaClient_optionNoneText	recordType	text
 text	divaClient_optionNoneText	system	divaClient
 text	divaClient_optionNoneText	user	161616
