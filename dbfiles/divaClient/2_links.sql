@@ -6,6 +6,10 @@ system	divaClient	text	divaClientText
 system	divaClient	user	161616
 system	divaClient	user	coraUser:490742519075086
 system	divaClient	validationType	system
+text	divaClient_breadcrumbStartText	recordType	text
+text	divaClient_breadcrumbStartText	system	divaClient
+text	divaClient_breadcrumbStartText	user	161616
+text	divaClient_breadcrumbStartText	validationType	coraText
 text	divaClient_continueText	recordType	text
 text	divaClient_continueText	system	divaClient
 text	divaClient_continueText	user	161616
