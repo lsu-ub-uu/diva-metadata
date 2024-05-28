@@ -3,6 +3,10 @@ funder	123	recordType	funder
 funder	123	system	divaData
 funder	123	user	161616
 funder	123	validationType	funder
+nationalSubjectCategory	7899	recordType	nationalSubjectCategory
+nationalSubjectCategory	7899	system	divaData
+nationalSubjectCategory	7899	user	161616
+nationalSubjectCategory	7899	validationType	nationalSubjectCategory
 publisher	123	recordType	publisher
 publisher	123	system	divaData
 publisher	123	user	161616
