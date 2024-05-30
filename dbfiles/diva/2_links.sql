@@ -9670,7 +9670,9 @@ presentation	publisherOutputPGroup	system	diva
 presentation	publisherOutputPGroup	user	161616
 presentation	publisherOutputPGroup	validationType	presentationGroup
 presentation	publisherOutputPLink	metadata	publisherLink
+presentation	publisherOutputPLink	presentation	publisherWhenLinkedOutputPGroup
 presentation	publisherOutputPLink	recordType	presentation
+presentation	publisherOutputPLink	recordType	publisher
 presentation	publisherOutputPLink	system	diva
 presentation	publisherOutputPLink	user	161616
 presentation	publisherOutputPLink	validationType	presentationRecordLink

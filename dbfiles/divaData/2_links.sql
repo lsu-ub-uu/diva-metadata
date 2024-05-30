@@ -1,4 +1,16 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+journal	123	recordType	journal
+journal	123	system	divaData
+journal	123	user	161616
+journal	123	validationType	journal
+journal	1234	recordType	journal
+journal	1234	system	divaData
+journal	1234	user	161616
+journal	1234	validationType	journal
+journal	12345	recordType	journal
+journal	12345	system	divaData
+journal	12345	user	161616
+journal	12345	validationType	journal
 nationalSubjectCategory	123	recordType	nationalSubjectCategory
 nationalSubjectCategory	123	system	divaData
 nationalSubjectCategory	123	user	161616
