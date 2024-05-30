@@ -5059,6 +5059,7 @@ metadata	preprintNewGroup	metadata	groupAuthorGroup
 metadata	preprintNewGroup	metadata	keywordsTextVar
 metadata	preprintNewGroup	metadata	librisIdTextVar
 metadata	preprintNewGroup	metadata	localIdTextVar
+metadata	preprintNewGroup	metadata	nationalSubjectCategoryLink
 metadata	preprintNewGroup	metadata	noOfContributorsTextVar
 metadata	preprintNewGroup	metadata	noteDivaTextVar
 metadata	preprintNewGroup	metadata	openAlexIdTextVar
@@ -5099,6 +5100,7 @@ metadata	preprintUpdateGroup	metadata	groupAuthorGroup
 metadata	preprintUpdateGroup	metadata	keywordsTextVar
 metadata	preprintUpdateGroup	metadata	librisIdTextVar
 metadata	preprintUpdateGroup	metadata	localIdTextVar
+metadata	preprintUpdateGroup	metadata	nationalSubjectCategoryLink
 metadata	preprintUpdateGroup	metadata	noOfContributorsTextVar
 metadata	preprintUpdateGroup	metadata	noteDivaTextVar
 metadata	preprintUpdateGroup	metadata	openAlexIdTextVar
@@ -6289,6 +6291,7 @@ metadata	thesisManuscriptNewGroup	metadata	funderGroup
 metadata	thesisManuscriptNewGroup	metadata	geoDataGroup
 metadata	thesisManuscriptNewGroup	metadata	keywordsTextVar
 metadata	thesisManuscriptNewGroup	metadata	localIdTextVar
+metadata	thesisManuscriptNewGroup	metadata	nationalSubjectCategoryLink
 metadata	thesisManuscriptNewGroup	metadata	noOfContributorsTextVar
 metadata	thesisManuscriptNewGroup	metadata	noteDivaTextVar
 metadata	thesisManuscriptNewGroup	metadata	otherFunderGroup
@@ -6321,6 +6324,7 @@ metadata	thesisManuscriptUpdateGroup	metadata	funderGroup
 metadata	thesisManuscriptUpdateGroup	metadata	geoDataGroup
 metadata	thesisManuscriptUpdateGroup	metadata	keywordsTextVar
 metadata	thesisManuscriptUpdateGroup	metadata	localIdTextVar
+metadata	thesisManuscriptUpdateGroup	metadata	nationalSubjectCategoryLink
 metadata	thesisManuscriptUpdateGroup	metadata	noOfContributorsTextVar
 metadata	thesisManuscriptUpdateGroup	metadata	noteDivaTextVar
 metadata	thesisManuscriptUpdateGroup	metadata	otherFunderGroup
