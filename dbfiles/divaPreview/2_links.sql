@@ -17,6 +17,16 @@ appToken	appToken:550887383131183	user	141414
 appToken	appToken:92085366901951	recordType	appToken
 appToken	appToken:92085366901951	system	divaPreview
 appToken	appToken:92085366901951	user	coraUser:1299694997493014
+login	uuPreviewDiVAwr	recordType	login
+login	uuPreviewDiVAwr	system	divaPreview
+login	uuPreviewDiVAwr	user	161616
+login	uuPreviewDiVAwr	validationType	loginWebRedirect
+loginUnit	uuPreviewDiVALoginUnit	login	uuPreviewDiVAwr
+loginUnit	uuPreviewDiVALoginUnit	recordType	loginUnit
+loginUnit	uuPreviewDiVALoginUnit	system	divaPreview
+loginUnit	uuPreviewDiVALoginUnit	text	uuPreviewDiVALoginUnitText
+loginUnit	uuPreviewDiVALoginUnit	user	161616
+loginUnit	uuPreviewDiVALoginUnit	validationType	loginUnit
 permissionRole	divaEverything	permissionRule	divaEverything
 permissionRole	divaEverything	permissionRule	indexBatchJobRule
 permissionRole	divaEverything	permissionRule	metadataUser
@@ -45,6 +55,10 @@ system	divaPreview	text	divaPreviewDefText
 system	divaPreview	text	divaPreviewText
 system	divaPreview	user	161616
 system	divaPreview	validationType	system
+text	uuPreviewDiVALoginUnitText	recordType	text
+text	uuPreviewDiVALoginUnitText	system	divaPreview
+text	uuPreviewDiVALoginUnitText	user	161616
+text	uuPreviewDiVALoginUnitText	validationType	coraText
 user	coraUser:1299694997493014	appToken	appToken:92085366901951
 user	coraUser:1299694997493014	permissionRole	divaEverything
 user	coraUser:1299694997493014	recordType	user
