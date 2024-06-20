@@ -10334,6 +10334,8 @@ presentation	funderOutputPGroup	system	diva
 presentation	funderOutputPGroup	user	161616
 presentation	funderOutputPGroup	validationType	presentationGroup
 presentation	funderOutputPLink	metadata	funderLink
+presentation	funderOutputPLink	presentation	funderWhenLinkedOutputPGroup
+presentation	funderOutputPLink	recordType	funder
 presentation	funderOutputPLink	recordType	presentation
 presentation	funderOutputPLink	system	diva
 presentation	funderOutputPLink	user	161616
@@ -10346,7 +10348,10 @@ presentation	funderPGroup	system	diva
 presentation	funderPGroup	user	161616
 presentation	funderPGroup	validationType	presentationGroup
 presentation	funderPLink	metadata	funderLink
+presentation	funderPLink	presentation	funderWhenLinkedOutputPGroup
+presentation	funderPLink	recordType	funder
 presentation	funderPLink	recordType	presentation
+presentation	funderPLink	search	funderSearch
 presentation	funderPLink	system	diva
 presentation	funderPLink	user	161616
 presentation	funderPLink	validationType	presentationRecordLink
@@ -10414,6 +10419,14 @@ presentation	funderSearchPGroup	recordType	presentation
 presentation	funderSearchPGroup	system	diva
 presentation	funderSearchPGroup	user	161616
 presentation	funderSearchPGroup	validationType	presentationGroup
+presentation	funderWhenLinkedOutputPGroup	metadata	funderRecordTypeGroup
+presentation	funderWhenLinkedOutputPGroup	presentation	acronymOutputPVar
+presentation	funderWhenLinkedOutputPGroup	presentation	endDateWhenLinkedOutputPGroup
+presentation	funderWhenLinkedOutputPGroup	presentation	nameLangWhenLinkedOutputPVar
+presentation	funderWhenLinkedOutputPGroup	recordType	presentation
+presentation	funderWhenLinkedOutputPGroup	system	diva
+presentation	funderWhenLinkedOutputPGroup	user	161616
+presentation	funderWhenLinkedOutputPGroup	validationType	presentationGroup
 presentation	genericSearchOutputPVar	metadata	genericSearchTextVar
 presentation	genericSearchOutputPVar	recordType	presentation
 presentation	genericSearchOutputPVar	system	diva
