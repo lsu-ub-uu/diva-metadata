@@ -30,3 +30,8 @@ series	123	recordType	series
 series	123	system	divaData
 series	123	user	161616
 series	123	validationType	series
+subjectCourse	123	recordType	subjectCourse
+subjectCourse	123	subjectCourse	123
+subjectCourse	123	system	divaData
+subjectCourse	123	user	161616
+subjectCourse	123	validationType	subjectCourse
