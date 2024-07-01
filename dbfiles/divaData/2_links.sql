@@ -9,6 +9,10 @@ divaOutput	divaOutput:17867612285149939	subjectCourse	123
 divaOutput	divaOutput:17867612285149939	system	divaData
 divaOutput	divaOutput:17867612285149939	user	161616
 divaOutput	divaOutput:17867612285149939	validationType	divaOutput
+educationalProgram	123	recordType	educationalProgram
+educationalProgram	123	system	divaData
+educationalProgram	123	user	161616
+educationalProgram	123	validationType	educationalProgram
 funder	987	recordType	funder
 funder	987	system	divaData
 funder	987	user	161616
