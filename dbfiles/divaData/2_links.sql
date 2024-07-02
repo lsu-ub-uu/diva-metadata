@@ -1,6 +1,8 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+divaOutput	divaOutput:17337924140496867	educationalProgram	123
 divaOutput	divaOutput:17337924140496867	nationalSubjectCategory	123
 divaOutput	divaOutput:17337924140496867	recordType	divaOutput
+divaOutput	divaOutput:17337924140496867	subjectCourse	123
 divaOutput	divaOutput:17337924140496867	system	divaData
 divaOutput	divaOutput:17337924140496867	user	161616
 divaOutput	divaOutput:17337924140496867	validationType	divaOutput
@@ -9,6 +11,7 @@ divaOutput	divaOutput:17867612285149939	subjectCourse	123
 divaOutput	divaOutput:17867612285149939	system	divaData
 divaOutput	divaOutput:17867612285149939	user	161616
 divaOutput	divaOutput:17867612285149939	validationType	divaOutput
+educationalProgram	123	educationalProgram	123
 educationalProgram	123	recordType	educationalProgram
 educationalProgram	123	system	divaData
 educationalProgram	123	user	161616
