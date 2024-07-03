@@ -1,4 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+binary	binary:18637654683547587	recordType	binary
+binary	binary:18637654683547587	system	divaData
+binary	binary:18637654683547587	user	161616
+binary	binary:18637654683547587	validationType	genericBinary
+divaOutput	divaOutput:17337924140496867	binary	binary:18637654683547587
 divaOutput	divaOutput:17337924140496867	educationalProgram	123
 divaOutput	divaOutput:17337924140496867	nationalSubjectCategory	123
 divaOutput	divaOutput:17337924140496867	recordType	divaOutput
@@ -6,11 +11,6 @@ divaOutput	divaOutput:17337924140496867	subjectCourse	123
 divaOutput	divaOutput:17337924140496867	system	divaData
 divaOutput	divaOutput:17337924140496867	user	161616
 divaOutput	divaOutput:17337924140496867	validationType	divaOutput
-divaOutput	divaOutput:17867612285149939	recordType	divaOutput
-divaOutput	divaOutput:17867612285149939	subjectCourse	123
-divaOutput	divaOutput:17867612285149939	system	divaData
-divaOutput	divaOutput:17867612285149939	user	161616
-divaOutput	divaOutput:17867612285149939	validationType	divaOutput
 educationalProgram	123	educationalProgram	123
 educationalProgram	123	recordType	educationalProgram
 educationalProgram	123	system	divaData

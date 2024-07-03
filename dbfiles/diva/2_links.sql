@@ -1978,6 +1978,13 @@ metadata	divaDescriptionTextVar	text	divaDescriptionTextVarDefText
 metadata	divaDescriptionTextVar	text	divaDescriptionTextVarText
 metadata	divaDescriptionTextVar	user	161616
 metadata	divaDescriptionTextVar	validationType	metadataTextVariable
+metadata	divaOutputBinaryLink	recordType	binary
+metadata	divaOutputBinaryLink	recordType	metadata
+metadata	divaOutputBinaryLink	system	diva
+metadata	divaOutputBinaryLink	text	divaOutputBinaryLinkDefText
+metadata	divaOutputBinaryLink	text	divaOutputBinaryLinkText
+metadata	divaOutputBinaryLink	user	161616
+metadata	divaOutputBinaryLink	validationType	metadataRecordLink
 metadata	divaOutputGroup	collectTerm	genericCollectIndexTerm
 metadata	divaOutputGroup	collectTerm	idCollectIndexTerm
 metadata	divaOutputGroup	metadata	abstractTextVar
@@ -1991,6 +1998,7 @@ metadata	divaOutputGroup	metadata	conferenceGroup
 metadata	divaOutputGroup	metadata	contentTypeCollectionVar
 metadata	divaOutputGroup	metadata	dateIssuedGroup
 metadata	divaOutputGroup	metadata	defenceGroup
+metadata	divaOutputGroup	metadata	divaOutputBinaryLink
 metadata	divaOutputGroup	metadata	doiTextVar
 metadata	divaOutputGroup	metadata	domainCollectionVar
 metadata	divaOutputGroup	metadata	durationGroup
@@ -2099,6 +2107,7 @@ metadata	divaOutputNewGroup	metadata	conferenceGroup
 metadata	divaOutputNewGroup	metadata	contentTypeCollectionVar
 metadata	divaOutputNewGroup	metadata	dateIssuedGroup
 metadata	divaOutputNewGroup	metadata	defenceGroup
+metadata	divaOutputNewGroup	metadata	divaOutputBinaryLink
 metadata	divaOutputNewGroup	metadata	doiTextVar
 metadata	divaOutputNewGroup	metadata	domainCollectionVar
 metadata	divaOutputNewGroup	metadata	durationGroup
@@ -3424,6 +3433,7 @@ metadata	hostOutputGroup	metadata	otherEditorTextVar
 metadata	hostOutputGroup	metadata	otherJournalGroup
 metadata	hostOutputGroup	metadata	otherPublisherGroup
 metadata	hostOutputGroup	metadata	otherSeriesGroup
+metadata	hostOutputGroup	metadata	pagesTextVar
 metadata	hostOutputGroup	metadata	pmidTextVar
 metadata	hostOutputGroup	metadata	publisherGroup
 metadata	hostOutputGroup	metadata	scopusIdTextVar
@@ -10149,6 +10159,16 @@ presentation	divaOutputAutocompletePGroup	recordType	presentation
 presentation	divaOutputAutocompletePGroup	system	diva
 presentation	divaOutputAutocompletePGroup	user	161616
 presentation	divaOutputAutocompletePGroup	validationType	presentationGroup
+presentation	divaOutputBinaryOutputPLink	metadata	divaOutputBinaryLink
+presentation	divaOutputBinaryOutputPLink	recordType	presentation
+presentation	divaOutputBinaryOutputPLink	system	diva
+presentation	divaOutputBinaryOutputPLink	user	161616
+presentation	divaOutputBinaryOutputPLink	validationType	presentationRecordLink
+presentation	divaOutputBinaryPLink	metadata	divaOutputBinaryLink
+presentation	divaOutputBinaryPLink	recordType	presentation
+presentation	divaOutputBinaryPLink	system	diva
+presentation	divaOutputBinaryPLink	user	161616
+presentation	divaOutputBinaryPLink	validationType	presentationRecordLink
 presentation	divaOutputIdsSearchOutputPVar	metadata	divaOutputIdsSearchTextVar
 presentation	divaOutputIdsSearchOutputPVar	recordType	presentation
 presentation	divaOutputIdsSearchOutputPVar	system	diva
@@ -10242,6 +10262,7 @@ presentation	divaOutputOutputPGroup	presentation	conferenceOutputPGroup
 presentation	divaOutputOutputPGroup	presentation	contentTypeOutputPCollVar
 presentation	divaOutputOutputPGroup	presentation	dateIssuedOutputPGroup
 presentation	divaOutputOutputPGroup	presentation	defenceOutputPGroup
+presentation	divaOutputOutputPGroup	presentation	divaOutputBinaryOutputPLink
 presentation	divaOutputOutputPGroup	presentation	doiOutputPVar
 presentation	divaOutputOutputPGroup	presentation	domainOutputPCollVar
 presentation	divaOutputOutputPGroup	presentation	durationOutputPGroup
@@ -10315,6 +10336,7 @@ presentation	divaOutputPGroup	presentation	conferencePGroup
 presentation	divaOutputPGroup	presentation	contentTypePCollVar
 presentation	divaOutputPGroup	presentation	dateIssuedPGroup
 presentation	divaOutputPGroup	presentation	defencePGroup
+presentation	divaOutputPGroup	presentation	divaOutputBinaryPLink
 presentation	divaOutputPGroup	presentation	doiPVar
 presentation	divaOutputPGroup	presentation	domainPCollVar
 presentation	divaOutputPGroup	presentation	durationPGroup
@@ -11103,6 +11125,7 @@ presentation	hostOutputOutputPGroup	presentation	otherEditorOutputPVar
 presentation	hostOutputOutputPGroup	presentation	otherJournalOutputPGroup
 presentation	hostOutputOutputPGroup	presentation	otherPublisherOutputPGroup
 presentation	hostOutputOutputPGroup	presentation	otherSeriesOutputPGroup
+presentation	hostOutputOutputPGroup	presentation	pagesOutputPVar
 presentation	hostOutputOutputPGroup	presentation	pmidOutputPVar
 presentation	hostOutputOutputPGroup	presentation	publisherOutputPGroup
 presentation	hostOutputOutputPGroup	presentation	scopusIdOutputPVar
@@ -11134,6 +11157,7 @@ presentation	hostOutputPGroup	presentation	otherEditorPVar
 presentation	hostOutputPGroup	presentation	otherJournalPGroup
 presentation	hostOutputPGroup	presentation	otherPublisherPGroup
 presentation	hostOutputPGroup	presentation	otherSeriesPGroup
+presentation	hostOutputPGroup	presentation	pagesPVar
 presentation	hostOutputPGroup	presentation	pmidPVar
 presentation	hostOutputPGroup	presentation	publisherPGroup
 presentation	hostOutputPGroup	presentation	scopusIdPVar
@@ -16577,6 +16601,14 @@ text	divaOutputBasicRuleText	system	diva
 text	divaOutputBasicRuleText	user	161616
 text	divaOutputBasicRuleText	user	coraUser:490742519075086
 text	divaOutputBasicRuleText	validationType	divaText
+text	divaOutputBinaryLinkDefText	recordType	text
+text	divaOutputBinaryLinkDefText	system	diva
+text	divaOutputBinaryLinkDefText	user	161616
+text	divaOutputBinaryLinkDefText	validationType	divaText
+text	divaOutputBinaryLinkText	recordType	text
+text	divaOutputBinaryLinkText	system	diva
+text	divaOutputBinaryLinkText	user	161616
+text	divaOutputBinaryLinkText	validationType	divaText
 text	divaOutputDefText	recordType	text
 text	divaOutputDefText	system	diva
 text	divaOutputDefText	user	161616
