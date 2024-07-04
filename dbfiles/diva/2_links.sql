@@ -24836,6 +24836,7 @@ user	161616	permissionRole	userAdminRole
 user	161616	recordType	user
 user	161616	system	diva
 user	161616	user	141414
+user	161616	user	161616
 user	161616	user	coraUser:490742519075086
 user	161616	validationType	systemOneUser
 user	coraUser:4412982402853626	appToken	appToken:4418448890420375
@@ -24845,6 +24846,7 @@ user	coraUser:4412982402853626	permissionRole	metadataUserRole
 user	coraUser:4412982402853626	recordType	user
 user	coraUser:4412982402853626	system	diva
 user	coraUser:4412982402853626	user	141414
+user	coraUser:4412982402853626	user	161616
 user	coraUser:4412982402853626	user	coraUser:4412982402853626
 user	coraUser:4412982402853626	user	coraUser:490742519075086
 user	coraUser:4412982402853626	validationType	coraUser
