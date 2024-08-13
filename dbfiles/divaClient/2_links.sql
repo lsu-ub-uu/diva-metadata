@@ -106,3 +106,7 @@ text	divaClient_updatePublicationText	recordType	text
 text	divaClient_updatePublicationText	system	divaClient
 text	divaClient_updatePublicationText	user	161616
 text	divaClient_updatePublicationText	validationType	coraText
+text	uuDivaPasswordLoginUnitText	recordType	text
+text	uuDivaPasswordLoginUnitText	system	divaClient
+text	uuDivaPasswordLoginUnitText	user	161616
+text	uuDivaPasswordLoginUnitText	validationType	coraText
