@@ -13,5 +13,4 @@ user	user:15434061862856387	userUserIdStorageTerm	evaag112@user.uu.se	userId
 user	user:15434085053834213	userUserIdStorageTerm	danfl648@user.uu.se	userId
 user	user:15434132643259965	userUserIdStorageTerm	palra847@user.uu.se	userId
 user	user:15434154245590545	userUserIdStorageTerm	olfel499@user.uu.se	userId
-user	user:15434173490349282	userUserIdStorageTerm	petth315@user.uu.se	userId
 user	user:15434188209615056	userUserIdStorageTerm	stand516@user.uu.se	userId
