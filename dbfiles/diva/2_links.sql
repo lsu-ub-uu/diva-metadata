@@ -26772,7 +26772,6 @@ text	zzaLangItemText	recordType	text
 text	zzaLangItemText	system	diva
 text	zzaLangItemText	user	161616
 text	zzaLangItemText	validationType	divaText
-user	161616	appToken	appToken:90785935390926
 user	161616	collectTerm	systemPermissionTerm
 user	161616	permissionRole	binaryUserRole
 user	161616	permissionRole	divaIndexEverythingRole
@@ -26786,7 +26785,6 @@ user	161616	user	141414
 user	161616	user	161616
 user	161616	user	coraUser:490742519075086
 user	161616	validationType	systemOneUser
-user	coraUser:4412982402853626	appToken	appToken:4418448890420375
 user	coraUser:4412982402853626	collectTerm	systemPermissionTerm
 user	coraUser:4412982402853626	permissionRole	divaEverything
 user	coraUser:4412982402853626	permissionRole	metadataUserRole

@@ -1,22 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-appToken	appToken:501306394142378	recordType	appToken
-appToken	appToken:501306394142378	system	divaPreview
-appToken	appToken:501306394142378	user	141414
-appToken	appToken:550642063226274	recordType	appToken
-appToken	appToken:550642063226274	system	divaPreview
-appToken	appToken:550642063226274	user	141414
-appToken	appToken:550760950710548	recordType	appToken
-appToken	appToken:550760950710548	system	divaPreview
-appToken	appToken:550760950710548	user	141414
-appToken	appToken:550832952874573	recordType	appToken
-appToken	appToken:550832952874573	system	divaPreview
-appToken	appToken:550832952874573	user	141414
-appToken	appToken:550887383131183	recordType	appToken
-appToken	appToken:550887383131183	system	divaPreview
-appToken	appToken:550887383131183	user	141414
-appToken	appToken:92085366901951	recordType	appToken
-appToken	appToken:92085366901951	system	divaPreview
-appToken	appToken:92085366901951	user	coraUser:1299694997493014
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616
@@ -59,7 +41,6 @@ text	uuPreviewDiVALoginUnitText	recordType	text
 text	uuPreviewDiVALoginUnitText	system	divaPreview
 text	uuPreviewDiVALoginUnitText	user	161616
 text	uuPreviewDiVALoginUnitText	validationType	coraText
-user	coraUser:1299694997493014	appToken	appToken:92085366901951
 user	coraUser:1299694997493014	permissionRole	divaEverything
 user	coraUser:1299694997493014	recordType	user
 user	coraUser:1299694997493014	system	divaPreview
@@ -69,7 +50,6 @@ user	coraUser:1299694997493014	user	161616
 user	coraUser:1299694997493014	user	coraUser:1299694997493014
 user	coraUser:1299694997493014	user	coraUser:490742519075086
 user	coraUser:1299694997493014	validationType	coraUser
-user	coraUser:490742519075086	appToken	appToken:550642063226274
 user	coraUser:490742519075086	permissionRole	divaEverything
 user	coraUser:490742519075086	recordType	user
 user	coraUser:490742519075086	system	divaPreview
@@ -78,7 +58,6 @@ user	coraUser:490742519075086	user	141414
 user	coraUser:490742519075086	user	161616
 user	coraUser:490742519075086	user	coraUser:490742519075086
 user	coraUser:490742519075086	validationType	coraUser
-user	coraUser:491055276494310	appToken	appToken:550760950710548
 user	coraUser:491055276494310	permissionRole	divaSystemAdminRole
 user	coraUser:491055276494310	recordType	user
 user	coraUser:491055276494310	system	divaPreview
@@ -87,7 +66,6 @@ user	coraUser:491055276494310	user	141414
 user	coraUser:491055276494310	user	161616
 user	coraUser:491055276494310	user	coraUser:490742519075086
 user	coraUser:491055276494310	validationType	coraUser
-user	coraUser:491144693381458	appToken	appToken:550832952874573
 user	coraUser:491144693381458	collectTerm	domainPermissionTerm
 user	coraUser:491144693381458	permissionRole	divaDomainAdminRole
 user	coraUser:491144693381458	recordType	user
@@ -97,7 +75,6 @@ user	coraUser:491144693381458	user	141414
 user	coraUser:491144693381458	user	161616
 user	coraUser:491144693381458	user	coraUser:490742519075086
 user	coraUser:491144693381458	validationType	coraUser
-user	coraUser:491201365536105	appToken	appToken:550887383131183
 user	coraUser:491201365536105	collectTerm	domainPermissionTerm
 user	coraUser:491201365536105	permissionRole	divaDomainAdminRole
 user	coraUser:491201365536105	recordType	user
