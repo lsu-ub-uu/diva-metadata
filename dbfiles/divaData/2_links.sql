@@ -1,1 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+divaOutput	divaOutput:233104131285323	recordType	divaOutput
+divaOutput	divaOutput:233104131285323	system	divaData
+divaOutput	divaOutput:233104131285323	user	161616
+divaOutput	divaOutput:233104131285323	validationType	divaOutput
+divaOutputSwepub	divaOutputSwepub:160377116662488	recordType	divaOutputSwepub
+divaOutputSwepub	divaOutputSwepub:160377116662488	system	divaData
+divaOutputSwepub	divaOutputSwepub:160377116662488	user	161616
+divaOutputSwepub	divaOutputSwepub:160377116662488	validationType	divaOutputSwepub
