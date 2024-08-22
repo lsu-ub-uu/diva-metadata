@@ -2342,6 +2342,7 @@ metadata	divaOutputSwepubUpdateGroup	metadata	identifierDoiTextVar
 metadata	divaOutputSwepubUpdateGroup	metadata	identifierIsbnTextVar
 metadata	divaOutputSwepubUpdateGroup	metadata	keywordsGroup
 metadata	divaOutputSwepubUpdateGroup	metadata	languageGroup
+metadata	divaOutputSwepubUpdateGroup	metadata	noteTextVar
 metadata	divaOutputSwepubUpdateGroup	metadata	originInfoGroup
 metadata	divaOutputSwepubUpdateGroup	metadata	recordContentSourceCollectionVar
 metadata	divaOutputSwepubUpdateGroup	metadata	recordInfoDivaOutputSwepubGroup
@@ -6222,6 +6223,12 @@ metadata	noteDivaTextVar	text	noteDivaTextVarDefText
 metadata	noteDivaTextVar	text	noteDivaTextVarText
 metadata	noteDivaTextVar	user	161616
 metadata	noteDivaTextVar	validationType	metadataTextVariable
+metadata	noteTextVar	recordType	metadata
+metadata	noteTextVar	system	diva
+metadata	noteTextVar	text	noteTextVarDefText
+metadata	noteTextVar	text	noteTextVarText
+metadata	noteTextVar	user	161616
+metadata	noteTextVar	validationType	metadataTextVariable
 metadata	npCountryItem	recordType	metadata
 metadata	npCountryItem	system	diva
 metadata	npCountryItem	text	npCountryItemDefText
@@ -7132,7 +7139,7 @@ metadata	preprintNewGroup	metadata	domainCollectionVar
 metadata	preprintNewGroup	metadata	funderGroup
 metadata	preprintNewGroup	metadata	geoDataGroup
 metadata	preprintNewGroup	metadata	groupAuthorGroup
-metadata	preprintNewGroup	metadata	keywordsTextVar
+metadata	preprintNewGroup	metadata	keywordsGroup
 metadata	preprintNewGroup	metadata	librisIdTextVar
 metadata	preprintNewGroup	metadata	localIdTextVar
 metadata	preprintNewGroup	metadata	nationalSubjectCategoryLink
@@ -7173,7 +7180,7 @@ metadata	preprintUpdateGroup	metadata	domainCollectionVar
 metadata	preprintUpdateGroup	metadata	funderGroup
 metadata	preprintUpdateGroup	metadata	geoDataGroup
 metadata	preprintUpdateGroup	metadata	groupAuthorGroup
-metadata	preprintUpdateGroup	metadata	keywordsTextVar
+metadata	preprintUpdateGroup	metadata	keywordsGroup
 metadata	preprintUpdateGroup	metadata	librisIdTextVar
 metadata	preprintUpdateGroup	metadata	localIdTextVar
 metadata	preprintUpdateGroup	metadata	nationalSubjectCategoryLink
@@ -9633,7 +9640,7 @@ metadata	thesisManuscriptNewGroup	metadata	contentTypeOtherAcademicCollectionVar
 metadata	thesisManuscriptNewGroup	metadata	domainCollectionVar
 metadata	thesisManuscriptNewGroup	metadata	funderGroup
 metadata	thesisManuscriptNewGroup	metadata	geoDataGroup
-metadata	thesisManuscriptNewGroup	metadata	keywordsTextVar
+metadata	thesisManuscriptNewGroup	metadata	keywordsGroup
 metadata	thesisManuscriptNewGroup	metadata	localIdTextVar
 metadata	thesisManuscriptNewGroup	metadata	nationalSubjectCategoryLink
 metadata	thesisManuscriptNewGroup	metadata	noOfContributorsTextVar
@@ -9666,7 +9673,7 @@ metadata	thesisManuscriptUpdateGroup	metadata	contentTypeOtherAcademicCollection
 metadata	thesisManuscriptUpdateGroup	metadata	domainCollectionVar
 metadata	thesisManuscriptUpdateGroup	metadata	funderGroup
 metadata	thesisManuscriptUpdateGroup	metadata	geoDataGroup
-metadata	thesisManuscriptUpdateGroup	metadata	keywordsTextVar
+metadata	thesisManuscriptUpdateGroup	metadata	keywordsGroup
 metadata	thesisManuscriptUpdateGroup	metadata	localIdTextVar
 metadata	thesisManuscriptUpdateGroup	metadata	nationalSubjectCategoryLink
 metadata	thesisManuscriptUpdateGroup	metadata	noOfContributorsTextVar
@@ -11714,7 +11721,7 @@ presentation	divaOutputOutputPGroup	presentation	isbnOutputPVar
 presentation	divaOutputOutputPGroup	presentation	ismnOutputPVar
 presentation	divaOutputOutputPGroup	presentation	isrnOutputPVar
 presentation	divaOutputOutputPGroup	presentation	issueNumberOutputPVar
-presentation	divaOutputOutputPGroup	presentation	keywordsOutputPVar
+presentation	divaOutputOutputPGroup	presentation	keywordsPGroup
 presentation	divaOutputOutputPGroup	presentation	librisIdOutputPVar
 presentation	divaOutputOutputPGroup	presentation	licentiateDegreeOutputPLink
 presentation	divaOutputOutputPGroup	presentation	localGenericMarkupOutputPLink
@@ -11791,7 +11798,7 @@ presentation	divaOutputPGroup	presentation	isbnPVar
 presentation	divaOutputPGroup	presentation	ismnPVar
 presentation	divaOutputPGroup	presentation	isrnPVar
 presentation	divaOutputPGroup	presentation	issueNumberPVar
-presentation	divaOutputPGroup	presentation	keywordsPVar
+presentation	divaOutputPGroup	presentation	keywordsPGroup
 presentation	divaOutputPGroup	presentation	librisIdPVar
 presentation	divaOutputPGroup	presentation	licentiateDegreePLink
 presentation	divaOutputPGroup	presentation	localGenericMarkupPLink
@@ -11882,6 +11889,7 @@ presentation	divaOutputSwepubUpdateOutputPGroup	presentation	identifierDoiOutput
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	identifierIsbnOutputPVar
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	keywordsOutputPGroup
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	languageOutputPGroup
+presentation	divaOutputSwepubUpdateOutputPGroup	presentation	noteOutputPVar
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	originInfoOutputPGroup
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	recordContentSourceOutputPCollVar
 presentation	divaOutputSwepubUpdateOutputPGroup	presentation	recordInfoDivaOutputSwepubOutputPGroup
@@ -11905,6 +11913,7 @@ presentation	divaOutputSwepubUpdatePGroup	presentation	identifierDoiPVar
 presentation	divaOutputSwepubUpdatePGroup	presentation	identifierIsbnPVar
 presentation	divaOutputSwepubUpdatePGroup	presentation	keywordsPGroup
 presentation	divaOutputSwepubUpdatePGroup	presentation	languagePGroup
+presentation	divaOutputSwepubUpdatePGroup	presentation	notePVar
 presentation	divaOutputSwepubUpdatePGroup	presentation	originInfoPGroup
 presentation	divaOutputSwepubUpdatePGroup	presentation	recordContentSourcePCollVar
 presentation	divaOutputSwepubUpdatePGroup	presentation	relatedItemPGroup
@@ -13841,6 +13850,16 @@ presentation	noteDivaPVar	recordType	presentation
 presentation	noteDivaPVar	system	diva
 presentation	noteDivaPVar	user	161616
 presentation	noteDivaPVar	validationType	presentationVar
+presentation	noteOutputPVar	metadata	noteTextVar
+presentation	noteOutputPVar	recordType	presentation
+presentation	noteOutputPVar	system	diva
+presentation	noteOutputPVar	user	161616
+presentation	noteOutputPVar	validationType	presentationVar
+presentation	notePVar	metadata	noteTextVar
+presentation	notePVar	recordType	presentation
+presentation	notePVar	system	diva
+presentation	notePVar	user	161616
+presentation	notePVar	validationType	presentationVar
 presentation	numberInSeriesOutputPVar	metadata	numberInSeriesTextVar
 presentation	numberInSeriesOutputPVar	recordType	presentation
 presentation	numberInSeriesOutputPVar	system	diva
@@ -24147,6 +24166,14 @@ text	noteDivaTextVarText	recordType	text
 text	noteDivaTextVarText	system	diva
 text	noteDivaTextVarText	user	161616
 text	noteDivaTextVarText	validationType	divaText
+text	noteTextVarDefText	recordType	text
+text	noteTextVarDefText	system	diva
+text	noteTextVarDefText	user	161616
+text	noteTextVarDefText	validationType	divaText
+text	noteTextVarText	recordType	text
+text	noteTextVarText	system	diva
+text	noteTextVarText	user	161616
+text	noteTextVarText	validationType	divaText
 text	npCountryItemDefText	recordType	text
 text	npCountryItemDefText	system	diva
 text	npCountryItemDefText	user	161616
