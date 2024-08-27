@@ -3,7 +3,17 @@ divaOutput	divaOutput:233104131285323	recordType	divaOutput
 divaOutput	divaOutput:233104131285323	system	divaData
 divaOutput	divaOutput:233104131285323	user	161616
 divaOutput	divaOutput:233104131285323	validationType	divaOutput
+divaOutputSwepub	divaOutputSwepub:160377116662488	publisher	12
 divaOutputSwepub	divaOutputSwepub:160377116662488	recordType	divaOutputSwepub
+divaOutputSwepub	divaOutputSwepub:160377116662488	researchSubject	1
 divaOutputSwepub	divaOutputSwepub:160377116662488	system	divaData
 divaOutputSwepub	divaOutputSwepub:160377116662488	user	161616
 divaOutputSwepub	divaOutputSwepub:160377116662488	validationType	divaOutputSwepub
+publisher	12	recordType	publisher
+publisher	12	system	divaData
+publisher	12	user	161616
+publisher	12	validationType	publisher
+researchSubject	1	recordType	researchSubject
+researchSubject	1	system	divaData
+researchSubject	1	user	161616
+researchSubject	1	validationType	researchSubject
