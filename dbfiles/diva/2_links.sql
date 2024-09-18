@@ -6849,6 +6849,7 @@ metadata	naiLangItem	validationType	genericCollectionItem
 metadata	nameCorporateGroup	metadata	divaDescriptionTextVar
 metadata	nameCorporateGroup	metadata	namePartTextVar
 metadata	nameCorporateGroup	metadata	nameRoleGroup
+metadata	nameCorporateGroup	metadata	organisationLink
 metadata	nameCorporateGroup	metadata	typeCorporateCollectionVar
 metadata	nameCorporateGroup	recordType	metadata
 metadata	nameCorporateGroup	system	diva
@@ -6901,6 +6902,7 @@ metadata	namePersonalAffiliationGroup	metadata	affiliationNameCorporateGroup
 metadata	namePersonalAffiliationGroup	metadata	countryCollectionVar
 metadata	namePersonalAffiliationGroup	metadata	divaDescriptionTextVar
 metadata	namePersonalAffiliationGroup	metadata	identifierRorTextVar
+metadata	namePersonalAffiliationGroup	metadata	organisationLink
 metadata	namePersonalAffiliationGroup	recordType	metadata
 metadata	namePersonalAffiliationGroup	system	diva
 metadata	namePersonalAffiliationGroup	text	namePersonalAffiliationGroupDefText
@@ -6912,6 +6914,7 @@ metadata	namePersonalGroup	metadata	namePartGivenTextVar
 metadata	namePersonalGroup	metadata	namePartTermsOfAddressTextVar
 metadata	namePersonalGroup	metadata	namePersonalAffiliationGroup
 metadata	namePersonalGroup	metadata	nameRoleGroup
+metadata	namePersonalGroup	metadata	personLink
 metadata	namePersonalGroup	metadata	typePersonalCollectionVar
 metadata	namePersonalGroup	recordType	metadata
 metadata	namePersonalGroup	system	diva
@@ -8185,6 +8188,13 @@ metadata	personInfoGroup	text	personInfoGroupDefText
 metadata	personInfoGroup	text	personInfoGroupText
 metadata	personInfoGroup	user	161616
 metadata	personInfoGroup	validationType	metadataGroup
+metadata	personLink	recordType	diva-person
+metadata	personLink	recordType	metadata
+metadata	personLink	system	diva
+metadata	personLink	text	personLinkDefText
+metadata	personLink	text	personLinkText
+metadata	personLink	user	161616
+metadata	personLink	validationType	metadataRecordLink
 metadata	personNewGroup	metadata	affiliationGroup
 metadata	personNewGroup	metadata	authorityNameGroup
 metadata	personNewGroup	metadata	emailDivaTextVar
@@ -16674,6 +16684,7 @@ presentation	nameCorporateOutputPGroup	metadata	nameCorporateGroup
 presentation	nameCorporateOutputPGroup	presentation	divaDescriptionOutputPVar
 presentation	nameCorporateOutputPGroup	presentation	namePartOutputPVar
 presentation	nameCorporateOutputPGroup	presentation	nameRoleOutputPGroup
+presentation	nameCorporateOutputPGroup	presentation	organisationOutputPLink
 presentation	nameCorporateOutputPGroup	recordType	presentation
 presentation	nameCorporateOutputPGroup	system	diva
 presentation	nameCorporateOutputPGroup	user	161616
@@ -16682,6 +16693,7 @@ presentation	nameCorporatePGroup	metadata	nameCorporateGroup
 presentation	nameCorporatePGroup	presentation	divaDescriptionPVar
 presentation	nameCorporatePGroup	presentation	namePartPVar
 presentation	nameCorporatePGroup	presentation	nameRolePGroup
+presentation	nameCorporatePGroup	presentation	organisationPLink
 presentation	nameCorporatePGroup	recordType	presentation
 presentation	nameCorporatePGroup	system	diva
 presentation	nameCorporatePGroup	user	161616
@@ -16766,6 +16778,7 @@ presentation	namePersonalAffiliationOutputPGroup	presentation	affiliationNameCor
 presentation	namePersonalAffiliationOutputPGroup	presentation	countryOutputPCollVar
 presentation	namePersonalAffiliationOutputPGroup	presentation	divaDescriptionOutputPVar
 presentation	namePersonalAffiliationOutputPGroup	presentation	identifierRorOutputPVar
+presentation	namePersonalAffiliationOutputPGroup	presentation	organisationOutputPLink
 presentation	namePersonalAffiliationOutputPGroup	recordType	presentation
 presentation	namePersonalAffiliationOutputPGroup	system	diva
 presentation	namePersonalAffiliationOutputPGroup	user	161616
@@ -16775,6 +16788,7 @@ presentation	namePersonalAffiliationPGroup	presentation	affiliationNameCorporate
 presentation	namePersonalAffiliationPGroup	presentation	countryPCollVar
 presentation	namePersonalAffiliationPGroup	presentation	divaDescriptionPVar
 presentation	namePersonalAffiliationPGroup	presentation	identifierRorPVar
+presentation	namePersonalAffiliationPGroup	presentation	organisationPLink
 presentation	namePersonalAffiliationPGroup	recordType	presentation
 presentation	namePersonalAffiliationPGroup	system	diva
 presentation	namePersonalAffiliationPGroup	user	161616
@@ -16785,6 +16799,7 @@ presentation	namePersonalOutputPGroup	presentation	namePartGivenOutputPVar
 presentation	namePersonalOutputPGroup	presentation	namePartTermsOfAddressOutputPVar
 presentation	namePersonalOutputPGroup	presentation	namePersonalAffiliationOutputPGroup
 presentation	namePersonalOutputPGroup	presentation	nameRoleOutputPGroup
+presentation	namePersonalOutputPGroup	presentation	personOutputPLink
 presentation	namePersonalOutputPGroup	recordType	presentation
 presentation	namePersonalOutputPGroup	system	diva
 presentation	namePersonalOutputPGroup	user	161616
@@ -16795,6 +16810,7 @@ presentation	namePersonalPGroup	presentation	namePartGivenPVar
 presentation	namePersonalPGroup	presentation	namePartTermsOfAddressPVar
 presentation	namePersonalPGroup	presentation	namePersonalAffiliationPGroup
 presentation	namePersonalPGroup	presentation	nameRolePGroup
+presentation	namePersonalPGroup	presentation	personPLink
 presentation	namePersonalPGroup	recordType	presentation
 presentation	namePersonalPGroup	system	diva
 presentation	namePersonalPGroup	user	161616
@@ -17887,6 +17903,16 @@ presentation	personNewPGroup	recordType	presentation
 presentation	personNewPGroup	system	diva
 presentation	personNewPGroup	user	161616
 presentation	personNewPGroup	validationType	presentationGroup
+presentation	personOutputPLink	metadata	personLink
+presentation	personOutputPLink	recordType	presentation
+presentation	personOutputPLink	system	diva
+presentation	personOutputPLink	user	161616
+presentation	personOutputPLink	validationType	presentationRecordLink
+presentation	personPLink	metadata	personLink
+presentation	personPLink	recordType	presentation
+presentation	personPLink	system	diva
+presentation	personPLink	user	161616
+presentation	personPLink	validationType	presentationRecordLink
 presentation	personUpdateOutputPGroup	metadata	personUpdateGroup
 presentation	personUpdateOutputPGroup	presentation	affiliationOutputPGroup
 presentation	personUpdateOutputPGroup	presentation	authorityNameOutputPGroup
@@ -30404,6 +30430,14 @@ text	personInfoGroupText	recordType	text
 text	personInfoGroupText	system	diva
 text	personInfoGroupText	user	161616
 text	personInfoGroupText	validationType	divaText
+text	personLinkDefText	recordType	text
+text	personLinkDefText	system	diva
+text	personLinkDefText	user	161616
+text	personLinkDefText	validationType	divaText
+text	personLinkText	recordType	text
+text	personLinkText	system	diva
+text	personLinkText	user	161616
+text	personLinkText	validationType	divaText
 text	personNewGroupDefText	recordType	text
 text	personNewGroupDefText	system	diva
 text	personNewGroupDefText	user	161616
