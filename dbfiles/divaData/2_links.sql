@@ -21,10 +21,6 @@ divaOutputSwepub	divaOutputSwepub:1382554539795895	recordType	divaOutputSwepub
 divaOutputSwepub	divaOutputSwepub:1382554539795895	system	divaData
 divaOutputSwepub	divaOutputSwepub:1382554539795895	user	161616
 divaOutputSwepub	divaOutputSwepub:1382554539795895	validationType	divaOutputSwepub
-diva-person	001	recordType	diva-person
-diva-person	001	system	divaData
-diva-person	001	user	161616
-diva-person	001	validationType	divaPerson
 diva-person	125	recordType	diva-person
 diva-person	125	system	divaData
 diva-person	125	user	161616
