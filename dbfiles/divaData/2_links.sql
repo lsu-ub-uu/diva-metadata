@@ -1,4 +1,8 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+diva-course	52	recordType	diva-course
+diva-course	52	system	divaData
+diva-course	52	user	161616
+diva-course	52	validationType	diva-course
 diva-funder	740	recordType	diva-funder
 diva-funder	740	system	divaData
 diva-funder	740	user	161616
@@ -24,7 +28,17 @@ diva-person	010	recordType	diva-person
 diva-person	010	system	divaData
 diva-person	010	user	161616
 diva-person	010	validationType	diva-person
+diva-programme	45	diva-programme	45
+diva-programme	45	recordType	diva-programme
+diva-programme	45	system	divaData
+diva-programme	45	user	161616
+diva-programme	45	validationType	diva-programme
 diva-series	100	recordType	diva-series
 diva-series	100	system	divaData
 diva-series	100	user	161616
 diva-series	100	validationType	diva-series
+diva-subject	789	diva-subject	789
+diva-subject	789	recordType	diva-subject
+diva-subject	789	system	divaData
+diva-subject	789	user	161616
+diva-subject	789	validationType	diva-subject
