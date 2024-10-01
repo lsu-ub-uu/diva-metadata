@@ -2748,6 +2748,7 @@ metadata	divaOutputSearchGroup	text	divaOutputSearchGroupText
 metadata	divaOutputSearchGroup	user	161616
 metadata	divaOutputSearchGroup	validationType	metadataGroup
 metadata	divaOutputSwepubNewGroup	metadata	recordInfoDivaOutputSwepubNewGroup
+metadata	divaOutputSwepubNewGroup	metadata	titleInfoGroup
 metadata	divaOutputSwepubNewGroup	recordType	metadata
 metadata	divaOutputSwepubNewGroup	system	diva
 metadata	divaOutputSwepubNewGroup	text	divaOutputSwepubUpdateGroupDefText
