@@ -1,9 +1,5 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-divaOutputSwepub	divaOutputSwepub:1382554539795895	recordType	divaOutputSwepub
-divaOutputSwepub	divaOutputSwepub:1382554539795895	system	divaData
-divaOutputSwepub	divaOutputSwepub:1382554539795895	user	161616
-divaOutputSwepub	divaOutputSwepub:1382554539795895	validationType	divaOutputSwepub
-divaOutputSwepub	divaOutputSwepub:4226816536678630	recordType	divaOutputSwepub
-divaOutputSwepub	divaOutputSwepub:4226816536678630	system	divaData
-divaOutputSwepub	divaOutputSwepub:4226816536678630	user	161616
-divaOutputSwepub	divaOutputSwepub:4226816536678630	validationType	divaOutputSwepub
+divaOutputSwepub	divaOutputSwepub:257396145108349	recordType	divaOutputSwepub
+divaOutputSwepub	divaOutputSwepub:257396145108349	system	divaData
+divaOutputSwepub	divaOutputSwepub:257396145108349	user	161616
+divaOutputSwepub	divaOutputSwepub:257396145108349	validationType	divaOutputSwepub
