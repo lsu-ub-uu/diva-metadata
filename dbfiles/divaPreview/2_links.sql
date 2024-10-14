@@ -50,6 +50,17 @@ user	coraUser:1299694997493014	user	161616
 user	coraUser:1299694997493014	user	coraUser:1299694997493014
 user	coraUser:1299694997493014	user	coraUser:490742519075086
 user	coraUser:1299694997493014	validationType	coraUser
+user	coraUser:4412982402853626	collectTerm	systemPermissionTerm
+user	coraUser:4412982402853626	permissionRole	divaEverything
+user	coraUser:4412982402853626	permissionRole	metadataUserRole
+user	coraUser:4412982402853626	recordType	user
+user	coraUser:4412982402853626	system	divaPreview
+user	coraUser:4412982402853626	systemSecret	systemSecret:1103837290291181
+user	coraUser:4412982402853626	user	141414
+user	coraUser:4412982402853626	user	161616
+user	coraUser:4412982402853626	user	coraUser:4412982402853626
+user	coraUser:4412982402853626	user	coraUser:490742519075086
+user	coraUser:4412982402853626	validationType	coraUser
 user	coraUser:490742519075086	permissionRole	divaEverything
 user	coraUser:490742519075086	recordType	user
 user	coraUser:490742519075086	system	divaPreview
