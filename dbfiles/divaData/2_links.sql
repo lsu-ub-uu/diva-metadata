@@ -11,6 +11,15 @@ diva-journal	12	recordType	diva-journal
 diva-journal	12	system	divaData
 diva-journal	12	user	161616
 diva-journal	12	validationType	diva-journal
+diva-organisation	0001	recordType	diva-organisation
+diva-organisation	0001	system	divaData
+diva-organisation	0001	user	161616
+diva-organisation	0001	validationType	diva-topOrganisation
+diva-organisation	0002	diva-organisation	0001
+diva-organisation	0002	recordType	diva-organisation
+diva-organisation	0002	system	divaData
+diva-organisation	0002	user	161616
+diva-organisation	0002	validationType	diva-partOfOrganisation
 divaOutputSwepub	divaOutputSwepub:257396145108349	recordType	divaOutputSwepub
 divaOutputSwepub	divaOutputSwepub:257396145108349	system	divaData
 divaOutputSwepub	divaOutputSwepub:257396145108349	user	161616
@@ -19,6 +28,10 @@ divaOutputSwepub	divaOutputSwepub:588620549296863	recordType	divaOutputSwepub
 divaOutputSwepub	divaOutputSwepub:588620549296863	system	divaData
 divaOutputSwepub	divaOutputSwepub:588620549296863	user	161616
 divaOutputSwepub	divaOutputSwepub:588620549296863	validationType	divaOutputSwepub
+diva-person	321	recordType	diva-person
+diva-person	321	system	divaData
+diva-person	321	user	161616
+diva-person	321	validationType	diva-person
 diva-programme	855	recordType	diva-programme
 diva-programme	855	system	divaData
 diva-programme	855	user	161616
