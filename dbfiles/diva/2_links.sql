@@ -17213,6 +17213,7 @@ presentation	courseOutputPLink	user	161616
 presentation	courseOutputPLink	validationType	presentationRecordLink
 presentation	coursePLink	metadata	courseLink
 presentation	coursePLink	recordType	presentation
+presentation	coursePLink	search	diva-courseSearch
 presentation	coursePLink	system	diva
 presentation	coursePLink	user	161616
 presentation	coursePLink	validationType	presentationRecordLink
@@ -20888,6 +20889,7 @@ presentation	organisationOutputPLink	user	161616
 presentation	organisationOutputPLink	validationType	presentationRecordLink
 presentation	organisationPLink	metadata	organisationLink
 presentation	organisationPLink	recordType	presentation
+presentation	organisationPLink	search	diva-organisationSearch
 presentation	organisationPLink	system	diva
 presentation	organisationPLink	user	161616
 presentation	organisationPLink	validationType	presentationRecordLink
@@ -21556,6 +21558,14 @@ presentation	outputUpdatePGroup	recordType	presentation
 presentation	outputUpdatePGroup	system	diva
 presentation	outputUpdatePGroup	user	161616
 presentation	outputUpdatePGroup	validationType	presentationGroup
+presentation	outputWhenLinkedOutputPGroup	metadata	outputUpdateGroup
+presentation	outputWhenLinkedOutputPGroup	presentation	subtitlePVar
+presentation	outputWhenLinkedOutputPGroup	presentation	titlePVar
+presentation	outputWhenLinkedOutputPGroup	presentation	topicPVar
+presentation	outputWhenLinkedOutputPGroup	recordType	presentation
+presentation	outputWhenLinkedOutputPGroup	system	diva
+presentation	outputWhenLinkedOutputPGroup	user	161616
+presentation	outputWhenLinkedOutputPGroup	validationType	presentationGroup
 presentation	pagesOutputPVar	metadata	pagesTextVar
 presentation	pagesOutputPVar	recordType	presentation
 presentation	pagesOutputPVar	system	diva
@@ -21940,6 +21950,7 @@ presentation	personOutputPLink	user	161616
 presentation	personOutputPLink	validationType	presentationRecordLink
 presentation	personPLink	metadata	personLink
 presentation	personPLink	recordType	presentation
+presentation	personPLink	search	diva-personSearch
 presentation	personPLink	system	diva
 presentation	personPLink	user	161616
 presentation	personPLink	validationType	presentationRecordLink
@@ -22237,6 +22248,7 @@ presentation	programmeOutputPLink	user	161616
 presentation	programmeOutputPLink	validationType	presentationRecordLink
 presentation	programmePLink	metadata	programmeLink
 presentation	programmePLink	recordType	presentation
+presentation	programmePLink	search	diva-programmeSearch
 presentation	programmePLink	system	diva
 presentation	programmePLink	user	161616
 presentation	programmePLink	validationType	presentationRecordLink
@@ -24569,13 +24581,11 @@ presentation	seriesUpdatePGroup	recordType	presentation
 presentation	seriesUpdatePGroup	system	diva
 presentation	seriesUpdatePGroup	user	161616
 presentation	seriesUpdatePGroup	validationType	presentationGroup
-presentation	seriesWhenLinkedOutputPGroup	metadata	seriesRecordTypeGroup
-presentation	seriesWhenLinkedOutputPGroup	presentation	eissnOutputPVar
-presentation	seriesWhenLinkedOutputPGroup	presentation	endDateWhenLinkedOutputPGroup
-presentation	seriesWhenLinkedOutputPGroup	presentation	issnLOutputPVar
-presentation	seriesWhenLinkedOutputPGroup	presentation	issnOutputPVar
-presentation	seriesWhenLinkedOutputPGroup	presentation	startDateWhenLinkedOutputPGroup
-presentation	seriesWhenLinkedOutputPGroup	presentation	titleWhenLinkedOutputPGroup
+presentation	seriesWhenLinkedOutputPGroup	metadata	seriesUpdateGroup
+presentation	seriesWhenLinkedOutputPGroup	presentation	identifierIssnOutputPVar
+presentation	seriesWhenLinkedOutputPGroup	presentation	subtitleOutputPVar
+presentation	seriesWhenLinkedOutputPGroup	presentation	titleInfoOutputPGroup
+presentation	seriesWhenLinkedOutputPGroup	presentation	titleOutputPVar
 presentation	seriesWhenLinkedOutputPGroup	recordType	presentation
 presentation	seriesWhenLinkedOutputPGroup	system	diva
 presentation	seriesWhenLinkedOutputPGroup	user	161616
@@ -24901,6 +24911,7 @@ presentation	subjectPGroup	user	161616
 presentation	subjectPGroup	validationType	presentationGroup
 presentation	subjectPLink	metadata	subjectLink
 presentation	subjectPLink	recordType	presentation
+presentation	subjectPLink	search	diva-subjectSearch
 presentation	subjectPLink	system	diva
 presentation	subjectPLink	user	161616
 presentation	subjectPLink	validationType	presentationRecordLink
