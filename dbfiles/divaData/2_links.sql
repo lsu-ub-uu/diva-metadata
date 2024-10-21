@@ -15,6 +15,10 @@ diva-organisation	111	recordType	diva-organisation
 diva-organisation	111	system	divaData
 diva-organisation	111	user	161616
 diva-organisation	111	validationType	diva-topOrganisation
+diva-output	diva-output:1721893739996183	recordType	diva-output
+diva-output	diva-output:1721893739996183	system	divaData
+diva-output	diva-output:1721893739996183	user	161616
+diva-output	diva-output:1721893739996183	validationType	diva-output
 diva-person	001	recordType	diva-person
 diva-person	001	system	divaData
 diva-person	001	user	161616
