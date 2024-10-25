@@ -15,6 +15,7 @@ diva-organisation	111	recordType	diva-organisation
 diva-organisation	111	system	divaData
 diva-organisation	111	user	161616
 diva-organisation	111	validationType	diva-topOrganisation
+diva-output	diva-output:1721893739996183	diva-publisher	1452
 diva-output	diva-output:1721893739996183	recordType	diva-output
 diva-output	diva-output:1721893739996183	system	divaData
 diva-output	diva-output:1721893739996183	user	161616
@@ -27,6 +28,10 @@ diva-person	004	recordType	diva-person
 diva-person	004	system	divaData
 diva-person	004	user	161616
 diva-person	004	validationType	diva-person
+diva-publisher	1452	recordType	diva-publisher
+diva-publisher	1452	system	divaData
+diva-publisher	1452	user	161616
+diva-publisher	1452	validationType	diva-publisher
 diva-series	001	recordType	diva-series
 diva-series	001	system	divaData
 diva-series	001	user	161616
