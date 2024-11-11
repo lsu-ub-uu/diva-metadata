@@ -28,6 +28,10 @@ diva-output	diva-output:1721893739996183	recordType	diva-output
 diva-output	diva-output:1721893739996183	system	divaData
 diva-output	diva-output:1721893739996183	user	161616
 diva-output	diva-output:1721893739996183	validationType	diva-output
+diva-output	diva-output:3527289537371679	recordType	diva-output
+diva-output	diva-output:3527289537371679	system	divaData
+diva-output	diva-output:3527289537371679	user	161616
+diva-output	diva-output:3527289537371679	validationType	diva-output
 diva-person	001	recordType	diva-person
 diva-person	001	system	divaData
 diva-person	001	user	161616
