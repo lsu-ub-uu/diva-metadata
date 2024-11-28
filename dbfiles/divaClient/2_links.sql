@@ -30,6 +30,10 @@ text	divaClient_deletePublicationText	recordType	text
 text	divaClient_deletePublicationText	system	divaClient
 text	divaClient_deletePublicationText	user	161616
 text	divaClient_deletePublicationText	validationType	coraText
+text	divaClient_HomePageTitleText	recordType	text
+text	divaClient_HomePageTitleText	system	divaClient
+text	divaClient_HomePageTitleText	user	141414
+text	divaClient_HomePageTitleText	validationType	coraText
 text	divaClient_listPublicationsHeaderActionsText	recordType	text
 text	divaClient_listPublicationsHeaderActionsText	system	divaClient
 text	divaClient_listPublicationsHeaderActionsText	user	161616
@@ -146,6 +150,10 @@ text	divaClient_updatePublicationText	recordType	text
 text	divaClient_updatePublicationText	system	divaClient
 text	divaClient_updatePublicationText	user	161616
 text	divaClient_updatePublicationText	validationType	coraText
+text	divaClient_UpdatingPageTitleText	recordType	text
+text	divaClient_UpdatingPageTitleText	system	divaClient
+text	divaClient_UpdatingPageTitleText	user	141414
+text	divaClient_UpdatingPageTitleText	validationType	coraText
 text	uuDivaPasswordLoginUnitText	recordType	text
 text	uuDivaPasswordLoginUnitText	system	divaClient
 text	uuDivaPasswordLoginUnitText	user	161616
