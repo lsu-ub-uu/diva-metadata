@@ -7,12 +7,7 @@ diva-organisation	100	recordType	diva-organisation
 diva-organisation	100	system	divaData
 diva-organisation	100	user	161616
 diva-organisation	100	validationType	diva-topOrganisation
-diva-project	123	diva-organisation	100
-diva-project	123	recordType	diva-project
-diva-project	123	system	divaData
-diva-project	123	user	161616
-diva-project	123	validationType	diva-project
-diva-project	4585	recordType	diva-project
-diva-project	4585	system	divaData
-diva-project	4585	user	161616
-diva-project	4585	validationType	diva-project
+diva-output	diva-output:1810631185958826	recordType	diva-output
+diva-output	diva-output:1810631185958826	system	divaData
+diva-output	diva-output:1810631185958826	user	161616
+diva-output	diva-output:1810631185958826	validationType	diva-output
