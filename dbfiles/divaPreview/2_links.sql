@@ -69,6 +69,7 @@ user	coraUser:490742519075086	user	141414
 user	coraUser:490742519075086	user	161616
 user	coraUser:490742519075086	user	coraUser:490742519075086
 user	coraUser:490742519075086	validationType	coraUser
+user	coraUser:491055276494310	permissionRole	binaryUserRole
 user	coraUser:491055276494310	permissionRole	divaSystemAdminRole
 user	coraUser:491055276494310	recordType	user
 user	coraUser:491055276494310	system	divaPreview
