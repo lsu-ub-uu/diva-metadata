@@ -6,7 +6,6 @@ user	user:15433802151162560	userLoginIdStorageTerm	perba577@user.uu.se	loginId
 user	user:15433868478865974	userLoginIdStorageTerm	kenan399@user.uu.se	loginId
 user	user:15433925923832105	userLoginIdStorageTerm	egisw290@user.uu.se	loginId
 user	user:15433988457679920	userLoginIdStorageTerm	andma210@user.uu.se	loginId
-user	user:15434012692905164	userLoginIdStorageTerm	mican434@user.uu.se	loginId
 user	user:15434036318237201	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
 user	user:15434061862856387	userLoginIdStorageTerm	evaag112@user.uu.se	loginId
 user	user:15434085053834213	userLoginIdStorageTerm	danfl648@user.uu.se	loginId
