@@ -4,6 +4,11 @@ binary	binary:2501908962965530	system	divaData
 binary	binary:2501908962965530	user	141414
 binary	binary:2501908962965530	user	161616
 binary	binary:2501908962965530	validationType	genericBinary
+binary	binary:3014289744955501	recordType	binary
+binary	binary:3014289744955501	system	divaData
+binary	binary:3014289744955501	user	141414
+binary	binary:3014289744955501	user	161616
+binary	binary:3014289744955501	validationType	genericBinary
 diva-organisation	111	recordType	diva-organisation
 diva-organisation	111	system	divaData
 diva-organisation	111	user	161616
@@ -17,6 +22,10 @@ diva-output	diva-output:2852799851111406	recordType	diva-output
 diva-output	diva-output:2852799851111406	system	divaData
 diva-output	diva-output:2852799851111406	user	161616
 diva-output	diva-output:2852799851111406	validationType	diva-output
+diva-output	diva-output:3014272962551075	recordType	diva-output
+diva-output	diva-output:3014272962551075	system	divaData
+diva-output	diva-output:3014272962551075	user	161616
+diva-output	diva-output:3014272962551075	validationType	publication_report
 diva-person	789	recordType	diva-person
 diva-person	789	system	divaData
 diva-person	789	user	161616
