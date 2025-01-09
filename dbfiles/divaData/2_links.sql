@@ -34,6 +34,10 @@ diva-person	987	recordType	diva-person
 diva-person	987	system	divaData
 diva-person	987	user	161616
 diva-person	987	validationType	diva-person
+diva-publisher	123	recordType	diva-publisher
+diva-publisher	123	system	divaData
+diva-publisher	123	user	161616
+diva-publisher	123	validationType	diva-publisher
 diva-subject	111	recordType	diva-subject
 diva-subject	111	system	divaData
 diva-subject	111	user	161616
