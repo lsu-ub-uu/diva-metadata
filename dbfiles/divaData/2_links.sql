@@ -19,6 +19,8 @@ diva-output	diva-output:2501713320585232	recordType	diva-output
 diva-output	diva-output:2501713320585232	system	divaData
 diva-output	diva-output:2501713320585232	user	161616
 diva-output	diva-output:2501713320585232	validationType	publication_report
+diva-output	diva-output:2852799851111406	diva-person	789
+diva-output	diva-output:2852799851111406	diva-person	987
 diva-output	diva-output:2852799851111406	recordType	diva-output
 diva-output	diva-output:2852799851111406	system	divaData
 diva-output	diva-output:2852799851111406	user	161616
