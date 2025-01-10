@@ -14,6 +14,7 @@ diva-organisation	111	system	divaData
 diva-organisation	111	user	161616
 diva-organisation	111	validationType	diva-topOrganisation
 diva-output	diva-output:2501713320585232	binary	binary:2501908962965530
+diva-output	diva-output:2501713320585232	diva-person	987
 diva-output	diva-output:2501713320585232	recordType	diva-output
 diva-output	diva-output:2501713320585232	system	divaData
 diva-output	diva-output:2501713320585232	user	161616
@@ -22,6 +23,7 @@ diva-output	diva-output:2852799851111406	recordType	diva-output
 diva-output	diva-output:2852799851111406	system	divaData
 diva-output	diva-output:2852799851111406	user	161616
 diva-output	diva-output:2852799851111406	validationType	diva-output
+diva-output	diva-output:3014272962551075	diva-person	789
 diva-output	diva-output:3014272962551075	recordType	diva-output
 diva-output	diva-output:3014272962551075	system	divaData
 diva-output	diva-output:3014272962551075	user	161616
