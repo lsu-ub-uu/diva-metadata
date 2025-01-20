@@ -51,3 +51,11 @@ diva-subject	111	recordType	diva-subject
 diva-subject	111	system	divaData
 diva-subject	111	user	161616
 diva-subject	111	validationType	diva-subject
+diva-subject	diva-subject:5778520972618837	recordType	diva-subject
+diva-subject	diva-subject:5778520972618837	system	divaData
+diva-subject	diva-subject:5778520972618837	user	161616
+diva-subject	diva-subject:5778520972618837	validationType	diva-subject
+diva-subject	diva-subject:5778600673617951	recordType	diva-subject
+diva-subject	diva-subject:5778600673617951	system	divaData
+diva-subject	diva-subject:5778600673617951	user	161616
+diva-subject	diva-subject:5778600673617951	validationType	diva-subject
