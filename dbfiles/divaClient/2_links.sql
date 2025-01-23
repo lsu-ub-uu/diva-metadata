@@ -34,6 +34,10 @@ text	divaClient_deletePublicationText	recordType	text
 text	divaClient_deletePublicationText	system	divaClient
 text	divaClient_deletePublicationText	user	161616
 text	divaClient_deletePublicationText	validationType	coraText
+text	divaClient_formValidationErrorsText	recordType	text
+text	divaClient_formValidationErrorsText	system	divaClient
+text	divaClient_formValidationErrorsText	user	161616
+text	divaClient_formValidationErrorsText	validationType	coraText
 text	divaClient_HomePageTitleText	recordType	text
 text	divaClient_HomePageTitleText	system	divaClient
 text	divaClient_HomePageTitleText	user	141414
