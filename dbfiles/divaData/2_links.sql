@@ -9,6 +9,14 @@ binary	binary:3014289744955501	system	divaData
 binary	binary:3014289744955501	user	141414
 binary	binary:3014289744955501	user	161616
 binary	binary:3014289744955501	validationType	genericBinary
+diva-funder	555	recordType	diva-funder
+diva-funder	555	system	divaData
+diva-funder	555	user	161616
+diva-funder	555	validationType	diva-funder
+diva-funder	diva-funder:6553569224111955	recordType	diva-funder
+diva-funder	diva-funder:6553569224111955	system	divaData
+diva-funder	diva-funder:6553569224111955	user	161616
+diva-funder	diva-funder:6553569224111955	validationType	diva-funder
 diva-organisation	111	recordType	diva-organisation
 diva-organisation	111	system	divaData
 diva-organisation	111	user	161616
