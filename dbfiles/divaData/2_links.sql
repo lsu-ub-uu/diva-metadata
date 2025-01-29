@@ -55,6 +55,14 @@ diva-publisher	123	recordType	diva-publisher
 diva-publisher	123	system	divaData
 diva-publisher	123	user	161616
 diva-publisher	123	validationType	diva-publisher
+diva-publisher	diva-publisher:6575905209067517	recordType	diva-publisher
+diva-publisher	diva-publisher:6575905209067517	system	divaData
+diva-publisher	diva-publisher:6575905209067517	user	161616
+diva-publisher	diva-publisher:6575905209067517	validationType	diva-publisher
+diva-publisher	diva-publisher:6576737532780463	recordType	diva-publisher
+diva-publisher	diva-publisher:6576737532780463	system	divaData
+diva-publisher	diva-publisher:6576737532780463	user	161616
+diva-publisher	diva-publisher:6576737532780463	validationType	diva-publisher
 diva-subject	111	recordType	diva-subject
 diva-subject	111	system	divaData
 diva-subject	111	user	161616
