@@ -63,6 +63,10 @@ diva-publisher	diva-publisher:6576737532780463	recordType	diva-publisher
 diva-publisher	diva-publisher:6576737532780463	system	divaData
 diva-publisher	diva-publisher:6576737532780463	user	161616
 diva-publisher	diva-publisher:6576737532780463	validationType	diva-publisher
+diva-series	diva-series:6663370216147288	recordType	diva-series
+diva-series	diva-series:6663370216147288	system	divaData
+diva-series	diva-series:6663370216147288	user	161616
+diva-series	diva-series:6663370216147288	validationType	diva-series
 diva-subject	111	recordType	diva-subject
 diva-subject	111	system	divaData
 diva-subject	111	user	161616
