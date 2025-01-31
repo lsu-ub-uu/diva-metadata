@@ -43,6 +43,14 @@ diva-output	diva-output:3014272962551075	recordType	diva-output
 diva-output	diva-output:3014272962551075	system	divaData
 diva-output	diva-output:3014272962551075	user	161616
 diva-output	diva-output:3014272962551075	validationType	publication_report
+diva-output	diva-output:6733270647360921	recordType	diva-output
+diva-output	diva-output:6733270647360921	system	divaData
+diva-output	diva-output:6733270647360921	user	161616
+diva-output	diva-output:6733270647360921	validationType	diva-output
+diva-output	diva-output:6744366382742904	recordType	diva-output
+diva-output	diva-output:6744366382742904	system	divaData
+diva-output	diva-output:6744366382742904	user	161616
+diva-output	diva-output:6744366382742904	validationType	diva-output
 diva-person	789	recordType	diva-person
 diva-person	789	system	divaData
 diva-person	789	user	161616
