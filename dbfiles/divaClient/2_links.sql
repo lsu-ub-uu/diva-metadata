@@ -114,6 +114,10 @@ text	divaClient_optionNoneText	recordType	text
 text	divaClient_optionNoneText	system	divaClient
 text	divaClient_optionNoneText	user	161616
 text	divaClient_optionNoneText	validationType	coraText
+text	divaClient_paginationResultText	recordType	text
+text	divaClient_paginationResultText	system	divaClient
+text	divaClient_paginationResultText	user	161616
+text	divaClient_paginationResultText	validationType	coraText
 text	divaClient_readPublicationText	recordType	text
 text	divaClient_readPublicationText	system	divaClient
 text	divaClient_readPublicationText	user	161616
