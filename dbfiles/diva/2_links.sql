@@ -343,6 +343,10 @@ collectTerm	sustainableDevelopmentIdCollectIndexTerm	system	diva
 collectTerm	sustainableDevelopmentIdCollectIndexTerm	user	coraUser:4412982402853626
 collectTerm	sustainableDevelopmentIdCollectIndexTerm	user	coraUser:490742519075086
 collectTerm	sustainableDevelopmentIdCollectIndexTerm	validationType	collectIndexTerm
+collectTerm	themeHostnameStorageTerm	recordType	collectTerm
+collectTerm	themeHostnameStorageTerm	system	diva
+collectTerm	themeHostnameStorageTerm	user	141414
+collectTerm	themeHostnameStorageTerm	validationType	collectStorageTerm
 collectTerm	titleCollectIndexTerm	recordType	collectTerm
 collectTerm	titleCollectIndexTerm	system	diva
 collectTerm	titleCollectIndexTerm	user	161616
@@ -359,7 +363,6 @@ collectTerm	viafCollectIndexTerm	recordType	collectTerm
 collectTerm	viafCollectIndexTerm	system	diva
 collectTerm	viafCollectIndexTerm	user	161616
 collectTerm	viafCollectIndexTerm	validationType	collectIndexTerm
-diva-theme	diva-theme	binary	binary:859116905887438
 diva-theme	diva-theme	recordType	diva-theme
 diva-theme	diva-theme	system	diva
 diva-theme	diva-theme	user	161616
@@ -4623,6 +4626,7 @@ metadata	dataDividerThemeLink	recordType	system
 metadata	dataDividerThemeLink	system	diva
 metadata	dataDividerThemeLink	text	dataDividerDefText
 metadata	dataDividerThemeLink	text	dataDividerText
+metadata	dataDividerThemeLink	user	141414
 metadata	dataDividerThemeLink	user	161616
 metadata	dataDividerThemeLink	validationType	metadataRecordLink
 metadata	dataSetItem	recordType	metadata
@@ -15719,6 +15723,7 @@ metadata	themeNewGroup	metadata	pageTitleEngTextVar
 metadata	themeNewGroup	metadata	pageTitleSweTextVar
 metadata	themeNewGroup	metadata	recordInfoThemeNewGroup
 metadata	themeNewGroup	metadata	textColorTextVar
+metadata	themeNewGroup	metadata	themeHostnameTextVar
 metadata	themeNewGroup	metadata	themeLinkAdminGroup
 metadata	themeNewGroup	metadata	themeLinkPublicGroup
 metadata	themeNewGroup	metadata	themeLogoSvgTextVar
@@ -15751,11 +15756,13 @@ metadata	themeSearchIncludePartGroup	text	themeSearchIncludePartGroupDefText
 metadata	themeSearchIncludePartGroup	text	themeSearchIncludePartGroupText
 metadata	themeSearchIncludePartGroup	user	161616
 metadata	themeSearchIncludePartGroup	validationType	metadataGroup
+metadata	themeUpdateGroup	collectTerm	themeHostnameStorageTerm
 metadata	themeUpdateGroup	metadata	backgroundColorTextVar
 metadata	themeUpdateGroup	metadata	pageTitleEngTextVar
 metadata	themeUpdateGroup	metadata	pageTitleSweTextVar
 metadata	themeUpdateGroup	metadata	recordInfoGroup
 metadata	themeUpdateGroup	metadata	textColorTextVar
+metadata	themeUpdateGroup	metadata	themeHostnameTextVar
 metadata	themeUpdateGroup	metadata	themeLinkAdminGroup
 metadata	themeUpdateGroup	metadata	themeLinkPublicGroup
 metadata	themeUpdateGroup	metadata	themeLogoFileLink
@@ -18826,10 +18833,9 @@ presentation	diva-themeAutocompletePGroup	system	diva
 presentation	diva-themeAutocompletePGroup	user	161616
 presentation	diva-themeAutocompletePGroup	validationType	presentationGroup
 presentation	diva-themeListPGroup	metadata	diva-themeGroup
-presentation	diva-themeListPGroup	presentation	recordInfoOutputPGroup
+presentation	diva-themeListPGroup	presentation	recordInfoOutputOnlyIdPGroup
 presentation	diva-themeListPGroup	recordType	presentation
 presentation	diva-themeListPGroup	system	diva
-presentation	diva-themeListPGroup	text	diva-themeText
 presentation	diva-themeListPGroup	user	161616
 presentation	diva-themeListPGroup	validationType	presentationGroup
 presentation	diva-themeMenuPGroup	metadata	diva-themeGroup
@@ -18840,7 +18846,16 @@ presentation	diva-themeMenuPGroup	text	diva-themeText
 presentation	diva-themeMenuPGroup	user	161616
 presentation	diva-themeMenuPGroup	validationType	presentationGroup
 presentation	diva-themeOutputPGroup	metadata	diva-themeGroup
+presentation	diva-themeOutputPGroup	presentation	backgroundColorOutputPVar
+presentation	diva-themeOutputPGroup	presentation	pageTitleEngOutputPVar
+presentation	diva-themeOutputPGroup	presentation	pageTitleSweOutputPVar
 presentation	diva-themeOutputPGroup	presentation	recordInfoOutputPGroup
+presentation	diva-themeOutputPGroup	presentation	textColorOutputPVar
+presentation	diva-themeOutputPGroup	presentation	themeHostnameOutputPVar
+presentation	diva-themeOutputPGroup	presentation	themeLinkAdminOutputPGroup
+presentation	diva-themeOutputPGroup	presentation	themeLinkPublicOutputPGroup
+presentation	diva-themeOutputPGroup	presentation	themeLogoFileOutputPLink
+presentation	diva-themeOutputPGroup	presentation	themeLogoSvgOutputPVar
 presentation	diva-themeOutputPGroup	recordType	presentation
 presentation	diva-themeOutputPGroup	system	diva
 presentation	diva-themeOutputPGroup	user	161616
@@ -23781,6 +23796,12 @@ presentation	recordInfoOutputNewPGroup	recordType	presentation
 presentation	recordInfoOutputNewPGroup	system	diva
 presentation	recordInfoOutputNewPGroup	user	161616
 presentation	recordInfoOutputNewPGroup	validationType	presentationGroup
+presentation	recordInfoOutputOnlyIdPGroup	metadata	recordInfoGroup
+presentation	recordInfoOutputOnlyIdPGroup	presentation	idTextOutputPVar
+presentation	recordInfoOutputOnlyIdPGroup	recordType	presentation
+presentation	recordInfoOutputOnlyIdPGroup	system	diva
+presentation	recordInfoOutputOnlyIdPGroup	user	161616
+presentation	recordInfoOutputOnlyIdPGroup	validationType	presentationGroup
 presentation	recordInfoOutputOutputPGroup	metadata	recordInfoOutputGroup
 presentation	recordInfoOutputOutputPGroup	presentation	createdByDivaOutputPLink
 presentation	recordInfoOutputOutputPGroup	presentation	dataDividerDivaDataOutputPLink
@@ -26333,6 +26354,7 @@ presentation	themeUpdatePGroup	presentation	pageTitleEngPVar
 presentation	themeUpdatePGroup	presentation	pageTitleSwePVar
 presentation	themeUpdatePGroup	presentation	recordInfoThemeNewPGroup
 presentation	themeUpdatePGroup	presentation	textColorPVar
+presentation	themeUpdatePGroup	presentation	themeHostnamePVar
 presentation	themeUpdatePGroup	presentation	themeLinkAdminPGroup
 presentation	themeUpdatePGroup	presentation	themeLinkPublicPGroup
 presentation	themeUpdatePGroup	presentation	themeLogoFilePLink
@@ -27210,6 +27232,7 @@ recordType	diva-subject	text	diva-subjectDefText
 recordType	diva-subject	text	diva-subjectText
 recordType	diva-subject	user	161616
 recordType	diva-subject	validationType	recordType
+recordType	diva-theme	collectTerm	themeHostnameStorageTerm
 recordType	diva-theme	metadata	themeUpdateGroup
 recordType	diva-theme	presentation	diva-themeAutocompletePGroup
 recordType	diva-theme	presentation	diva-themeListPGroup
@@ -27220,6 +27243,7 @@ recordType	diva-theme	search	diva-themeSearch
 recordType	diva-theme	system	diva
 recordType	diva-theme	text	diva-themeDefText
 recordType	diva-theme	text	diva-themeText
+recordType	diva-theme	user	141414
 recordType	diva-theme	user	161616
 recordType	diva-theme	validationType	recordType
 search	diva-courseMinimalSearch	metadata	courseMinimalSearchGroup

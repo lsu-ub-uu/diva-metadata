@@ -16,6 +16,10 @@ diva-journal	1235	recordType	diva-journal
 diva-journal	1235	system	divaPreview
 diva-journal	1235	user	161616
 diva-journal	1235	validationType	diva-journal
+diva-journal	555555	recordType	diva-journal
+diva-journal	555555	system	divaPreview
+diva-journal	555555	user	161616
+diva-journal	555555	validationType	diva-journal
 diva-localGenericMarkup	555	recordType	diva-localGenericMarkup
 diva-localGenericMarkup	555	system	divaPreview
 diva-localGenericMarkup	555	user	161616
