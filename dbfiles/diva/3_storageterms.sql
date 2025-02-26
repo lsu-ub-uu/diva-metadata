@@ -1,11 +1,14 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
+diva-theme	diva-theme	themeHostnameStorageTerm	localhost	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	cora.epc.ub.uu.se	hostname
-diva-theme	diva-theme	themeHostnameStorageTerm	localhost	hostname
-diva-theme	uu-theme	themeHostnameStorageTerm	uu.cora.epc.ub.uu.se	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.pre.diva-portal.org	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.cora.epc.ub.uu.se	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.localhost	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.localhost	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	trams	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.pre.diva-portal.org	hostname
+diva-theme	uu-theme	themeHostnameStorageTerm	uu.cora.epc.ub.uu.se	hostname
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
 user	user:15433743141661287	userLoginIdStorageTerm	sarto903@user.uu.se	loginId

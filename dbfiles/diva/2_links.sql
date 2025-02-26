@@ -367,6 +367,10 @@ diva-theme	diva-theme	recordType	diva-theme
 diva-theme	diva-theme	system	diva
 diva-theme	diva-theme	user	161616
 diva-theme	diva-theme	validationType	diva-theme
+diva-theme	kth-theme	recordType	diva-theme
+diva-theme	kth-theme	system	diva
+diva-theme	kth-theme	user	161616
+diva-theme	kth-theme	validationType	diva-theme
 diva-theme	uu-theme	recordType	diva-theme
 diva-theme	uu-theme	system	diva
 diva-theme	uu-theme	user	161616
