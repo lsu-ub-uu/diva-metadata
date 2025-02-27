@@ -138,6 +138,10 @@ text	divaClient_LogoutText	recordType	text
 text	divaClient_LogoutText	system	divaClient
 text	divaClient_LogoutText	user	161616
 text	divaClient_LogoutText	validationType	coraText
+text	divaClient_memberBarLinksText	recordType	text
+text	divaClient_memberBarLinksText	system	divaClient
+text	divaClient_memberBarLinksText	user	161616
+text	divaClient_memberBarLinksText	validationType	coraText
 text	divaClient_metadataWarningText	recordType	text
 text	divaClient_metadataWarningText	system	divaClient
 text	divaClient_metadataWarningText	user	161616
