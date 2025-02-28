@@ -20,7 +20,7 @@ diva-output	diva-output:1523950164148129	diva-course	666
 diva-output	diva-output:1523950164148129	diva-funder	diva-funder:1437067710216461
 diva-output	diva-output:1523950164148129	diva-journal	444
 diva-output	diva-output:1523950164148129	diva-localGenericMarkup	444
-diva-output	diva-output:1523950164148129	diva-organisation	diva-organisation:1520570584660749
+diva-output	diva-output:1523950164148129	diva-organisation	diva-organisation:1530219071900116
 diva-output	diva-output:1523950164148129	diva-output	diva-output:1523950164148129
 diva-output	diva-output:1523950164148129	diva-person	444
 diva-output	diva-output:1523950164148129	diva-programme	444
@@ -32,13 +32,8 @@ diva-output	diva-output:1523950164148129	recordType	diva-output
 diva-output	diva-output:1523950164148129	system	divaPreview
 diva-output	diva-output:1523950164148129	user	161616
 diva-output	diva-output:1523950164148129	validationType	diva-output
-diva-person	444	diva-organisation	diva-organisation:1520570584660749
-diva-person	444	recordType	diva-person
-diva-person	444	system	divaPreview
-diva-person	444	user	161616
-diva-person	444	validationType	diva-person
 diva-project	444	diva-funder	diva-funder:1437067710216461
-diva-project	444	diva-organisation	diva-organisation:1520570584660749
+diva-project	444	diva-organisation	diva-organisation:1530219071900116
 diva-project	444	diva-output	diva-output:1523950164148129
 diva-project	444	diva-person	444
 diva-project	444	diva-subject	diva-subject:1437069069944102
@@ -50,7 +45,7 @@ diva-publisher	diva-publisher:1437068056503025	recordType	diva-publisher
 diva-publisher	diva-publisher:1437068056503025	system	divaPreview
 diva-publisher	diva-publisher:1437068056503025	user	161616
 diva-publisher	diva-publisher:1437068056503025	validationType	diva-publisher
-diva-series	diva-series:1437068740596935	diva-organisation	diva-organisation:1520570584660749
+diva-series	diva-series:1437068740596935	diva-organisation	diva-organisation:1530219071900116
 diva-series	diva-series:1437068740596935	diva-series	diva-series:1437068740596935
 diva-series	diva-series:1437068740596935	recordType	diva-series
 diva-series	diva-series:1437068740596935	system	divaPreview
