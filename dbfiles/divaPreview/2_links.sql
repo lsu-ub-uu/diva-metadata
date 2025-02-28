@@ -1,4 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+diva-course	666	diva-course	666
+diva-course	666	recordType	diva-course
+diva-course	666	system	divaPreview
+diva-course	666	user	161616
+diva-course	666	validationType	diva-course
 diva-funder	diva-funder:1437067710216461	recordType	diva-funder
 diva-funder	diva-funder:1437067710216461	system	divaPreview
 diva-funder	diva-funder:1437067710216461	user	161616
@@ -11,7 +16,7 @@ diva-localGenericMarkup	444	recordType	diva-localGenericMarkup
 diva-localGenericMarkup	444	system	divaPreview
 diva-localGenericMarkup	444	user	161616
 diva-localGenericMarkup	444	validationType	diva-localGenericMarkup
-diva-output	diva-output:1523950164148129	diva-course	444
+diva-output	diva-output:1523950164148129	diva-course	666
 diva-output	diva-output:1523950164148129	diva-funder	diva-funder:1437067710216461
 diva-output	diva-output:1523950164148129	diva-journal	444
 diva-output	diva-output:1523950164148129	diva-localGenericMarkup	444
