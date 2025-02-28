@@ -27164,6 +27164,7 @@ recordType	diva-output	presentation	diva-outputListPGroup
 recordType	diva-output	presentation	diva-outputMenuPGroup
 recordType	diva-output	presentation	outputUpdateOutputPGroup
 recordType	diva-output	recordType	recordType
+recordType	diva-output	search	diva-outputSimpleSearch
 recordType	diva-output	system	diva
 recordType	diva-output	text	diva-outputDefText
 recordType	diva-output	text	diva-outputText
@@ -27175,6 +27176,7 @@ recordType	diva-person	presentation	diva-personListPGroup
 recordType	diva-person	presentation	diva-personMenuPGroup
 recordType	diva-person	presentation	personUpdateOutputPGroup
 recordType	diva-person	recordType	recordType
+recordType	diva-person	search	diva-personSearch
 recordType	diva-person	system	diva
 recordType	diva-person	text	diva-personDefText
 recordType	diva-person	text	diva-personText
@@ -27197,6 +27199,7 @@ recordType	diva-project	presentation	diva-projectListPGroup
 recordType	diva-project	presentation	diva-projectMenuPGroup
 recordType	diva-project	presentation	projectUpdateOutputPGroup
 recordType	diva-project	recordType	recordType
+recordType	diva-project	search	diva-projectSearch
 recordType	diva-project	system	diva
 recordType	diva-project	text	diva-projectDefText
 recordType	diva-project	text	diva-projectText
