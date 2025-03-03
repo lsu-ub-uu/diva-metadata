@@ -54,6 +54,10 @@ text	divaClient_createRecordText	recordType	text
 text	divaClient_createRecordText	system	divaClient
 text	divaClient_createRecordText	user	161616
 text	divaClient_createRecordText	validationType	coraText
+text	divaClient_createText	recordType	text
+text	divaClient_createText	system	divaClient
+text	divaClient_createText	user	161616
+text	divaClient_createText	validationType	coraText
 text	divaClient_deletePublicationText	recordType	text
 text	divaClient_deletePublicationText	system	divaClient
 text	divaClient_deletePublicationText	user	161616
