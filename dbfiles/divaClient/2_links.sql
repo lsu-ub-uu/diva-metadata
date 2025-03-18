@@ -74,6 +74,10 @@ text	divaClient_fieldInfoText	recordType	text
 text	divaClient_fieldInfoText	system	divaClient
 text	divaClient_fieldInfoText	user	161616
 text	divaClient_fieldInfoText	validationType	coraText
+text	divaClient_fileInputText	recordType	text
+text	divaClient_fileInputText	system	divaClient
+text	divaClient_fileInputText	user	161616
+text	divaClient_fileInputText	validationType	coraText
 text	divaClient_formValidationErrorsText	recordType	text
 text	divaClient_formValidationErrorsText	system	divaClient
 text	divaClient_formValidationErrorsText	user	161616
@@ -270,6 +274,10 @@ text	divaClient_UpdatingPageTitleText	recordType	text
 text	divaClient_UpdatingPageTitleText	system	divaClient
 text	divaClient_UpdatingPageTitleText	user	141414
 text	divaClient_UpdatingPageTitleText	validationType	coraText
+text	divaClient_uploadingFileText	recordType	text
+text	divaClient_uploadingFileText	system	divaClient
+text	divaClient_uploadingFileText	user	161616
+text	divaClient_uploadingFileText	validationType	coraText
 text	divaClient_viewRecordText	recordType	text
 text	divaClient_viewRecordText	system	divaClient
 text	divaClient_viewRecordText	user	161616

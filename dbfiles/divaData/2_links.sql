@@ -1,4 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+binary	binary:3103846548472927	recordType	binary
+binary	binary:3103846548472927	system	divaData
+binary	binary:3103846548472927	user	141414
+binary	binary:3103846548472927	user	161616
+binary	binary:3103846548472927	validationType	genericBinary
 diva-output	diva-output:1523950164148129	binary	binary:3088263358915174
 diva-output	diva-output:1523950164148129	diva-course	666
 diva-output	diva-output:1523950164148129	diva-funder	diva-funder:1437067710216461
