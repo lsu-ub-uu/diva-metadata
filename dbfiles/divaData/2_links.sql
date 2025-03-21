@@ -21,3 +21,7 @@ diva-output	diva-output:1523950164148129	recordType	diva-output
 diva-output	diva-output:1523950164148129	system	divaData
 diva-output	diva-output:1523950164148129	user	161616
 diva-output	diva-output:1523950164148129	validationType	diva-output
+diva-output	diva-output:3279906075569748	recordType	diva-output
+diva-output	diva-output:3279906075569748	system	divaData
+diva-output	diva-output:3279906075569748	user	161616
+diva-output	diva-output:3279906075569748	validationType	diva_degree-project
