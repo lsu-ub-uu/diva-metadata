@@ -22,6 +22,10 @@ system	divaClient	text	divaClientText
 system	divaClient	user	161616
 system	divaClient	user	coraUser:490742519075086
 system	divaClient	validationType	system
+text	divaClient_addFieldText	recordType	text
+text	divaClient_addFieldText	system	divaClient
+text	divaClient_addFieldText	user	161616
+text	divaClient_addFieldText	validationType	coraText
 text	divaClient_breadcrumbStartText	recordType	text
 text	divaClient_breadcrumbStartText	system	divaClient
 text	divaClient_breadcrumbStartText	user	161616
@@ -154,6 +158,14 @@ text	divaClient_metadataWarningText	recordType	text
 text	divaClient_metadataWarningText	system	divaClient
 text	divaClient_metadataWarningText	user	161616
 text	divaClient_metadataWarningText	validationType	coraText
+text	divaClient_moveFieldDownText	recordType	text
+text	divaClient_moveFieldDownText	system	divaClient
+text	divaClient_moveFieldDownText	user	161616
+text	divaClient_moveFieldDownText	validationType	coraText
+text	divaClient_moveFieldUpText	recordType	text
+text	divaClient_moveFieldUpText	system	divaClient
+text	divaClient_moveFieldUpText	user	161616
+text	divaClient_moveFieldUpText	validationType	coraText
 text	divaClient_NoOptionText	recordType	text
 text	divaClient_NoOptionText	system	divaClient
 text	divaClient_NoOptionText	user	161616
