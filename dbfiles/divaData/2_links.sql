@@ -4,6 +4,11 @@ binary	binary:3103846548472927	system	divaData
 binary	binary:3103846548472927	user	141414
 binary	binary:3103846548472927	user	161616
 binary	binary:3103846548472927	validationType	genericBinary
+diva-organisation	diva-organisation:4211360824873252	permissionUnit	kth
+diva-organisation	diva-organisation:4211360824873252	recordType	diva-organisation
+diva-organisation	diva-organisation:4211360824873252	system	divaData
+diva-organisation	diva-organisation:4211360824873252	user	161616
+diva-organisation	diva-organisation:4211360824873252	validationType	diva-topOrganisation
 diva-output	diva-output:1523950164148129	binary	binary:3088263358915174
 diva-output	diva-output:1523950164148129	diva-course	666
 diva-output	diva-output:1523950164148129	diva-funder	diva-funder:1437067710216461
