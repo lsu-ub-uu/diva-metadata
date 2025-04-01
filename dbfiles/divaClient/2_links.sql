@@ -86,6 +86,10 @@ text	divaClient_error403TitleText	recordType	text
 text	divaClient_error403TitleText	system	divaClient
 text	divaClient_error403TitleText	user	161616
 text	divaClient_error403TitleText	validationType	coraText
+text	divaClient_error404BodyText	recordType	text
+text	divaClient_error404BodyText	system	divaClient
+text	divaClient_error404BodyText	user	161616
+text	divaClient_error404BodyText	validationType	coraText
 text	divaClient_error404TitleText	recordType	text
 text	divaClient_error404TitleText	system	divaClient
 text	divaClient_error404TitleText	user	161616
@@ -298,6 +302,10 @@ text	divaClient_sessionExpiredSummaryText	recordType	text
 text	divaClient_sessionExpiredSummaryText	system	divaClient
 text	divaClient_sessionExpiredSummaryText	user	161616
 text	divaClient_sessionExpiredSummaryText	validationType	coraText
+text	divaClient_showErrorDetailsText	recordType	text
+text	divaClient_showErrorDetailsText	system	divaClient
+text	divaClient_showErrorDetailsText	user	161616
+text	divaClient_showErrorDetailsText	validationType	coraText
 text	divaClient_showLessText	recordType	text
 text	divaClient_showLessText	system	divaClient
 text	divaClient_showLessText	user	161616
