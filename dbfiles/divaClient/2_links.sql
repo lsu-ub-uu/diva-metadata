@@ -114,6 +114,10 @@ text	divaClient_error500TitleText	recordType	text
 text	divaClient_error500TitleText	system	divaClient
 text	divaClient_error500TitleText	user	161616
 text	divaClient_error500TitleText	validationType	coraText
+text	divaClient_errorGoToSearchText	recordType	text
+text	divaClient_errorGoToSearchText	system	divaClient
+text	divaClient_errorGoToSearchText	user	161616
+text	divaClient_errorGoToSearchText	validationType	coraText
 text	divaClient_fieldInfoText	recordType	text
 text	divaClient_fieldInfoText	system	divaClient
 text	divaClient_fieldInfoText	user	161616
