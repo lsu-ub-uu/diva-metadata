@@ -358,6 +358,10 @@ text	divaClient_swapPresentationText	recordType	text
 text	divaClient_swapPresentationText	system	divaClient
 text	divaClient_swapPresentationText	user	161616
 text	divaClient_swapPresentationText	validationType	coraText
+text	divaClient_unknownErrorBodyText	recordType	text
+text	divaClient_unknownErrorBodyText	system	divaClient
+text	divaClient_unknownErrorBodyText	user	161616
+text	divaClient_unknownErrorBodyText	validationType	coraText
 text	divaClient_updatePublicationText	recordType	text
 text	divaClient_updatePublicationText	system	divaClient
 text	divaClient_updatePublicationText	user	161616
