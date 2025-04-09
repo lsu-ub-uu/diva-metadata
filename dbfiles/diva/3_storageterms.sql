@@ -1,10 +1,10 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
-diva-theme	diva-theme	themeHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	localhost	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	cora.epc.ub.uu.se	hostname
-diva-theme	kth-theme	themeHostnameStorageTerm	kth.cora.epc.ub.uu.se	hostname
-diva-theme	kth-theme	themeHostnameStorageTerm	kth.pre.diva-portal.org	hostname
+diva-theme	diva-theme	themeHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-theme	kth-theme	themeHostnameStorageTerm	kth.localhost	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.pre.diva-portal.org	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.cora.epc.ub.uu.se	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.pre.diva-portal.org	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.localhost	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.cora.epc.ub.uu.se	hostname
