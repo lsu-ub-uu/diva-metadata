@@ -362,6 +362,10 @@ text	divaClient_unknownErrorBodyText	recordType	text
 text	divaClient_unknownErrorBodyText	system	divaClient
 text	divaClient_unknownErrorBodyText	user	161616
 text	divaClient_unknownErrorBodyText	validationType	coraText
+text	divaClient_unknownErrorTitleText	recordType	text
+text	divaClient_unknownErrorTitleText	system	divaClient
+text	divaClient_unknownErrorTitleText	user	161616
+text	divaClient_unknownErrorTitleText	validationType	coraText
 text	divaClient_updatePublicationText	recordType	text
 text	divaClient_updatePublicationText	system	divaClient
 text	divaClient_updatePublicationText	user	161616
