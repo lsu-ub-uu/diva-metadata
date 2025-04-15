@@ -17988,6 +17988,7 @@ metadata	zzaLangItem	user	161616
 metadata	zzaLangItem	validationType	genericCollectionItem
 permissionRole	divaDomainAdminRole	permissionRule	binaryUser
 permissionRole	divaDomainAdminRole	permissionRule	domainAdminEverythingRule
+permissionRole	divaDomainAdminRole	permissionRule	domainAdminSearchRule
 permissionRole	divaDomainAdminRole	permissionRule	metadataUser
 permissionRole	divaDomainAdminRole	recordType	permissionRole
 permissionRole	divaDomainAdminRole	system	diva
