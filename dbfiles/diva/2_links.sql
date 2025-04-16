@@ -22953,7 +22953,6 @@ presentation	outputIncludePartPGroup	presentation	endDateSearchPVar
 presentation	outputIncludePartPGroup	presentation	fundingAmountSearchPVar
 presentation	outputIncludePartPGroup	presentation	genericAddressSearchPVar
 presentation	outputIncludePartPGroup	presentation	genericIdSearchPVar
-presentation	outputIncludePartPGroup	presentation	genericSearchPVar
 presentation	outputIncludePartPGroup	presentation	issnSearchPVar
 presentation	outputIncludePartPGroup	presentation	keywordsSearchPVar
 presentation	outputIncludePartPGroup	presentation	localGenericMarkupSearchPVar
@@ -23138,10 +23137,12 @@ presentation	outputSearchOutputPGroup	user	161616
 presentation	outputSearchOutputPGroup	validationType	presentationGroup
 presentation	outputSearchPGroup	metadata	outputSearchGroup
 presentation	outputSearchPGroup	presentation	outputIncludePGroup
+presentation	outputSearchPGroup	presentation	outputSimpleIncludePGroup
 presentation	outputSearchPGroup	presentation	searchRowsPNumVar
 presentation	outputSearchPGroup	presentation	searchStartPNumVar
 presentation	outputSearchPGroup	recordType	presentation
 presentation	outputSearchPGroup	system	diva
+presentation	outputSearchPGroup	text	outputSearchExtendedSearchText
 presentation	outputSearchPGroup	user	161616
 presentation	outputSearchPGroup	validationType	presentationGroup
 presentation	outputSimpleIncludeOutputPGroup	metadata	outputSimpleIncludeGroup
@@ -27809,11 +27810,10 @@ recordType	diva-output	presentation	diva-outputListPGroup
 recordType	diva-output	presentation	diva-outputMenuPGroup
 recordType	diva-output	presentation	outputUpdateOutputPGroup
 recordType	diva-output	recordType	recordType
-recordType	diva-output	search	diva-outputSimpleSearch
+recordType	diva-output	search	diva-outputSearch
 recordType	diva-output	system	diva
 recordType	diva-output	text	diva-outputDefText
 recordType	diva-output	text	diva-outputText
-recordType	diva-output	user	141414
 recordType	diva-output	user	161616
 recordType	diva-output	validationType	recordType
 recordType	diva-person	metadata	personUpdateGroup
@@ -40063,6 +40063,10 @@ text	outputScopusSearchTextVarText	recordType	text
 text	outputScopusSearchTextVarText	system	diva
 text	outputScopusSearchTextVarText	user	161616
 text	outputScopusSearchTextVarText	validationType	divaText
+text	outputSearchExtendedSearchText	recordType	text
+text	outputSearchExtendedSearchText	system	diva
+text	outputSearchExtendedSearchText	user	161616
+text	outputSearchExtendedSearchText	validationType	coraText
 text	outputSearchGroupDefText	recordType	text
 text	outputSearchGroupDefText	system	diva
 text	outputSearchGroupDefText	user	161616
