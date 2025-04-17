@@ -28001,6 +28001,7 @@ search	diva-outputMinimalSearch	user	161616
 search	diva-outputMinimalSearch	validationType	search
 search	diva-outputSearch	metadata	outputSearchGroup
 search	diva-outputSearch	presentation	outputSearchPGroup
+search	diva-outputSearch	presentation	outputSimpleSearchListPGroup
 search	diva-outputSearch	recordType	diva-output
 search	diva-outputSearch	recordType	search
 search	diva-outputSearch	system	diva
