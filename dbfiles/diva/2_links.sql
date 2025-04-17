@@ -27752,7 +27752,6 @@ recordType	diva-course	search	diva-courseSearch
 recordType	diva-course	system	diva
 recordType	diva-course	text	diva-courseDefText
 recordType	diva-course	text	diva-courseText
-recordType	diva-course	user	141414
 recordType	diva-course	user	161616
 recordType	diva-course	validationType	recordType
 recordType	diva-funder	metadata	funderUpdateGroup
@@ -27765,7 +27764,6 @@ recordType	diva-funder	search	diva-funderSearch
 recordType	diva-funder	system	diva
 recordType	diva-funder	text	diva-funderDefText
 recordType	diva-funder	text	diva-funderText
-recordType	diva-funder	user	141414
 recordType	diva-funder	user	161616
 recordType	diva-funder	validationType	recordType
 recordType	diva-journal	collectTerm	identifierIssnStorageTerm
@@ -27779,7 +27777,6 @@ recordType	diva-journal	search	diva-journalSearch
 recordType	diva-journal	system	diva
 recordType	diva-journal	text	diva-journalDefText
 recordType	diva-journal	text	diva-journalText
-recordType	diva-journal	user	141414
 recordType	diva-journal	user	161616
 recordType	diva-journal	validationType	recordType
 recordType	diva-localGenericMarkup	metadata	localGenericMarkupUpdateGroup
@@ -27792,7 +27789,6 @@ recordType	diva-localGenericMarkup	search	diva-localGenericMarkupSearch
 recordType	diva-localGenericMarkup	system	diva
 recordType	diva-localGenericMarkup	text	diva-localGenericMarkupDefText
 recordType	diva-localGenericMarkup	text	diva-localGenericMarkupText
-recordType	diva-localGenericMarkup	user	141414
 recordType	diva-localGenericMarkup	user	161616
 recordType	diva-localGenericMarkup	validationType	recordType
 recordType	diva-organisation	metadata	organisationUpdateGroup
@@ -27805,7 +27801,6 @@ recordType	diva-organisation	search	diva-organisationSearch
 recordType	diva-organisation	system	diva
 recordType	diva-organisation	text	diva-organisationDefText
 recordType	diva-organisation	text	diva-organisationText
-recordType	diva-organisation	user	141414
 recordType	diva-organisation	user	161616
 recordType	diva-organisation	validationType	recordType
 recordType	diva-output	metadata	outputUpdateGroup
@@ -27830,7 +27825,6 @@ recordType	diva-person	search	diva-personSearch
 recordType	diva-person	system	diva
 recordType	diva-person	text	diva-personDefText
 recordType	diva-person	text	diva-personText
-recordType	diva-person	user	141414
 recordType	diva-person	user	161616
 recordType	diva-person	validationType	recordType
 recordType	diva-programme	metadata	programmeUpdateGroup
@@ -27843,7 +27837,6 @@ recordType	diva-programme	search	diva-programmeSearch
 recordType	diva-programme	system	diva
 recordType	diva-programme	text	diva-programmeDefText
 recordType	diva-programme	text	diva-programmeText
-recordType	diva-programme	user	141414
 recordType	diva-programme	user	161616
 recordType	diva-programme	validationType	recordType
 recordType	diva-project	metadata	projectUpdateGroup
@@ -27856,7 +27849,6 @@ recordType	diva-project	search	diva-projectSearch
 recordType	diva-project	system	diva
 recordType	diva-project	text	diva-projectDefText
 recordType	diva-project	text	diva-projectText
-recordType	diva-project	user	141414
 recordType	diva-project	user	161616
 recordType	diva-project	validationType	recordType
 recordType	diva-publisher	metadata	publisherUpdateGroup
@@ -27869,7 +27861,6 @@ recordType	diva-publisher	search	diva-publisherSearch
 recordType	diva-publisher	system	diva
 recordType	diva-publisher	text	diva-publisherDefText
 recordType	diva-publisher	text	diva-publisherText
-recordType	diva-publisher	user	141414
 recordType	diva-publisher	user	161616
 recordType	diva-publisher	validationType	recordType
 recordType	diva-series	metadata	seriesUpdateGroup
@@ -27882,7 +27873,6 @@ recordType	diva-series	search	diva-seriesSearch
 recordType	diva-series	system	diva
 recordType	diva-series	text	diva-seriesDefText
 recordType	diva-series	text	diva-seriesText
-recordType	diva-series	user	141414
 recordType	diva-series	user	161616
 recordType	diva-series	validationType	recordType
 recordType	diva-subject	metadata	subjectUpdateGroup
@@ -27895,7 +27885,6 @@ recordType	diva-subject	search	diva-subjectSearch
 recordType	diva-subject	system	diva
 recordType	diva-subject	text	diva-subjectDefText
 recordType	diva-subject	text	diva-subjectText
-recordType	diva-subject	user	141414
 recordType	diva-subject	user	161616
 recordType	diva-subject	validationType	recordType
 recordType	diva-theme	collectTerm	themeHostnameStorageTerm
@@ -27909,7 +27898,6 @@ recordType	diva-theme	search	diva-themeSearch
 recordType	diva-theme	system	diva
 recordType	diva-theme	text	diva-themeDefText
 recordType	diva-theme	text	diva-themeText
-recordType	diva-theme	user	141414
 recordType	diva-theme	user	161616
 recordType	diva-theme	validationType	recordType
 search	diva-courseMinimalSearch	metadata	courseMinimalSearchGroup
