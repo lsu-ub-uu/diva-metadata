@@ -27640,7 +27640,7 @@ search	diva-projectMinimalSearch	text	diva-projectSearchText
 search	diva-projectMinimalSearch	user	161616
 search	diva-projectMinimalSearch	validationType	search
 search	diva-projectSearch	metadata	projectSearchGroup
-search	diva-projectSearch	presentation	outputSearchPGroup
+search	diva-projectSearch	presentation	projectSearchPGroup
 search	diva-projectSearch	recordType	diva-project
 search	diva-projectSearch	recordType	search
 search	diva-projectSearch	system	diva
