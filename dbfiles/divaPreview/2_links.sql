@@ -32,11 +32,6 @@ diva-organisation	diva-organisation:1530301461607844	recordType	diva-organisatio
 diva-organisation	diva-organisation:1530301461607844	system	divaPreview
 diva-organisation	diva-organisation:1530301461607844	user	161616
 diva-organisation	diva-organisation:1530301461607844	validationType	diva-partOfOrganisation
-diva-person	444	diva-organisation	diva-organisation:1530219071900116
-diva-person	444	recordType	diva-person
-diva-person	444	system	divaPreview
-diva-person	444	user	161616
-diva-person	444	validationType	diva-person
 diva-programme	444	diva-programme	444
 diva-programme	444	recordType	diva-programme
 diva-programme	444	system	divaPreview
