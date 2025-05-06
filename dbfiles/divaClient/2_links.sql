@@ -34,6 +34,10 @@ text	divaClient_breadcrumbText	recordType	text
 text	divaClient_breadcrumbText	system	divaClient
 text	divaClient_breadcrumbText	user	161616
 text	divaClient_breadcrumbText	validationType	coraText
+text	divaClient_clearRecordLinkText	recordType	text
+text	divaClient_clearRecordLinkText	system	divaClient
+text	divaClient_clearRecordLinkText	user	161616
+text	divaClient_clearRecordLinkText	validationType	coraText
 text	divaClient_closeText	recordType	text
 text	divaClient_closeText	system	divaClient
 text	divaClient_closeText	user	161616
@@ -150,6 +154,10 @@ text	divaClient_HomePageTitleText	recordType	text
 text	divaClient_HomePageTitleText	system	divaClient
 text	divaClient_HomePageTitleText	user	141414
 text	divaClient_HomePageTitleText	validationType	coraText
+text	divaClient_linkToRecordText	recordType	text
+text	divaClient_linkToRecordText	system	divaClient
+text	divaClient_linkToRecordText	user	161616
+text	divaClient_linkToRecordText	validationType	coraText
 text	divaClient_listPublicationsHeaderActionsText	recordType	text
 text	divaClient_listPublicationsHeaderActionsText	system	divaClient
 text	divaClient_listPublicationsHeaderActionsText	user	161616
