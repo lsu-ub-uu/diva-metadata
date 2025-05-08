@@ -9,6 +9,11 @@ diva-output	diva-output:7329236285716816	recordType	diva-output
 diva-output	diva-output:7329236285716816	system	divaData
 diva-output	diva-output:7329236285716816	user	161616
 diva-output	diva-output:7329236285716816	validationType	publication_book-review
+diva-output	diva-output:7482334401667298	permissionUnit	uu
+diva-output	diva-output:7482334401667298	recordType	diva-output
+diva-output	diva-output:7482334401667298	system	divaData
+diva-output	diva-output:7482334401667298	user	161616
+diva-output	diva-output:7482334401667298	validationType	publication_report
 diva-person	444	diva-organisation	diva-organisation:1530219071900116
 diva-person	444	recordType	diva-person
 diva-person	444	system	divaData
