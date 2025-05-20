@@ -434,6 +434,10 @@ text	divaClient_uploadingFileText	recordType	text
 text	divaClient_uploadingFileText	system	divaClient
 text	divaClient_uploadingFileText	user	161616
 text	divaClient_uploadingFileText	validationType	coraText
+text	divaClient_viewInApiText	recordType	text
+text	divaClient_viewInApiText	system	divaClient
+text	divaClient_viewInApiText	user	161616
+text	divaClient_viewInApiText	validationType	coraText
 text	divaClient_viewRecordText	recordType	text
 text	divaClient_viewRecordText	system	divaClient
 text	divaClient_viewRecordText	user	161616
