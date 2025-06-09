@@ -78,6 +78,10 @@ text	divaClient_deleteRecordText	recordType	text
 text	divaClient_deleteRecordText	system	divaClient
 text	divaClient_deleteRecordText	user	161616
 text	divaClient_deleteRecordText	validationType	coraText
+text	divaClient_divaIdText	recordType	text
+text	divaClient_divaIdText	system	divaClient
+text	divaClient_divaIdText	user	161616
+text	divaClient_divaIdText	validationType	coraText
 text	divaClient_editRecordText	recordType	text
 text	divaClient_editRecordText	system	divaClient
 text	divaClient_editRecordText	user	161616
@@ -178,6 +182,10 @@ text	divaClient_HomePageTitleText	recordType	text
 text	divaClient_HomePageTitleText	system	divaClient
 text	divaClient_HomePageTitleText	user	141414
 text	divaClient_HomePageTitleText	validationType	coraText
+text	divaClient_identifierText	recordType	text
+text	divaClient_identifierText	system	divaClient
+text	divaClient_identifierText	user	161616
+text	divaClient_identifierText	validationType	coraText
 text	divaClient_invalidRangeMaxText	recordType	text
 text	divaClient_invalidRangeMaxText	system	divaClient
 text	divaClient_invalidRangeMaxText	user	161616
