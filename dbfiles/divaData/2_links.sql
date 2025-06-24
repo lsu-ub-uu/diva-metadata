@@ -24,6 +24,11 @@ binary	binary:11560003562557608	system	divaData
 binary	binary:11560003562557608	user	141414
 binary	binary:11560003562557608	user	161616
 binary	binary:11560003562557608	validationType	genericBinary
+binary	binary:11563612485952094	recordType	binary
+binary	binary:11563612485952094	system	divaData
+binary	binary:11563612485952094	user	141414
+binary	binary:11563612485952094	user	161616
+binary	binary:11563612485952094	validationType	genericBinary
 binary	binary:8528604188146193	recordType	binary
 binary	binary:8528604188146193	system	divaData
 binary	binary:8528604188146193	user	141414
@@ -53,6 +58,13 @@ diva-output	diva-output:11559992941785144	recordType	diva-output
 diva-output	diva-output:11559992941785144	system	divaData
 diva-output	diva-output:11559992941785144	user	161616
 diva-output	diva-output:11559992941785144	validationType	publication_book
+diva-output	diva-output:11563537050076328	binary	binary:11563612485952094
+diva-output	diva-output:11563537050076328	diva-journal	444
+diva-output	diva-output:11563537050076328	permissionUnit	uu
+diva-output	diva-output:11563537050076328	recordType	diva-output
+diva-output	diva-output:11563537050076328	system	divaData
+diva-output	diva-output:11563537050076328	user	161616
+diva-output	diva-output:11563537050076328	validationType	diva-output
 diva-output	diva-output:8528581104211624	binary	binary:8528629841652580
 diva-output	diva-output:8528581104211624	diva-person	diva-person:8528307257674963
 diva-output	diva-output:8528581104211624	diva-subject	diva-subject:8528498633661315
