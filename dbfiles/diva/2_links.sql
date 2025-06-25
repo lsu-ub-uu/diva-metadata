@@ -1,14 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-binary	binary:859116905887438	recordType	binary
-binary	binary:859116905887438	system	diva
-binary	binary:859116905887438	user	141414
-binary	binary:859116905887438	user	161616
-binary	binary:859116905887438	validationType	genericBinary
-binary	binary:940955447470971	recordType	binary
-binary	binary:940955447470971	system	diva
-binary	binary:940955447470971	user	141414
-binary	binary:940955447470971	user	161616
-binary	binary:940955447470971	validationType	genericBinary
 collectTerm	affiliationCollectIndexTerm	recordType	collectTerm
 collectTerm	affiliationCollectIndexTerm	system	diva
 collectTerm	affiliationCollectIndexTerm	user	161616

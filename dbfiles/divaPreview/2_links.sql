@@ -1,9 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-binary	binary:3088263358915174	recordType	binary
-binary	binary:3088263358915174	system	divaPreview
-binary	binary:3088263358915174	user	141414
-binary	binary:3088263358915174	user	161616
-binary	binary:3088263358915174	validationType	genericBinary
 diva-course	666	diva-course	666
 diva-course	666	recordType	diva-course
 diva-course	666	system	divaPreview
