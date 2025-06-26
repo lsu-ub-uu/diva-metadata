@@ -26,6 +26,12 @@ diva-output	diva-output:11638487889483538	recordType	diva-output
 diva-output	diva-output:11638487889483538	system	divaData
 diva-output	diva-output:11638487889483538	user	161616
 diva-output	diva-output:11638487889483538	validationType	diva_degree-project
+diva-output	diva-output:11647114364154470	diva-journal	444
+diva-output	diva-output:11647114364154470	permissionUnit	uu
+diva-output	diva-output:11647114364154470	recordType	diva-output
+diva-output	diva-output:11647114364154470	system	divaData
+diva-output	diva-output:11647114364154470	user	161616
+diva-output	diva-output:11647114364154470	validationType	publication_newspaper-article
 diva-output	diva-output:8528581104211624	diva-person	diva-person:8528307257674963
 diva-output	diva-output:8528581104211624	diva-subject	diva-subject:8528498633661315
 diva-output	diva-output:8528581104211624	permissionUnit	uu
