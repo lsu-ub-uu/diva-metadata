@@ -15891,6 +15891,7 @@ metadata	roleBookReportCollection	metadata	cwtItem
 metadata	roleBookReportCollection	metadata	edtItem
 metadata	roleBookReportCollection	metadata	hnrItem
 metadata	roleBookReportCollection	metadata	illItem
+metadata	roleBookReportCollection	metadata	pdrItem
 metadata	roleBookReportCollection	metadata	phtItem
 metadata	roleBookReportCollection	metadata	trlItem
 metadata	roleBookReportCollection	metadata	tydItem
@@ -28527,8 +28528,10 @@ presentation	tempContainer3PGroup	text	identifierHeadlineText
 presentation	tempContainer3PGroup	text	languageGroupText
 presentation	tempContainer3PGroup	text	locationGroupText
 presentation	tempContainer3PGroup	text	noteExternalTextVarText
+presentation	tempContainer3PGroup	text	originInfoGroupText
 presentation	tempContainer3PGroup	text	studentDegreeGroupText
 presentation	tempContainer3PGroup	text	subjectHeadlineText
+presentation	tempContainer3PGroup	text	titleInfoGroupText
 presentation	tempContainer3PGroup	user	161616
 presentation	tempContainer3PGroup	validationType	presentationGroup
 presentation	textColorOutputPVar	metadata	textColorTextVar
