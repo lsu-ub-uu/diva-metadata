@@ -174,6 +174,10 @@ text	divaClient_fileInputText	recordType	text
 text	divaClient_fileInputText	system	divaClient
 text	divaClient_fileInputText	user	161616
 text	divaClient_fileInputText	validationType	coraText
+text	divaClient_formPreviewHeadingText	recordType	text
+text	divaClient_formPreviewHeadingText	system	divaClient
+text	divaClient_formPreviewHeadingText	user	161616
+text	divaClient_formPreviewHeadingText	validationType	coraText
 text	divaClient_formValidationErrorsText	recordType	text
 text	divaClient_formValidationErrorsText	system	divaClient
 text	divaClient_formValidationErrorsText	user	161616
