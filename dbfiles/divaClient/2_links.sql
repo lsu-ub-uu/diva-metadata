@@ -42,6 +42,10 @@ text	divaClient_closeText	recordType	text
 text	divaClient_closeText	system	divaClient
 text	divaClient_closeText	user	161616
 text	divaClient_closeText	validationType	coraText
+text	divaClient_confirmDeleteText	recordType	text
+text	divaClient_confirmDeleteText	system	divaClient
+text	divaClient_confirmDeleteText	user	161616
+text	divaClient_confirmDeleteText	validationType	coraText
 text	divaClient_continueText	recordType	text
 text	divaClient_continueText	system	divaClient
 text	divaClient_continueText	user	161616
