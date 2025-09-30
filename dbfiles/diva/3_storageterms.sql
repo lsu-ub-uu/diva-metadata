@@ -8,6 +8,9 @@ diva-theme	kth-theme	themeHostnameStorageTerm	kth.cora.epc.ub.uu.se	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.pre.diva-portal.org	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.localhost	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.cora.epc.ub.uu.se	hostname
+diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.pre.diva-portal.org	hostname
+diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.localhost	hostname
+diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.cora.epc.ub.uu.se	hostname
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
 user	user:15433743141661287	userLoginIdStorageTerm	sarto903@user.uu.se	loginId
@@ -21,3 +24,4 @@ user	user:15434085053834213	userLoginIdStorageTerm	danfl648@user.uu.se	loginId
 user	user:15434132643259965	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:15434154245590545	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
 user	user:15434188209615056	userLoginIdStorageTerm	stand516@user.uu.se	loginId
+user	user:8295758208335884	userLoginIdStorageTerm	helena.rundkrantz@varldskulturmuseerna.se	loginId
