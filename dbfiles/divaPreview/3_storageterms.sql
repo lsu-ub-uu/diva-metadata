@@ -8,3 +8,4 @@ user	coraUser:491201365536105	userLoginIdStorageTerm	domainAdminKTH@diva.cora.uu
 user	coraUser:542161975513761	userLoginIdStorageTerm	fitnesseSystemAdmin@user.uu.se	loginId
 user	coraUser:542165753711000	userLoginIdStorageTerm	fitnesseDomainAdminUU@user.uu.se	loginId
 user	coraUser:542168680454562	userLoginIdStorageTerm	fitnesseDomainAdminKTH@user.kth.se	loginId
+user	user:8985188367779791	userLoginIdStorageTerm	domainAdminVarldskulturmuseerna@diva.cora.uu.se	loginId

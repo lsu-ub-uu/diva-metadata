@@ -174,3 +174,10 @@ user	coraUser:542168680454562	system	divaPreview
 user	coraUser:542168680454562	user	141414
 user	coraUser:542168680454562	user	coraUser:490742519075086
 user	coraUser:542168680454562	validationType	coraUser
+user	user:8985188367779791	permissionRole	divaDomainAdminRole
+user	user:8985188367779791	permissionUnit	varldskulturmuseerna
+user	user:8985188367779791	recordType	user
+user	user:8985188367779791	system	divaPreview
+user	user:8985188367779791	systemSecret	systemSecret:8985282200983733
+user	user:8985188367779791	user	161616
+user	user:8985188367779791	validationType	coraUser
