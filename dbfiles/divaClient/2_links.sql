@@ -462,6 +462,10 @@ text	divaClient_viewRecordText	recordType	text
 text	divaClient_viewRecordText	system	divaClient
 text	divaClient_viewRecordText	user	161616
 text	divaClient_viewRecordText	validationType	coraText
+text	divaPasswordLoginUnitText	recordType	text
+text	divaPasswordLoginUnitText	system	divaClient
+text	divaPasswordLoginUnitText	user	161616
+text	divaPasswordLoginUnitText	validationType	coraText
 text	themeHostnameTextVarDefText	recordType	text
 text	themeHostnameTextVarDefText	system	divaClient
 text	themeHostnameTextVarDefText	user	161616
