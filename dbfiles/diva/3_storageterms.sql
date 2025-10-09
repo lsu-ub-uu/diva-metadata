@@ -1,14 +1,14 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
 diva-member	varldskulturmuseerna	memberHostnameStorageTerm	varldskulturmuseerna.localhost	hostname
+diva-theme	diva-theme	themeHostnameStorageTerm	localhost	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	cora.epc.ub.uu.se	hostname
 diva-theme	diva-theme	themeHostnameStorageTerm	pre.diva-portal.org	hostname
-diva-theme	diva-theme	themeHostnameStorageTerm	localhost	hostname
+diva-theme	kth-theme	themeHostnameStorageTerm	kth.localhost	hostname
 diva-theme	kth-theme	themeHostnameStorageTerm	kth.pre.diva-portal.org	hostname
 diva-theme	kth-theme	themeHostnameStorageTerm	kth.cora.epc.ub.uu.se	hostname
-diva-theme	kth-theme	themeHostnameStorageTerm	kth.localhost	hostname
-diva-theme	uu-theme	themeHostnameStorageTerm	uu.localhost	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.cora.epc.ub.uu.se	hostname
 diva-theme	uu-theme	themeHostnameStorageTerm	uu.pre.diva-portal.org	hostname
+diva-theme	uu-theme	themeHostnameStorageTerm	uu.localhost	hostname
 diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.localhost	hostname
 diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.cora.epc.ub.uu.se	hostname
 diva-theme	varldskulturmuseerna-theme	themeHostnameStorageTerm	varldskulturmuseerna.pre.diva-portal.org	hostname
@@ -26,3 +26,4 @@ user	user:15434132643259965	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:15434154245590545	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
 user	user:15434188209615056	userLoginIdStorageTerm	stand516@user.uu.se	loginId
 user	user:8295758208335884	userLoginIdStorageTerm	helena.rundkrantz@varldskulturmuseerna.se	loginId
+user	user:9091016887765767	userLoginIdStorageTerm	leoda622@user.uu.se	loginId
