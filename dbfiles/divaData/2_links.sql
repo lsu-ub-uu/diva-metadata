@@ -76,6 +76,12 @@ diva-member	diva	recordType	diva-member
 diva-member	diva	system	divaData
 diva-member	diva	user	161616
 diva-member	diva	validationType	diva-member
+diva-member	varldskulturmuseerna	loginUnit	divaPasswordLoginUnit
+diva-member	varldskulturmuseerna	permissionUnit	varldskulturmuseerna
+diva-member	varldskulturmuseerna	recordType	diva-member
+diva-member	varldskulturmuseerna	system	divaData
+diva-member	varldskulturmuseerna	user	161616
+diva-member	varldskulturmuseerna	validationType	diva-member
 diva-output	diva-output:9066139566916081	diva-output	diva-output:9066139566916081
 diva-output	diva-output:9066139566916081	permissionUnit	uu
 diva-output	diva-output:9066139566916081	recordType	diva-output

@@ -372,12 +372,6 @@ collectTerm	viafCollectIndexTerm	recordType	collectTerm
 collectTerm	viafCollectIndexTerm	system	diva
 collectTerm	viafCollectIndexTerm	user	161616
 collectTerm	viafCollectIndexTerm	validationType	collectIndexTerm
-diva-member	varldskulturmuseerna	loginUnit	divaPasswordLoginUnit
-diva-member	varldskulturmuseerna	permissionUnit	varldskulturmuseerna
-diva-member	varldskulturmuseerna	recordType	diva-member
-diva-member	varldskulturmuseerna	system	diva
-diva-member	varldskulturmuseerna	user	161616
-diva-member	varldskulturmuseerna	validationType	diva-member
 diva-theme	diva-theme	recordType	diva-theme
 diva-theme	diva-theme	system	diva
 diva-theme	diva-theme	user	161616
