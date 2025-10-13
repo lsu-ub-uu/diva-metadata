@@ -1,10 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-diva-output	diva-output:9066139566916081	diva-output	diva-output:9066139566916081
-diva-output	diva-output:9066139566916081	permissionUnit	uu
-diva-output	diva-output:9066139566916081	recordType	diva-output
-diva-output	diva-output:9066139566916081	system	divaData
-diva-output	diva-output:9066139566916081	user	161616
-diva-output	diva-output:9066139566916081	validationType	diva-output
 diva-theme	varldskulturmuseerna	loginUnit	divaPasswordLoginUnit
 diva-theme	varldskulturmuseerna	permissionUnit	varldskulturmuseerna
 diva-theme	varldskulturmuseerna	recordType	diva-theme
