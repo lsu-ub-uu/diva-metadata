@@ -21463,7 +21463,7 @@ permissionRole	divaSystemAdminRole	system	diva
 permissionRole	divaSystemAdminRole	text	divaSystemAdminRoleDefText
 permissionRole	divaSystemAdminRole	text	divaSystemAdminRoleText
 permissionRole	divaSystemAdminRole	user	141414
-permissionRole	divaSystemAdminRole	user	coraUser:490742519075086
+permissionRole	divaSystemAdminRole	user	161616
 permissionRole	divaSystemAdminRole	validationType	permissionRole
 permissionRule	divaAuthorityRule	recordType	permissionRule
 permissionRule	divaAuthorityRule	system	diva
