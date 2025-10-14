@@ -26,7 +26,7 @@
 	</parent>
 
 	<artifactId>diva-metadata</artifactId>
-	<version>1.49.0-SNAPSHOT</version>
+	<version>1.50-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>diva-metadata</name>
@@ -36,7 +36,7 @@
 		<connection>scm:git:https://github.com/lsu-ub-uu/diva-metadata.git</connection>
 		<developerConnection>scm:git:https://github.com/lsu-ub-uu/diva-metadata.git</developerConnection>
 		<url>https://github.com/lsu-ub-uu/diva-metadata.git</url>
-	  <tag>release/1.49</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 	<dependencies>
