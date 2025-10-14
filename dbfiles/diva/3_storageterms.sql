@@ -3,8 +3,8 @@ diva-member	diva	memberHostnameStorageTerm	localhost	hostname
 diva-member	diva	memberHostnameStorageTerm	diva.portal.org	hostname
 diva-member	diva	memberHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
-diva-member	varldskulturmuseerna	memberHostnameStorageTerm	varldskulturmuseerna.localhost	hostname
 diva-member	varldskulturmuseerna	memberHostnameStorageTerm	varldskulturmuseerna.pre.diva-portal.org	hostname
+diva-member	varldskulturmuseerna	memberHostnameStorageTerm	varldskulturmuseerna.localhost	hostname
 diva-member	varldskulturmuseerna	memberHostnameStorageTerm	varldskulturmuseerna.preview.diva.cora.epc.ub.uu.se	hostname
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
