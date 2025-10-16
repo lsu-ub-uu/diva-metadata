@@ -23656,11 +23656,10 @@ presentation	divaOutputMainTitleSearchPVar	user	161616
 presentation	divaOutputMainTitleSearchPVar	validationType	presentationVar
 presentation	diva-outputMenuPGroup	metadata	outputUpdateGroup
 presentation	diva-outputMenuPGroup	presentation	onlyTitleOutputPGroup
-presentation	diva-outputMenuPGroup	presentation	outputTypeOtherMenuOutputPCollVar
 presentation	diva-outputMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	diva-outputMenuPGroup	recordType	presentation
 presentation	diva-outputMenuPGroup	system	diva
-presentation	diva-outputMenuPGroup	text	diva-outputText
+presentation	diva-outputMenuPGroup	text	spaceText
 presentation	diva-outputMenuPGroup	user	161616
 presentation	diva-outputMenuPGroup	validationType	presentationGroup
 presentation	diva-outputOutputPGroup	metadata	diva-outputGroup
