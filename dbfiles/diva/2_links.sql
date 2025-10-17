@@ -455,12 +455,6 @@ diva-member	nordiskamuseet	recordType	diva-member
 diva-member	nordiskamuseet	system	diva
 diva-member	nordiskamuseet	user	161616
 diva-member	nordiskamuseet	validationType	diva-member
-diva-member	varldskulturmuseerna	loginUnit	divaPasswordLoginUnit
-diva-member	varldskulturmuseerna	permissionUnit	varldskulturmuseerna
-diva-member	varldskulturmuseerna	recordType	diva-member
-diva-member	varldskulturmuseerna	system	diva
-diva-member	varldskulturmuseerna	user	161616
-diva-member	varldskulturmuseerna	validationType	diva-member
 login	divaLoginPassword	metadata	divaLoginPasswordGroup
 login	divaLoginPassword	presentation	divaLoginPasswordPGroup
 login	divaLoginPassword	recordType	login
@@ -22112,11 +22106,6 @@ permissionUnit	uu	system	diva
 permissionUnit	uu	text	uuPermissionUnitText
 permissionUnit	uu	user	161616
 permissionUnit	uu	validationType	permissionUnit
-permissionUnit	varldskulturmuseerna	recordType	permissionUnit
-permissionUnit	varldskulturmuseerna	system	diva
-permissionUnit	varldskulturmuseerna	text	varldskulturmuseernaPermissionUnitText
-permissionUnit	varldskulturmuseerna	user	161616
-permissionUnit	varldskulturmuseerna	validationType	permissionUnit
 permissionUnit	vti	recordType	permissionUnit
 permissionUnit	vti	system	diva
 permissionUnit	vti	text	vtiPermissionUnitText
@@ -51389,10 +51378,6 @@ text	variantTopicLangGroupText	recordType	text
 text	variantTopicLangGroupText	system	diva
 text	variantTopicLangGroupText	user	161616
 text	variantTopicLangGroupText	validationType	divaText
-text	varldskulturmuseernaPermissionUnitText	recordType	text
-text	varldskulturmuseernaPermissionUnitText	system	diva
-text	varldskulturmuseernaPermissionUnitText	user	161616
-text	varldskulturmuseernaPermissionUnitText	validationType	divaText
 text	vbCountryItemDefText	recordType	text
 text	vbCountryItemDefText	system	diva
 text	vbCountryItemDefText	user	161616
@@ -51996,7 +51981,6 @@ user	161616	permissionUnit	swedgeo
 user	161616	permissionUnit	trafikverket
 user	161616	permissionUnit	umu
 user	161616	permissionUnit	uu
-user	161616	permissionUnit	varldskulturmuseerna
 user	161616	permissionUnit	vti
 user	161616	recordType	user
 user	161616	system	diva
@@ -52164,7 +52148,6 @@ user	user:9091016887765767	permissionUnit	swedgeo
 user	user:9091016887765767	permissionUnit	trafikverket
 user	user:9091016887765767	permissionUnit	umu
 user	user:9091016887765767	permissionUnit	uu
-user	user:9091016887765767	permissionUnit	varldskulturmuseerna
 user	user:9091016887765767	permissionUnit	vti
 user	user:9091016887765767	recordType	user
 user	user:9091016887765767	system	diva
