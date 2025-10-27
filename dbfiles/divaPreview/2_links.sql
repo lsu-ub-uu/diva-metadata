@@ -171,3 +171,13 @@ user	user:8985188367779791	system	divaPreview
 user	user:8985188367779791	systemSecret	systemSecret:8985282200983733
 user	user:8985188367779791	user	161616
 user	user:8985188367779791	validationType	coraUser
+validationType	diva-output	metadata	outputNewGroup
+validationType	diva-output	metadata	outputUpdateGroup
+validationType	diva-output	presentation	outputUpdatePGroup
+validationType	diva-output	recordType	diva-output
+validationType	diva-output	recordType	validationType
+validationType	diva-output	system	divaPreview
+validationType	diva-output	text	diva-outputDefText
+validationType	diva-output	text	diva-outputText
+validationType	diva-output	user	161616
+validationType	diva-output	validationType	validationType
