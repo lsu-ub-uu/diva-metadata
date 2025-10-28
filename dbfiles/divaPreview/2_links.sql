@@ -168,6 +168,7 @@ user	user:8985188367779791	permissionRole	divaDomainAdminRole
 user	user:8985188367779791	permissionUnit	nordiskamuseet
 user	user:8985188367779791	recordType	user
 user	user:8985188367779791	system	divaPreview
+user	user:8985188367779791	systemSecret	systemSecret:66721009870701
 user	user:8985188367779791	systemSecret	systemSecret:8985282200983733
 user	user:8985188367779791	user	161616
 user	user:8985188367779791	validationType	coraUser
