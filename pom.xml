@@ -26,7 +26,7 @@
 	</parent>
 
 	<artifactId>diva-metadata</artifactId>
-	<version>1.65.0-SNAPSHOT</version>
+	<version>1.66-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>diva-metadata</name>
