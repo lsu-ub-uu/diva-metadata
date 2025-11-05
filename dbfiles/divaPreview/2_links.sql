@@ -66,6 +66,8 @@ user	coraUser:490742519075086	systemSecret	systemSecret:3453948943743361
 user	coraUser:490742519075086	user	141414
 user	coraUser:490742519075086	user	161616
 user	coraUser:490742519075086	validationType	coraUser
+user	coraUser:491144693381458	collectTerm	permissionUnitPermissionTerm
+user	coraUser:491144693381458	permissionRole	divaDomainAdminRecordPartRole
 user	coraUser:491144693381458	permissionRole	divaDomainAdminRole
 user	coraUser:491144693381458	permissionUnit	uu
 user	coraUser:491144693381458	recordType	user
@@ -73,8 +75,9 @@ user	coraUser:491144693381458	system	divaPreview
 user	coraUser:491144693381458	systemSecret	systemSecret:3454008316461998
 user	coraUser:491144693381458	user	141414
 user	coraUser:491144693381458	user	161616
-user	coraUser:491144693381458	user	coraUser:490742519075086
 user	coraUser:491144693381458	validationType	coraUser
+user	coraUser:491201365536105	collectTerm	permissionUnitPermissionTerm
+user	coraUser:491201365536105	permissionRole	divaDomainAdminRecordPartRole
 user	coraUser:491201365536105	permissionRole	divaDomainAdminRole
 user	coraUser:491201365536105	permissionUnit	kth
 user	coraUser:491201365536105	recordType	user
@@ -82,7 +85,6 @@ user	coraUser:491201365536105	system	divaPreview
 user	coraUser:491201365536105	systemSecret	systemSecret:3454036120503062
 user	coraUser:491201365536105	user	141414
 user	coraUser:491201365536105	user	161616
-user	coraUser:491201365536105	user	coraUser:490742519075086
 user	coraUser:491201365536105	validationType	coraUser
 user	coraUser:542161975513761	collectTerm	systemPermissionTerm
 user	coraUser:542161975513761	permissionRole	binaryUserRole
@@ -107,6 +109,8 @@ user	coraUser:542168680454562	system	divaPreview
 user	coraUser:542168680454562	user	141414
 user	coraUser:542168680454562	user	coraUser:490742519075086
 user	coraUser:542168680454562	validationType	coraUser
+user	user:8985188367779791	collectTerm	permissionUnitPermissionTerm
+user	user:8985188367779791	permissionRole	divaDomainAdminRecordPartRole
 user	user:8985188367779791	permissionRole	divaDomainAdminRole
 user	user:8985188367779791	permissionUnit	nordiskamuseet
 user	user:8985188367779791	recordType	user
