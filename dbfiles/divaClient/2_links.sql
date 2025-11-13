@@ -262,6 +262,10 @@ text	divaClient_metadataWarningText	recordType	text
 text	divaClient_metadataWarningText	system	divaClient
 text	divaClient_metadataWarningText	user	161616
 text	divaClient_metadataWarningText	validationType	coraText
+text	divaClient_missingTitleText	recordType	text
+text	divaClient_missingTitleText	system	divaClient
+text	divaClient_missingTitleText	user	161616
+text	divaClient_missingTitleText	validationType	coraText
 text	divaClient_missingValidationTypeIdText	recordType	text
 text	divaClient_missingValidationTypeIdText	system	divaClient
 text	divaClient_missingValidationTypeIdText	user	161616
