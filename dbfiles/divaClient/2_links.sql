@@ -414,6 +414,10 @@ text	divaClient_SubmitButtonText	recordType	text
 text	divaClient_SubmitButtonText	system	divaClient
 text	divaClient_SubmitButtonText	user	161616
 text	divaClient_SubmitButtonText	validationType	coraText
+text	divaClient_SubmittingButtonText	recordType	text
+text	divaClient_SubmittingButtonText	system	divaClient
+text	divaClient_SubmittingButtonText	user	161616
+text	divaClient_SubmittingButtonText	validationType	coraText
 text	divaClient_swapPresentationText	recordType	text
 text	divaClient_swapPresentationText	system	divaClient
 text	divaClient_swapPresentationText	user	161616

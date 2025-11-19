@@ -1,4 +1,10 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+diva-output	diva-output:1990770937722095	diva-localLabels	diva-localLabels:1990368257831722
+diva-output	diva-output:1990770937722095	permissionUnit	mau
+diva-output	diva-output:1990770937722095	recordType	diva-output
+diva-output	diva-output:1990770937722095	system	divaPreview
+diva-output	diva-output:1990770937722095	user	161616
+diva-output	diva-output:1990770937722095	validationType	diva-output
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616
