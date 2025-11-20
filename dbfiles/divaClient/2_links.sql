@@ -406,6 +406,10 @@ text	divaClient_showLessText	recordType	text
 text	divaClient_showLessText	system	divaClient
 text	divaClient_showLessText	user	161616
 text	divaClient_showLessText	validationType	coraText
+text	divaClient_showMenuText	recordType	text
+text	divaClient_showMenuText	system	divaClient
+text	divaClient_showMenuText	user	161616
+text	divaClient_showMenuText	validationType	coraText
 text	divaClient_showMoreText	recordType	text
 text	divaClient_showMoreText	system	divaClient
 text	divaClient_showMoreText	user	161616
