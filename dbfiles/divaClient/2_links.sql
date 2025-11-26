@@ -10,6 +10,10 @@ text	divaClient_addFieldText	recordType	text
 text	divaClient_addFieldText	system	divaClient
 text	divaClient_addFieldText	user	161616
 text	divaClient_addFieldText	validationType	coraText
+text	divaClient_attachmentDetailsText	recordType	text
+text	divaClient_attachmentDetailsText	system	divaClient
+text	divaClient_attachmentDetailsText	user	161616
+text	divaClient_attachmentDetailsText	validationType	coraText
 text	divaClient_breadcrumbStartText	recordType	text
 text	divaClient_breadcrumbStartText	system	divaClient
 text	divaClient_breadcrumbStartText	user	161616
