@@ -34,6 +34,10 @@ text	divaClient_continueText	recordType	text
 text	divaClient_continueText	system	divaClient
 text	divaClient_continueText	user	161616
 text	divaClient_continueText	validationType	coraText
+text	divaClient_createdText	recordType	text
+text	divaClient_createdText	system	divaClient
+text	divaClient_createdText	user	161616
+text	divaClient_createdText	validationType	coraText
 text	divaClient_createPublicationTypeText	recordType	text
 text	divaClient_createPublicationTypeText	system	divaClient
 text	divaClient_createPublicationTypeText	user	161616
@@ -254,6 +258,10 @@ text	divaClient_memberBarLinksText	recordType	text
 text	divaClient_memberBarLinksText	system	divaClient
 text	divaClient_memberBarLinksText	user	161616
 text	divaClient_memberBarLinksText	validationType	coraText
+text	divaClient_memberText	recordType	text
+text	divaClient_memberText	system	divaClient
+text	divaClient_memberText	user	161616
+text	divaClient_memberText	validationType	coraText
 text	divaClient_messagesHeadingText	recordType	text
 text	divaClient_messagesHeadingText	system	divaClient
 text	divaClient_messagesHeadingText	user	161616
@@ -322,6 +330,10 @@ text	divaClient_readPublicationText	recordType	text
 text	divaClient_readPublicationText	system	divaClient
 text	divaClient_readPublicationText	user	161616
 text	divaClient_readPublicationText	validationType	coraText
+text	divaClient_recordDetailsText	recordType	text
+text	divaClient_recordDetailsText	system	divaClient
+text	divaClient_recordDetailsText	user	161616
+text	divaClient_recordDetailsText	validationType	coraText
 text	divaClient_recordLinkAutocompleteNoResultsText	recordType	text
 text	divaClient_recordLinkAutocompleteNoResultsText	system	divaClient
 text	divaClient_recordLinkAutocompleteNoResultsText	user	161616
@@ -442,6 +454,10 @@ text	divaClient_unknownErrorTitleText	recordType	text
 text	divaClient_unknownErrorTitleText	system	divaClient
 text	divaClient_unknownErrorTitleText	user	161616
 text	divaClient_unknownErrorTitleText	validationType	coraText
+text	divaClient_updatedText	recordType	text
+text	divaClient_updatedText	system	divaClient
+text	divaClient_updatedText	user	161616
+text	divaClient_updatedText	validationType	coraText
 text	divaClient_updatePublicationText	recordType	text
 text	divaClient_updatePublicationText	system	divaClient
 text	divaClient_updatePublicationText	user	161616
