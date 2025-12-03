@@ -182,6 +182,10 @@ text	divaClient_formValidationErrorsText	recordType	text
 text	divaClient_formValidationErrorsText	system	divaClient
 text	divaClient_formValidationErrorsText	user	161616
 text	divaClient_formValidationErrorsText	validationType	coraText
+text	divaClient_heroImageSourceText	recordType	text
+text	divaClient_heroImageSourceText	system	divaClient
+text	divaClient_heroImageSourceText	user	161616
+text	divaClient_heroImageSourceText	validationType	coraText
 text	divaClient_heroLabelText	recordType	text
 text	divaClient_heroLabelText	system	divaClient
 text	divaClient_heroLabelText	user	161616
@@ -530,10 +534,6 @@ text	divaPasswordLoginUnitText	recordType	text
 text	divaPasswordLoginUnitText	system	divaClient
 text	divaPasswordLoginUnitText	user	161616
 text	divaPasswordLoginUnitText	validationType	coraText
-text	divcaClient_heroImageSourceText	recordType	text
-text	divcaClient_heroImageSourceText	system	divaClient
-text	divcaClient_heroImageSourceText	user	161616
-text	divcaClient_heroImageSourceText	validationType	coraText
 text	uuDivaPasswordLoginUnitText	recordType	text
 text	uuDivaPasswordLoginUnitText	system	divaClient
 text	uuDivaPasswordLoginUnitText	user	161616
