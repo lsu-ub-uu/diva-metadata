@@ -23893,9 +23893,10 @@ presentation	diva-localLabelListPGroup	system	diva
 presentation	diva-localLabelListPGroup	user	161616
 presentation	diva-localLabelListPGroup	validationType	presentationGroup
 presentation	diva-localLabelMenuPGroup	metadata	localLabelUpdateGroup
-presentation	diva-localLabelMenuPGroup	presentation	recordInfoLocalLabelUpdateOutputPGroup
+presentation	diva-localLabelMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	diva-localLabelMenuPGroup	recordType	presentation
 presentation	diva-localLabelMenuPGroup	system	diva
+presentation	diva-localLabelMenuPGroup	text	diva-localLabelText
 presentation	diva-localLabelMenuPGroup	user	161616
 presentation	diva-localLabelMenuPGroup	validationType	presentationGroup
 presentation	divaLoginPasswordOutputPGroup	metadata	divaLoginPasswordGroup
