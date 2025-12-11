@@ -38,6 +38,10 @@ text	divaClient_confirmDeleteText	recordType	text
 text	divaClient_confirmDeleteText	system	divaClient
 text	divaClient_confirmDeleteText	user	161616
 text	divaClient_confirmDeleteText	validationType	coraText
+text	divaClient_confirmTrashText	recordType	text
+text	divaClient_confirmTrashText	system	divaClient
+text	divaClient_confirmTrashText	user	161616
+text	divaClient_confirmTrashText	validationType	coraText
 text	divaClient_continueText	recordType	text
 text	divaClient_continueText	system	divaClient
 text	divaClient_continueText	user	161616
@@ -498,6 +502,14 @@ text	divaClient_switchToLightModeText	recordType	text
 text	divaClient_switchToLightModeText	system	divaClient
 text	divaClient_switchToLightModeText	user	161616
 text	divaClient_switchToLightModeText	validationType	coraText
+text	divaClient_trashRecordText	recordType	text
+text	divaClient_trashRecordText	system	divaClient
+text	divaClient_trashRecordText	user	161616
+text	divaClient_trashRecordText	validationType	coraText
+text	divaClient_trashWarningText	recordType	text
+text	divaClient_trashWarningText	system	divaClient
+text	divaClient_trashWarningText	user	161616
+text	divaClient_trashWarningText	validationType	coraText
 text	divaClient_unknownErrorBodyText	recordType	text
 text	divaClient_unknownErrorBodyText	system	divaClient
 text	divaClient_unknownErrorBodyText	user	161616

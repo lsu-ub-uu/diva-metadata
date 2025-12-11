@@ -109,6 +109,14 @@ user	coraUser:542168680454562	system	divaPreview
 user	coraUser:542168680454562	user	161616
 user	coraUser:542168680454562	user	coraUser:490742519075086
 user	coraUser:542168680454562	validationType	coraUser
+user	user:182924359788077	collectTerm	permissionUnitPermissionTerm
+user	user:182924359788077	permissionRole	divaAdminRecordPartRole
+user	user:182924359788077	permissionRole	divaAdminRole
+user	user:182924359788077	permissionUnit	nordiskamuseet
+user	user:182924359788077	recordType	user
+user	user:182924359788077	system	divaPreview
+user	user:182924359788077	user	161616
+user	user:182924359788077	validationType	coraUser
 user	user:8985188367779791	collectTerm	permissionUnitPermissionTerm
 user	user:8985188367779791	permissionRole	divaMemberAdminRecordPartRole
 user	user:8985188367779791	permissionRole	divaMemberAdminRole
