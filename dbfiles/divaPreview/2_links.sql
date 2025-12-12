@@ -109,6 +109,14 @@ user	coraUser:542168680454562	system	divaPreview
 user	coraUser:542168680454562	user	161616
 user	coraUser:542168680454562	user	coraUser:490742519075086
 user	coraUser:542168680454562	validationType	coraUser
+user	playwrightTester	collectTerm	systemPermissionTerm
+user	playwrightTester	permissionRole	divaPlaywrightTesterRole
+user	playwrightTester	permissionUnit	diva
+user	playwrightTester	recordType	user
+user	playwrightTester	system	divaPreview
+user	playwrightTester	user	141414
+user	playwrightTester	user	161616
+user	playwrightTester	validationType	divaUser
 user	user:182924359788077	collectTerm	permissionUnitPermissionTerm
 user	user:182924359788077	permissionRole	divaAdminRecordPartRole
 user	user:182924359788077	permissionRole	divaAdminRole
