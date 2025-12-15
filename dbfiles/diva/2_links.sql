@@ -5458,8 +5458,6 @@ metadata	dataDividerDivaLink	system	diva
 metadata	dataDividerDivaLink	text	dataDividerDivaLinkDefText
 metadata	dataDividerDivaLink	text	dataDividerDivaLinkText
 metadata	dataDividerDivaLink	user	141414
-metadata	dataDividerDivaLink	user	161616
-metadata	dataDividerDivaLink	user	coraUser:490742519075086
 metadata	dataDividerDivaLink	validationType	metadataRecordLink
 metadata	dataDividerDivaPreviewLink	recordType	metadata
 metadata	dataDividerDivaPreviewLink	recordType	system
@@ -23376,8 +23374,8 @@ presentation	dataDividerDivaDataPLink	validationType	presentationRecordLink
 presentation	dataDividerDivaOutputPLink	metadata	dataDividerDivaLink
 presentation	dataDividerDivaOutputPLink	recordType	presentation
 presentation	dataDividerDivaOutputPLink	system	diva
+presentation	dataDividerDivaOutputPLink	user	141414
 presentation	dataDividerDivaOutputPLink	user	161616
-presentation	dataDividerDivaOutputPLink	user	coraUser:490742519075086
 presentation	dataDividerDivaOutputPLink	validationType	presentationRecordLink
 presentation	dataDividerDivaPLink	metadata	dataDividerDivaLink
 presentation	dataDividerDivaPLink	recordType	presentation
@@ -50749,14 +50747,6 @@ text	transportResearchItemText	recordType	text
 text	transportResearchItemText	system	diva
 text	transportResearchItemText	user	161616
 text	transportResearchItemText	validationType	divaText
-text	trashBinSearchTextVarDefText	recordType	text
-text	trashBinSearchTextVarDefText	system	diva
-text	trashBinSearchTextVarDefText	user	141414
-text	trashBinSearchTextVarDefText	validationType	divaText
-text	trashBinSearchTextVarText	recordType	text
-text	trashBinSearchTextVarText	system	diva
-text	trashBinSearchTextVarText	user	141414
-text	trashBinSearchTextVarText	validationType	divaText
 text	trCountryItemDefText	recordType	text
 text	trCountryItemDefText	system	diva
 text	trCountryItemDefText	user	161616
