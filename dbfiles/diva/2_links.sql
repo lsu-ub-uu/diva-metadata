@@ -52347,9 +52347,7 @@ user	161616	permissionUnit	uu
 user	161616	permissionUnit	vti
 user	161616	recordType	user
 user	161616	system	diva
-user	161616	systemSecret	systemSecret:3453890320979077
 user	161616	user	141414
-user	161616	user	161616
 user	161616	validationType	systemOneUser
 user	coraUser:5368656924943436	permissionRole	divaGuest
 user	coraUser:5368656924943436	recordType	user
@@ -52515,6 +52513,7 @@ user	user:9091016887765767	permissionUnit	vti
 user	user:9091016887765767	recordType	user
 user	user:9091016887765767	system	diva
 user	user:9091016887765767	systemSecret	systemSecret:9091055844857375
+user	user:9091016887765767	user	141414
 user	user:9091016887765767	user	161616
 user	user:9091016887765767	validationType	systemOneUser
 validationType	artistic-work_artistic-thesis	metadata	artisticThesisNewGroup

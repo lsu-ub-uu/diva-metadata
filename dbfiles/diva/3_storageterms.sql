@@ -1,10 +1,10 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
-diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
 diva-member	diva	memberHostnameStorageTerm	diva.portal.org	hostname
+diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
 diva-member	diva	memberHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-member	diva	memberHostnameStorageTerm	localhost	hostname
-diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.pre.diva-portal.org	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.localhost	hostname
+diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.pre.diva-portal.org	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.preview.diva.cora.epc.ub.uu.se	hostname
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
