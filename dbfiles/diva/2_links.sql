@@ -52621,6 +52621,14 @@ user	161616	recordType	user
 user	161616	system	diva
 user	161616	user	141414
 user	161616	validationType	systemOneUser
+user	coraUser:4412982402853626	collectTerm	systemPermissionTerm
+user	coraUser:4412982402853626	permissionRole	divaEverything
+user	coraUser:4412982402853626	permissionRole	metadataUserRole
+user	coraUser:4412982402853626	recordType	user
+user	coraUser:4412982402853626	system	diva
+user	coraUser:4412982402853626	user	141414
+user	coraUser:4412982402853626	user	161616
+user	coraUser:4412982402853626	validationType	coraUser
 user	coraUser:5368656924943436	permissionRole	divaGuest
 user	coraUser:5368656924943436	recordType	user
 user	coraUser:5368656924943436	system	diva

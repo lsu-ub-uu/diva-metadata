@@ -148,10 +148,8 @@ login	mduTestDiVAwr	user	161616
 login	mduTestDiVAwr	validationType	loginWebRedirect
 login	miunTestDiVAwr	recordType	login
 login	miunTestDiVAwr	system	divaPre
-login	miunTestDiVAwr	user	141414
 login	miunTestDiVAwr	user	161616
 login	miunTestDiVAwr	user	coraUser:4412982402853626
-login	miunTestDiVAwr	user	coraUser:490742519075086
 login	miunTestDiVAwr	validationType	loginWebRedirect
 login	naiTestDiVAwr	recordType	login
 login	naiTestDiVAwr	system	divaPre

@@ -6,6 +6,10 @@ system	divaClient	text	divaClientText
 system	divaClient	user	161616
 system	divaClient	user	coraUser:490742519075086
 system	divaClient	validationType	system
+text	divaClient_activeFiltersText	recordType	text
+text	divaClient_activeFiltersText	system	divaClient
+text	divaClient_activeFiltersText	user	161616
+text	divaClient_activeFiltersText	validationType	coraText
 text	divaClient_addFieldText	recordType	text
 text	divaClient_addFieldText	system	divaClient
 text	divaClient_addFieldText	user	161616
@@ -194,6 +198,14 @@ text	divaClient_fileInputText	recordType	text
 text	divaClient_fileInputText	system	divaClient
 text	divaClient_fileInputText	user	161616
 text	divaClient_fileInputText	validationType	coraText
+text	divaClient_filterRemoveText	recordType	text
+text	divaClient_filterRemoveText	system	divaClient
+text	divaClient_filterRemoveText	user	161616
+text	divaClient_filterRemoveText	validationType	coraText
+text	divaClient_filterTitleText	recordType	text
+text	divaClient_filterTitleText	system	divaClient
+text	divaClient_filterTitleText	user	161616
+text	divaClient_filterTitleText	validationType	coraText
 text	divaClient_formPreviewHeadingText	recordType	text
 text	divaClient_formPreviewHeadingText	system	divaClient
 text	divaClient_formPreviewHeadingText	user	161616
