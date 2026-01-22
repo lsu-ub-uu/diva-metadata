@@ -34,6 +34,10 @@ text	divaClient_cancelText	recordType	text
 text	divaClient_cancelText	system	divaClient
 text	divaClient_cancelText	user	161616
 text	divaClient_cancelText	validationType	coraText
+text	divaClient_clearAllFiltersText	recordType	text
+text	divaClient_clearAllFiltersText	system	divaClient
+text	divaClient_clearAllFiltersText	user	161616
+text	divaClient_clearAllFiltersText	validationType	coraText
 text	divaClient_clearRecordLinkText	recordType	text
 text	divaClient_clearRecordLinkText	system	divaClient
 text	divaClient_clearRecordLinkText	user	161616
@@ -230,6 +234,10 @@ text	divaClient_heroTitleText	recordType	text
 text	divaClient_heroTitleText	system	divaClient
 text	divaClient_heroTitleText	user	161616
 text	divaClient_heroTitleText	validationType	coraText
+text	divaClient_hideFiltersText	recordType	text
+text	divaClient_hideFiltersText	system	divaClient
+text	divaClient_hideFiltersText	user	161616
+text	divaClient_hideFiltersText	validationType	coraText
 text	divaClient_HomePageTitleText	recordType	text
 text	divaClient_HomePageTitleText	system	divaClient
 text	divaClient_HomePageTitleText	user	141414
@@ -534,6 +542,10 @@ text	divaClient_showErrorDetailsText	recordType	text
 text	divaClient_showErrorDetailsText	system	divaClient
 text	divaClient_showErrorDetailsText	user	161616
 text	divaClient_showErrorDetailsText	validationType	coraText
+text	divaClient_showFiltersText	recordType	text
+text	divaClient_showFiltersText	system	divaClient
+text	divaClient_showFiltersText	user	161616
+text	divaClient_showFiltersText	validationType	coraText
 text	divaClient_showLessText	recordType	text
 text	divaClient_showLessText	system	divaClient
 text	divaClient_showLessText	user	161616
