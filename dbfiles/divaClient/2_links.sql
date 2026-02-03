@@ -330,6 +330,10 @@ text	divaClient_memberBarLinksText	recordType	text
 text	divaClient_memberBarLinksText	system	divaClient
 text	divaClient_memberBarLinksText	user	161616
 text	divaClient_memberBarLinksText	validationType	coraText
+text	divaClient_memberSettingsText	recordType	text
+text	divaClient_memberSettingsText	system	divaClient
+text	divaClient_memberSettingsText	user	161616
+text	divaClient_memberSettingsText	validationType	coraText
 text	divaClient_memberText	recordType	text
 text	divaClient_memberText	system	divaClient
 text	divaClient_memberText	user	161616
@@ -350,6 +354,10 @@ text	divaClient_missingValidationTypeIdText	recordType	text
 text	divaClient_missingValidationTypeIdText	system	divaClient
 text	divaClient_missingValidationTypeIdText	user	161616
 text	divaClient_missingValidationTypeIdText	validationType	coraText
+text	divaClient_moreNavigationText	recordType	text
+text	divaClient_moreNavigationText	system	divaClient
+text	divaClient_moreNavigationText	user	161616
+text	divaClient_moreNavigationText	validationType	coraText
 text	divaClient_moveFieldDownText	recordType	text
 text	divaClient_moveFieldDownText	system	divaClient
 text	divaClient_moveFieldDownText	user	161616
