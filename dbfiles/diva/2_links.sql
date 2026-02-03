@@ -34035,6 +34035,7 @@ recordType	diva-course	search	diva-courseSearch
 recordType	diva-course	sequence	courseSequence
 recordType	diva-course	system	diva
 recordType	diva-course	text	diva-courseDefText
+recordType	diva-course	text	diva-coursePluralText
 recordType	diva-course	text	diva-courseText
 recordType	diva-course	user	161616
 recordType	diva-course	validationType	recordType
@@ -34048,6 +34049,7 @@ recordType	diva-funder	search	diva-funderSearch
 recordType	diva-funder	sequence	funderSequence
 recordType	diva-funder	system	diva
 recordType	diva-funder	text	diva-funderDefText
+recordType	diva-funder	text	diva-funderPluralText
 recordType	diva-funder	text	diva-funderText
 recordType	diva-funder	user	161616
 recordType	diva-funder	validationType	recordType
@@ -34062,6 +34064,7 @@ recordType	diva-journal	search	diva-journalSearch
 recordType	diva-journal	sequence	journalSequence
 recordType	diva-journal	system	diva
 recordType	diva-journal	text	diva-journalDefText
+recordType	diva-journal	text	diva-journalPluralText
 recordType	diva-journal	text	diva-journalText
 recordType	diva-journal	user	161616
 recordType	diva-journal	validationType	recordType
@@ -34075,6 +34078,7 @@ recordType	diva-localLabel	search	diva-localLabelSearch
 recordType	diva-localLabel	sequence	localLabelSequence
 recordType	diva-localLabel	system	diva
 recordType	diva-localLabel	text	diva-localLabelDefText
+recordType	diva-localLabel	text	diva-localLabelPluralText
 recordType	diva-localLabel	text	diva-localLabelText
 recordType	diva-localLabel	user	161616
 recordType	diva-localLabel	validationType	recordType
@@ -34088,6 +34092,7 @@ recordType	diva-member	recordType	recordType
 recordType	diva-member	search	diva-memberSearch
 recordType	diva-member	system	diva
 recordType	diva-member	text	diva-memberDefText
+recordType	diva-member	text	diva-memberPluralText
 recordType	diva-member	text	diva-memberText
 recordType	diva-member	user	161616
 recordType	diva-member	validationType	recordType
@@ -34101,6 +34106,7 @@ recordType	diva-organisation	search	diva-organisationSearch
 recordType	diva-organisation	sequence	organisationSequence
 recordType	diva-organisation	system	diva
 recordType	diva-organisation	text	diva-organisationDefText
+recordType	diva-organisation	text	diva-organisationPluralText
 recordType	diva-organisation	text	diva-organisationText
 recordType	diva-organisation	user	161616
 recordType	diva-organisation	validationType	recordType
@@ -34114,6 +34120,7 @@ recordType	diva-output	search	diva-outputSearch
 recordType	diva-output	sequence	outputSequence
 recordType	diva-output	system	diva
 recordType	diva-output	text	diva-outputDefText
+recordType	diva-output	text	diva-outputPluralText
 recordType	diva-output	text	diva-outputText
 recordType	diva-output	user	161616
 recordType	diva-output	validationType	recordType
@@ -34127,6 +34134,7 @@ recordType	diva-person	search	diva-personSearch
 recordType	diva-person	sequence	personSequence
 recordType	diva-person	system	diva
 recordType	diva-person	text	diva-personDefText
+recordType	diva-person	text	diva-personPluralText
 recordType	diva-person	text	diva-personText
 recordType	diva-person	user	161616
 recordType	diva-person	validationType	recordType
@@ -34140,6 +34148,7 @@ recordType	diva-programme	search	diva-programmeSearch
 recordType	diva-programme	sequence	programmeSequence
 recordType	diva-programme	system	diva
 recordType	diva-programme	text	diva-programmeDefText
+recordType	diva-programme	text	diva-programmePluralText
 recordType	diva-programme	text	diva-programmeText
 recordType	diva-programme	user	161616
 recordType	diva-programme	validationType	recordType
@@ -34153,6 +34162,7 @@ recordType	diva-project	search	diva-projectSearch
 recordType	diva-project	sequence	projectSequence
 recordType	diva-project	system	diva
 recordType	diva-project	text	diva-projectDefText
+recordType	diva-project	text	diva-projectPluralText
 recordType	diva-project	text	diva-projectText
 recordType	diva-project	user	161616
 recordType	diva-project	validationType	recordType
@@ -34166,6 +34176,7 @@ recordType	diva-publisher	search	diva-publisherSearch
 recordType	diva-publisher	sequence	publisherSequence
 recordType	diva-publisher	system	diva
 recordType	diva-publisher	text	diva-publisherDefText
+recordType	diva-publisher	text	diva-publisherPluralText
 recordType	diva-publisher	text	diva-publisherText
 recordType	diva-publisher	user	161616
 recordType	diva-publisher	validationType	recordType
@@ -34180,6 +34191,7 @@ recordType	diva-series	search	diva-seriesSearch
 recordType	diva-series	sequence	seriesSequence
 recordType	diva-series	system	diva
 recordType	diva-series	text	diva-seriesDefText
+recordType	diva-series	text	diva-seriesPluralText
 recordType	diva-series	text	diva-seriesText
 recordType	diva-series	user	161616
 recordType	diva-series	validationType	recordType
@@ -34193,6 +34205,7 @@ recordType	diva-subject	search	diva-subjectSearch
 recordType	diva-subject	sequence	subjectSequence
 recordType	diva-subject	system	diva
 recordType	diva-subject	text	diva-subjectDefText
+recordType	diva-subject	text	diva-subjectPluralText
 recordType	diva-subject	text	diva-subjectText
 recordType	diva-subject	user	161616
 recordType	diva-subject	validationType	recordType
@@ -40661,6 +40674,10 @@ text	diva-courseDefText	recordType	text
 text	diva-courseDefText	system	diva
 text	diva-courseDefText	user	161616
 text	diva-courseDefText	validationType	divaText
+text	diva-coursePluralText	recordType	text
+text	diva-coursePluralText	system	diva
+text	diva-coursePluralText	user	161616
+text	diva-coursePluralText	validationType	divaText
 text	diva-courseSearchDefText	recordType	text
 text	diva-courseSearchDefText	system	diva
 text	diva-courseSearchDefText	user	161616
@@ -40763,6 +40780,10 @@ text	diva-funderDefText	recordType	text
 text	diva-funderDefText	system	diva
 text	diva-funderDefText	user	161616
 text	diva-funderDefText	validationType	divaText
+text	diva-funderPluralText	recordType	text
+text	diva-funderPluralText	system	diva
+text	diva-funderPluralText	user	161616
+text	diva-funderPluralText	validationType	divaText
 text	diva-funderSearchDefText	recordType	text
 text	diva-funderSearchDefText	system	diva
 text	diva-funderSearchDefText	user	161616
@@ -40833,6 +40854,10 @@ text	diva-journalDefText	recordType	text
 text	diva-journalDefText	system	diva
 text	diva-journalDefText	user	161616
 text	diva-journalDefText	validationType	divaText
+text	diva-journalPluralText	recordType	text
+text	diva-journalPluralText	system	diva
+text	diva-journalPluralText	user	161616
+text	diva-journalPluralText	validationType	divaText
 text	diva-journalSearchDefText	recordType	text
 text	diva-journalSearchDefText	system	diva
 text	diva-journalSearchDefText	user	161616
@@ -40849,6 +40874,10 @@ text	diva-localLabelDefText	recordType	text
 text	diva-localLabelDefText	system	diva
 text	diva-localLabelDefText	user	161616
 text	diva-localLabelDefText	validationType	divaText
+text	diva-localLabelPluralText	recordType	text
+text	diva-localLabelPluralText	system	diva
+text	diva-localLabelPluralText	user	161616
+text	diva-localLabelPluralText	validationType	divaText
 text	diva-localLabelSearchDefText	recordType	text
 text	diva-localLabelSearchDefText	system	diva
 text	diva-localLabelSearchDefText	user	161616
@@ -40933,6 +40962,10 @@ text	diva-memberNewGroupText	recordType	text
 text	diva-memberNewGroupText	system	diva
 text	diva-memberNewGroupText	user	161616
 text	diva-memberNewGroupText	validationType	divaText
+text	diva-memberPluralText	recordType	text
+text	diva-memberPluralText	system	diva
+text	diva-memberPluralText	user	161616
+text	diva-memberPluralText	validationType	divaText
 text	diva-memberSearchDefText	recordType	text
 text	diva-memberSearchDefText	system	diva
 text	diva-memberSearchDefText	user	161616
@@ -40959,6 +40992,10 @@ text	diva-organisationDefText	recordType	text
 text	diva-organisationDefText	system	diva
 text	diva-organisationDefText	user	161616
 text	diva-organisationDefText	validationType	divaText
+text	diva-organisationPluralText	recordType	text
+text	diva-organisationPluralText	system	diva
+text	diva-organisationPluralText	user	161616
+text	diva-organisationPluralText	validationType	divaText
 text	diva-organisationSearchDefText	recordType	text
 text	diva-organisationSearchDefText	system	diva
 text	diva-organisationSearchDefText	user	161616
@@ -41017,6 +41054,10 @@ text	divaOutputMainTitleSearchTextVarText	recordType	text
 text	divaOutputMainTitleSearchTextVarText	system	diva
 text	divaOutputMainTitleSearchTextVarText	user	161616
 text	divaOutputMainTitleSearchTextVarText	validationType	divaText
+text	diva-outputPluralText	recordType	text
+text	diva-outputPluralText	system	diva
+text	diva-outputPluralText	user	161616
+text	diva-outputPluralText	validationType	divaText
 text	diva-outputSearchDefText	recordType	text
 text	diva-outputSearchDefText	system	diva
 text	diva-outputSearchDefText	user	161616
@@ -41045,6 +41086,10 @@ text	divaPersonNameSearchTextVarText	recordType	text
 text	divaPersonNameSearchTextVarText	system	diva
 text	divaPersonNameSearchTextVarText	user	161616
 text	divaPersonNameSearchTextVarText	validationType	divaText
+text	diva-personPluralText	recordType	text
+text	diva-personPluralText	system	diva
+text	diva-personPluralText	user	161616
+text	diva-personPluralText	validationType	divaText
 text	diva-personSearchDefText	recordType	text
 text	diva-personSearchDefText	system	diva
 text	diva-personSearchDefText	user	161616
@@ -41085,6 +41130,10 @@ text	diva-programmeDefText	recordType	text
 text	diva-programmeDefText	system	diva
 text	diva-programmeDefText	user	161616
 text	diva-programmeDefText	validationType	divaText
+text	diva-programmePluralText	recordType	text
+text	diva-programmePluralText	system	diva
+text	diva-programmePluralText	user	161616
+text	diva-programmePluralText	validationType	divaText
 text	diva-programmeSearchDefText	recordType	text
 text	diva-programmeSearchDefText	system	diva
 text	diva-programmeSearchDefText	user	161616
@@ -41101,6 +41150,10 @@ text	diva-projectDefText	recordType	text
 text	diva-projectDefText	system	diva
 text	diva-projectDefText	user	161616
 text	diva-projectDefText	validationType	divaText
+text	diva-projectPluralText	recordType	text
+text	diva-projectPluralText	system	diva
+text	diva-projectPluralText	user	161616
+text	diva-projectPluralText	validationType	divaText
 text	diva-projectSearchDefText	recordType	text
 text	diva-projectSearchDefText	system	diva
 text	diva-projectSearchDefText	user	161616
@@ -41127,6 +41180,10 @@ text	diva-publisherDefText	recordType	text
 text	diva-publisherDefText	system	diva
 text	diva-publisherDefText	user	161616
 text	diva-publisherDefText	validationType	divaText
+text	diva-publisherPluralText	recordType	text
+text	diva-publisherPluralText	system	diva
+text	diva-publisherPluralText	user	161616
+text	diva-publisherPluralText	validationType	divaText
 text	diva-publisherSearchDefText	recordType	text
 text	diva-publisherSearchDefText	system	diva
 text	diva-publisherSearchDefText	user	161616
@@ -41143,6 +41200,10 @@ text	diva-seriesDefText	recordType	text
 text	diva-seriesDefText	system	diva
 text	diva-seriesDefText	user	161616
 text	diva-seriesDefText	validationType	divaText
+text	diva-seriesPluralText	recordType	text
+text	diva-seriesPluralText	system	diva
+text	diva-seriesPluralText	user	161616
+text	diva-seriesPluralText	validationType	divaText
 text	diva-seriesSearchDefText	recordType	text
 text	diva-seriesSearchDefText	system	diva
 text	diva-seriesSearchDefText	user	161616
@@ -41159,6 +41220,10 @@ text	diva-subjectDefText	recordType	text
 text	diva-subjectDefText	system	diva
 text	diva-subjectDefText	user	161616
 text	diva-subjectDefText	validationType	divaText
+text	diva-subjectPluralText	recordType	text
+text	diva-subjectPluralText	system	diva
+text	diva-subjectPluralText	user	161616
+text	diva-subjectPluralText	validationType	divaText
 text	diva-subjectSearchDefText	recordType	text
 text	diva-subjectSearchDefText	system	diva
 text	diva-subjectSearchDefText	user	161616
