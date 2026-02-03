@@ -394,6 +394,14 @@ text	divaClient_NoOptionText	recordType	text
 text	divaClient_NoOptionText	system	divaClient
 text	divaClient_NoOptionText	user	161616
 text	divaClient_NoOptionText	validationType	coraText
+text	divaClient_noPostResultsBodyText	recordType	text
+text	divaClient_noPostResultsBodyText	system	divaClient
+text	divaClient_noPostResultsBodyText	user	161616
+text	divaClient_noPostResultsBodyText	validationType	coraText
+text	divaClient_noPostResultsTitleText	recordType	text
+text	divaClient_noPostResultsTitleText	system	divaClient
+text	divaClient_noPostResultsTitleText	user	161616
+text	divaClient_noPostResultsTitleText	validationType	coraText
 text	divaClient_noSearchResultsBodyText	recordType	text
 text	divaClient_noSearchResultsBodyText	system	divaClient
 text	divaClient_noSearchResultsBodyText	user	161616
