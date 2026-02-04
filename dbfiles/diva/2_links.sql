@@ -3602,6 +3602,12 @@ metadata	availableLaterItem	text	availableLaterItemDefText
 metadata	availableLaterItem	text	availableLaterItemText
 metadata	availableLaterItem	user	161616
 metadata	availableLaterItem	validationType	genericCollectionItem
+metadata	availableLaterStatusItem	recordType	metadata
+metadata	availableLaterStatusItem	system	diva
+metadata	availableLaterStatusItem	text	availableLaterStatusItemDefText
+metadata	availableLaterStatusItem	text	availableLaterStatusItemText
+metadata	availableLaterStatusItem	user	161616
+metadata	availableLaterStatusItem	validationType	genericCollectionItem
 metadata	availableNowItem	recordType	metadata
 metadata	availableNowItem	system	diva
 metadata	availableNowItem	text	availableNowItemDefText
@@ -23057,8 +23063,6 @@ presentation	attachmentPGroup	presentation	printOnDemandPCollVar
 presentation	attachmentPGroup	recordType	presentation
 presentation	attachmentPGroup	system	diva
 presentation	attachmentPGroup	text	adminInfoAttachmentGroupText
-presentation	attachmentPGroup	text	dateToBePublishedGroupText
-presentation	attachmentPGroup	text	dateToBeUnpublishedGroupText
 presentation	attachmentPGroup	user	161616
 presentation	attachmentPGroup	validationType	presentationGroup
 presentation	attachmentSContainer	metadata	attachmentGroup
@@ -38590,6 +38594,14 @@ text	availableLaterItemText	recordType	text
 text	availableLaterItemText	system	diva
 text	availableLaterItemText	user	161616
 text	availableLaterItemText	validationType	divaText
+text	availableLaterStatusItemDefText	recordType	text
+text	availableLaterStatusItemDefText	system	diva
+text	availableLaterStatusItemDefText	user	161616
+text	availableLaterStatusItemDefText	validationType	divaText
+text	availableLaterStatusItemText	recordType	text
+text	availableLaterStatusItemText	system	diva
+text	availableLaterStatusItemText	user	161616
+text	availableLaterStatusItemText	validationType	divaText
 text	availableNowItemDefText	recordType	text
 text	availableNowItemDefText	system	diva
 text	availableNowItemDefText	user	161616
