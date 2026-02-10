@@ -1,11 +1,11 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
-diva-member	diva	memberHostnameStorageTerm	diva.portal.org	hostname
-diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
 diva-member	diva	memberHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-member	diva	memberHostnameStorageTerm	localhost	hostname
+diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
+diva-member	diva	memberHostnameStorageTerm	diva.portal.org	hostname
+diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.localhost	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.preview.diva.cora.epc.ub.uu.se	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.pre.diva-portal.org	hostname
-diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.localhost	hostname
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:4412982402853626	userLoginIdStorageTerm	divaUser@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
@@ -18,4 +18,8 @@ user	user:15434036318237201	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
 user	user:15434132643259965	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:15434154245590545	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
 user	user:15434188209615056	userLoginIdStorageTerm	stand516@user.uu.se	loginId
+user	user:4595095479032845	userLoginIdStorageTerm	linje550@user.uu.se	loginId
+user	user:4595298832022798	userLoginIdStorageTerm	carme223@user.uu.se	loginId
+user	user:4662242537815856	userLoginIdStorageTerm	theto274@user.uu.se	loginId
+user	user:4662346064893637	userLoginIdStorageTerm	niclo931@user.uu.se	loginId
 user	user:9091016887765767	userLoginIdStorageTerm	leoda622@user.uu.se	loginId
