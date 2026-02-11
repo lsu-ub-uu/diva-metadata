@@ -1,9 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-diva-output	9	permissionUnit	uu
-diva-output	9	recordType	diva-output
-diva-output	9	system	divaPreview
-diva-output	9	user	161616
-diva-output	9	validationType	diva-output
+diva-output	14	permissionUnit	uu
+diva-output	14	recordType	diva-output
+diva-output	14	system	divaPreview
+diva-output	14	user	161616
+diva-output	14	validationType	diva-output
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616

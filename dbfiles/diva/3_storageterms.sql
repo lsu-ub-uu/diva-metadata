@@ -15,7 +15,6 @@ user	user:15433868478865974	userLoginIdStorageTerm	kenan399@user.uu.se	loginId
 user	user:15433925923832105	userLoginIdStorageTerm	egisw290@user.uu.se	loginId
 user	user:15433988457679920	userLoginIdStorageTerm	andma210@user.uu.se	loginId
 user	user:15434036318237201	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
-user	user:15434132643259965	userLoginIdStorageTerm	palra847@user.uu.se	loginId
 user	user:15434154245590545	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
 user	user:15434188209615056	userLoginIdStorageTerm	stand516@user.uu.se	loginId
 user	user:4595095479032845	userLoginIdStorageTerm	linje550@user.uu.se	loginId
