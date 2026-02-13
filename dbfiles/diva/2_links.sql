@@ -16053,6 +16053,7 @@ metadata	localLabelLink	user	161616
 metadata	localLabelLink	validationType	metadataRecordLink
 metadata	localLabelNewGroup	metadata	descriptionDivaTextVar
 metadata	localLabelNewGroup	metadata	localLabelTextVar
+metadata	localLabelNewGroup	metadata	noteInternalTextVar
 metadata	localLabelNewGroup	metadata	recordInfoLocalLabelNewGroup
 metadata	localLabelNewGroup	recordType	metadata
 metadata	localLabelNewGroup	system	diva
@@ -16079,6 +16080,7 @@ metadata	localLabelUpdateGroup	collectTerm	descriptionCollectIndexTerm
 metadata	localLabelUpdateGroup	collectTerm	genericCollectIndexTerm
 metadata	localLabelUpdateGroup	metadata	descriptionDivaTextVar
 metadata	localLabelUpdateGroup	metadata	localLabelTextVar
+metadata	localLabelUpdateGroup	metadata	noteInternalTextVar
 metadata	localLabelUpdateGroup	metadata	recordInfoLocalLabelUpdateGroup
 metadata	localLabelUpdateGroup	recordType	metadata
 metadata	localLabelUpdateGroup	system	diva
@@ -18596,7 +18598,6 @@ metadata	outputNewGroup	recordType	metadata
 metadata	outputNewGroup	system	diva
 metadata	outputNewGroup	text	outputNewGroupDefText
 metadata	outputNewGroup	text	outputNewGroupText
-metadata	outputNewGroup	user	141414
 metadata	outputNewGroup	user	161616
 metadata	outputNewGroup	validationType	metadataGroup
 metadata	outputScopusSearchTextVar	recordType	metadata
@@ -32277,6 +32278,7 @@ presentation	localLabelSearchPGroup	validationType	presentationGroup
 presentation	localLabelUpdateOutputPGroup	metadata	localLabelUpdateGroup
 presentation	localLabelUpdateOutputPGroup	presentation	descriptionDivaOutputPVar
 presentation	localLabelUpdateOutputPGroup	presentation	localLabelOutputPVar
+presentation	localLabelUpdateOutputPGroup	presentation	noteInternalOutputPVar
 presentation	localLabelUpdateOutputPGroup	presentation	recordInfoLocalLabelUpdateOutputPGroup
 presentation	localLabelUpdateOutputPGroup	recordType	presentation
 presentation	localLabelUpdateOutputPGroup	system	diva
@@ -32286,6 +32288,7 @@ presentation	localLabelUpdateOutputPGroup	validationType	presentationGroup
 presentation	localLabelUpdatePGroup	metadata	localLabelUpdateGroup
 presentation	localLabelUpdatePGroup	presentation	descriptionDivaPVar
 presentation	localLabelUpdatePGroup	presentation	localLabelPVar
+presentation	localLabelUpdatePGroup	presentation	noteInternalPVar
 presentation	localLabelUpdatePGroup	presentation	recordInfoLocalLabelUpdatePGroup
 presentation	localLabelUpdatePGroup	recordType	presentation
 presentation	localLabelUpdatePGroup	system	diva
