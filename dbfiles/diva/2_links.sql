@@ -155,6 +155,10 @@ collectTerm	oldIdCollectIndexTerm	recordType	collectTerm
 collectTerm	oldIdCollectIndexTerm	system	diva
 collectTerm	oldIdCollectIndexTerm	user	161616
 collectTerm	oldIdCollectIndexTerm	validationType	collectIndexTerm
+collectTerm	oldIdStorageTerm	recordType	collectTerm
+collectTerm	oldIdStorageTerm	system	diva
+collectTerm	oldIdStorageTerm	user	161616
+collectTerm	oldIdStorageTerm	validationType	collectStorageTerm
 collectTerm	orcidCollectIndexTerm	recordType	collectTerm
 collectTerm	orcidCollectIndexTerm	system	diva
 collectTerm	orcidCollectIndexTerm	user	161616
@@ -21147,6 +21151,7 @@ metadata	recordInfoCourseNewGroup	text	recordInfoCourseUpdateGroupText
 metadata	recordInfoCourseNewGroup	user	161616
 metadata	recordInfoCourseNewGroup	validationType	metadataGroup
 metadata	recordInfoCourseUpdateGroup	collectTerm	genericIdCollectIndexTerm
+metadata	recordInfoCourseUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoCourseUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoCourseUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoCourseUpdateGroup	collectTerm	trashBinIndexTerm
@@ -21165,7 +21170,6 @@ metadata	recordInfoCourseUpdateGroup	recordType	metadata
 metadata	recordInfoCourseUpdateGroup	system	diva
 metadata	recordInfoCourseUpdateGroup	text	recordInfoCourseUpdateGroupDefText
 metadata	recordInfoCourseUpdateGroup	text	recordInfoCourseUpdateGroupText
-metadata	recordInfoCourseUpdateGroup	user	141414
 metadata	recordInfoCourseUpdateGroup	user	161616
 metadata	recordInfoCourseUpdateGroup	validationType	metadataGroup
 metadata	recordInfoCriticalEditionNewGroup	metadata	dataDividerDivaDataLink
@@ -21531,6 +21535,7 @@ metadata	recordInfoFunderNewGroup	user	161616
 metadata	recordInfoFunderNewGroup	validationType	metadataGroup
 metadata	recordInfoFunderUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoFunderUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoFunderUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoFunderUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoFunderUpdateGroup	collectTerm	trashBinIndexTerm
 metadata	recordInfoFunderUpdateGroup	collectTerm	trashBinPermissionTerm
@@ -21547,7 +21552,6 @@ metadata	recordInfoFunderUpdateGroup	recordType	metadata
 metadata	recordInfoFunderUpdateGroup	system	diva
 metadata	recordInfoFunderUpdateGroup	text	recordInfoFunderUpdateGroupDefText
 metadata	recordInfoFunderUpdateGroup	text	recordInfoFunderUpdateGroupText
-metadata	recordInfoFunderUpdateGroup	user	141414
 metadata	recordInfoFunderUpdateGroup	user	161616
 metadata	recordInfoFunderUpdateGroup	validationType	metadataGroup
 metadata	recordInfoJournalArticleNewGroup	metadata	dataDividerDivaDataLink
@@ -21630,6 +21634,7 @@ metadata	recordInfoJournalNewGroup	user	161616
 metadata	recordInfoJournalNewGroup	validationType	metadataGroup
 metadata	recordInfoJournalUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoJournalUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoJournalUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoJournalUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoJournalUpdateGroup	collectTerm	trashBinIndexTerm
 metadata	recordInfoJournalUpdateGroup	collectTerm	trashBinPermissionTerm
@@ -21646,7 +21651,6 @@ metadata	recordInfoJournalUpdateGroup	recordType	metadata
 metadata	recordInfoJournalUpdateGroup	system	diva
 metadata	recordInfoJournalUpdateGroup	text	recordInfoJournalUpdateGroupDefText
 metadata	recordInfoJournalUpdateGroup	text	recordInfoJournalUpdateGroupText
-metadata	recordInfoJournalUpdateGroup	user	141414
 metadata	recordInfoJournalUpdateGroup	user	161616
 metadata	recordInfoJournalUpdateGroup	validationType	metadataGroup
 metadata	recordInfoLicentiateThesisCompilationNewGroup	metadata	dataDividerDivaDataLink
@@ -21855,6 +21859,7 @@ metadata	recordInfoNewspaperArticleUpdateGroup	user	161616
 metadata	recordInfoNewspaperArticleUpdateGroup	validationType	metadataGroup
 metadata	recordInfoOrganisationUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoOrganisationUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoOrganisationUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoOrganisationUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoOrganisationUpdateGroup	collectTerm	permissionUnitPermissionTerm
 metadata	recordInfoOrganisationUpdateGroup	collectTerm	recordIdCollectIndexTerm
@@ -21874,7 +21879,6 @@ metadata	recordInfoOrganisationUpdateGroup	recordType	metadata
 metadata	recordInfoOrganisationUpdateGroup	system	diva
 metadata	recordInfoOrganisationUpdateGroup	text	recordInfoOrganisationUpdateGroupDefText
 metadata	recordInfoOrganisationUpdateGroup	text	recordInfoOrganisationUpdateGroupText
-metadata	recordInfoOrganisationUpdateGroup	user	141414
 metadata	recordInfoOrganisationUpdateGroup	user	161616
 metadata	recordInfoOrganisationUpdateGroup	validationType	metadataGroup
 metadata	recordInfoOriginalCreativeWorkNewGroup	metadata	dataDividerDivaDataLink
@@ -21942,6 +21946,7 @@ metadata	recordInfoOutputNewGroup	user	161616
 metadata	recordInfoOutputNewGroup	validationType	metadataGroup
 metadata	recordInfoOutputUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoOutputUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoOutputUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoOutputUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoOutputUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoOutputUpdateGroup	collectTerm	trashBinIndexTerm
@@ -21963,7 +21968,6 @@ metadata	recordInfoOutputUpdateGroup	recordType	metadata
 metadata	recordInfoOutputUpdateGroup	system	diva
 metadata	recordInfoOutputUpdateGroup	text	recordInfoOutputUpdateGroupDefText
 metadata	recordInfoOutputUpdateGroup	text	recordInfoOutputUpdateGroupText
-metadata	recordInfoOutputUpdateGroup	user	141414
 metadata	recordInfoOutputUpdateGroup	user	161616
 metadata	recordInfoOutputUpdateGroup	validationType	metadataGroup
 metadata	recordInfoPaperNewGroup	metadata	dataDividerDivaDataLink
@@ -22077,6 +22081,7 @@ metadata	recordInfoPersonNewGroup	user	161616
 metadata	recordInfoPersonNewGroup	validationType	metadataGroup
 metadata	recordInfoPersonUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoPersonUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoPersonUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoPersonUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoPersonUpdateGroup	collectTerm	trashBinIndexTerm
 metadata	recordInfoPersonUpdateGroup	collectTerm	trashBinPermissionTerm
@@ -22214,6 +22219,7 @@ metadata	recordInfoProgrammeNewGroup	user	161616
 metadata	recordInfoProgrammeNewGroup	validationType	metadataGroup
 metadata	recordInfoProgrammeUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoProgrammeUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoProgrammeUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoProgrammeUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoProgrammeUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoProgrammeUpdateGroup	collectTerm	trashBinIndexTerm
@@ -22232,7 +22238,6 @@ metadata	recordInfoProgrammeUpdateGroup	recordType	metadata
 metadata	recordInfoProgrammeUpdateGroup	system	diva
 metadata	recordInfoProgrammeUpdateGroup	text	recordInfoProgrammeUpdateGroupDefText
 metadata	recordInfoProgrammeUpdateGroup	text	recordInfoProgrammeUpdateGroupText
-metadata	recordInfoProgrammeUpdateGroup	user	141414
 metadata	recordInfoProgrammeUpdateGroup	user	161616
 metadata	recordInfoProgrammeUpdateGroup	validationType	metadataGroup
 metadata	recordInfoProjectNewGroup	metadata	dataDividerDivaDataLink
@@ -22247,6 +22252,7 @@ metadata	recordInfoProjectNewGroup	user	161616
 metadata	recordInfoProjectNewGroup	validationType	metadataGroup
 metadata	recordInfoProjectUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoProjectUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoProjectUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoProjectUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoProjectUpdateGroup	collectTerm	trashBinIndexTerm
 metadata	recordInfoProjectUpdateGroup	collectTerm	trashBinPermissionTerm
@@ -22263,7 +22269,6 @@ metadata	recordInfoProjectUpdateGroup	recordType	metadata
 metadata	recordInfoProjectUpdateGroup	system	diva
 metadata	recordInfoProjectUpdateGroup	text	recordInfoProjectUpdateGroupDefText
 metadata	recordInfoProjectUpdateGroup	text	recordInfoProjectUpdateGroupText
-metadata	recordInfoProjectUpdateGroup	user	141414
 metadata	recordInfoProjectUpdateGroup	user	161616
 metadata	recordInfoProjectUpdateGroup	validationType	metadataGroup
 metadata	recordInfoPublicationOtherNewGroup	metadata	dataDividerDivaDataLink
@@ -22312,6 +22317,7 @@ metadata	recordInfoPublisherNewGroup	user	161616
 metadata	recordInfoPublisherNewGroup	validationType	metadataGroup
 metadata	recordInfoPublisherUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoPublisherUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoPublisherUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoPublisherUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoPublisherUpdateGroup	collectTerm	trashBinIndexTerm
 metadata	recordInfoPublisherUpdateGroup	collectTerm	trashBinPermissionTerm
@@ -22328,7 +22334,6 @@ metadata	recordInfoPublisherUpdateGroup	recordType	metadata
 metadata	recordInfoPublisherUpdateGroup	system	diva
 metadata	recordInfoPublisherUpdateGroup	text	recordInfoPublisherUpdateGroupDefText
 metadata	recordInfoPublisherUpdateGroup	text	recordInfoPublisherUpdateGroupText
-metadata	recordInfoPublisherUpdateGroup	user	141414
 metadata	recordInfoPublisherUpdateGroup	user	161616
 metadata	recordInfoPublisherUpdateGroup	validationType	metadataGroup
 metadata	recordInfoReportChapterNewGroup	metadata	dataDividerDivaDataLink
@@ -22446,6 +22451,7 @@ metadata	recordInfoSeriesNewGroup	user	161616
 metadata	recordInfoSeriesNewGroup	validationType	metadataGroup
 metadata	recordInfoSeriesUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoSeriesUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoSeriesUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoSeriesUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoSeriesUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoSeriesUpdateGroup	collectTerm	trashBinIndexTerm
@@ -22464,7 +22470,6 @@ metadata	recordInfoSeriesUpdateGroup	recordType	metadata
 metadata	recordInfoSeriesUpdateGroup	system	diva
 metadata	recordInfoSeriesUpdateGroup	text	recordInfoSeriesUpdateGroupDefText
 metadata	recordInfoSeriesUpdateGroup	text	recordInfoSeriesUpdateGroupText
-metadata	recordInfoSeriesUpdateGroup	user	141414
 metadata	recordInfoSeriesUpdateGroup	user	161616
 metadata	recordInfoSeriesUpdateGroup	validationType	metadataGroup
 metadata	recordInfoSubjectNewGroup	metadata	dataDividerDivaDataLink
@@ -22480,6 +22485,7 @@ metadata	recordInfoSubjectNewGroup	user	161616
 metadata	recordInfoSubjectNewGroup	validationType	metadataGroup
 metadata	recordInfoSubjectUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	recordInfoSubjectUpdateGroup	collectTerm	oldIdCollectIndexTerm
+metadata	recordInfoSubjectUpdateGroup	collectTerm	oldIdStorageTerm
 metadata	recordInfoSubjectUpdateGroup	collectTerm	permissionUnitCollectIndexTerm
 metadata	recordInfoSubjectUpdateGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoSubjectUpdateGroup	collectTerm	trashBinIndexTerm
@@ -22498,7 +22504,6 @@ metadata	recordInfoSubjectUpdateGroup	recordType	metadata
 metadata	recordInfoSubjectUpdateGroup	system	diva
 metadata	recordInfoSubjectUpdateGroup	text	recordInfoSubjectUpdateGroupDefText
 metadata	recordInfoSubjectUpdateGroup	text	recordInfoSubjectUpdateGroupText
-metadata	recordInfoSubjectUpdateGroup	user	141414
 metadata	recordInfoSubjectUpdateGroup	user	161616
 metadata	recordInfoSubjectUpdateGroup	validationType	metadataGroup
 metadata	recordInfoTopOrganisationNewGroup	metadata	dataDividerDivaDataLink
@@ -39874,6 +39879,7 @@ presentation	yearWithLabelWhenListOutputPVar	system	diva
 presentation	yearWithLabelWhenListOutputPVar	text	divaClient_yearIssuedText
 presentation	yearWithLabelWhenListOutputPVar	user	161616
 presentation	yearWithLabelWhenListOutputPVar	validationType	presentationVar
+recordType	diva-course	collectTerm	oldIdStorageTerm
 recordType	diva-course	metadata	courseUpdateGroup
 recordType	diva-course	presentation	courseUpdateOutputPGroup
 recordType	diva-course	presentation	diva-courseAutocompletePGroup
@@ -39888,6 +39894,7 @@ recordType	diva-course	text	diva-coursePluralText
 recordType	diva-course	text	diva-courseText
 recordType	diva-course	user	161616
 recordType	diva-course	validationType	recordType
+recordType	diva-funder	collectTerm	oldIdStorageTerm
 recordType	diva-funder	metadata	funderUpdateGroup
 recordType	diva-funder	presentation	diva-funderAutocompletePGroup
 recordType	diva-funder	presentation	diva-funderListPGroup
@@ -39903,6 +39910,7 @@ recordType	diva-funder	text	diva-funderText
 recordType	diva-funder	user	161616
 recordType	diva-funder	validationType	recordType
 recordType	diva-journal	collectTerm	identifierIssnStorageTerm
+recordType	diva-journal	collectTerm	oldIdStorageTerm
 recordType	diva-journal	metadata	journalUpdateGroup
 recordType	diva-journal	presentation	diva-journalAutocompletePGroup
 recordType	diva-journal	presentation	diva-journalListPGroup
@@ -39945,6 +39953,7 @@ recordType	diva-member	text	diva-memberPluralText
 recordType	diva-member	text	diva-memberText
 recordType	diva-member	user	161616
 recordType	diva-member	validationType	recordType
+recordType	diva-organisation	collectTerm	oldIdStorageTerm
 recordType	diva-organisation	metadata	organisationUpdateGroup
 recordType	diva-organisation	presentation	diva-organisationAutocompletePGroup
 recordType	diva-organisation	presentation	diva-organisationListPGroup
@@ -39959,6 +39968,7 @@ recordType	diva-organisation	text	diva-organisationPluralText
 recordType	diva-organisation	text	diva-organisationText
 recordType	diva-organisation	user	161616
 recordType	diva-organisation	validationType	recordType
+recordType	diva-output	collectTerm	oldIdStorageTerm
 recordType	diva-output	metadata	diva-outputGroup
 recordType	diva-output	presentation	diva-outputAutocompletePGroup
 recordType	diva-output	presentation	diva-outputMenuPGroup
@@ -39973,6 +39983,7 @@ recordType	diva-output	text	diva-outputPluralText
 recordType	diva-output	text	diva-outputText
 recordType	diva-output	user	161616
 recordType	diva-output	validationType	recordType
+recordType	diva-person	collectTerm	oldIdStorageTerm
 recordType	diva-person	metadata	personUpdateGroup
 recordType	diva-person	presentation	diva-personAutocompletePGroup
 recordType	diva-person	presentation	diva-personListPGroup
@@ -39987,6 +39998,7 @@ recordType	diva-person	text	diva-personPluralText
 recordType	diva-person	text	diva-personText
 recordType	diva-person	user	161616
 recordType	diva-person	validationType	recordType
+recordType	diva-programme	collectTerm	oldIdStorageTerm
 recordType	diva-programme	metadata	programmeUpdateGroup
 recordType	diva-programme	presentation	diva-programmeAutocompletePGroup
 recordType	diva-programme	presentation	diva-programmeListPGroup
@@ -40001,6 +40013,7 @@ recordType	diva-programme	text	diva-programmePluralText
 recordType	diva-programme	text	diva-programmeText
 recordType	diva-programme	user	161616
 recordType	diva-programme	validationType	recordType
+recordType	diva-project	collectTerm	oldIdStorageTerm
 recordType	diva-project	metadata	projectUpdateGroup
 recordType	diva-project	presentation	diva-projectAutocompletePGroup
 recordType	diva-project	presentation	diva-projectListPGroup
@@ -40015,6 +40028,7 @@ recordType	diva-project	text	diva-projectPluralText
 recordType	diva-project	text	diva-projectText
 recordType	diva-project	user	161616
 recordType	diva-project	validationType	recordType
+recordType	diva-publisher	collectTerm	oldIdStorageTerm
 recordType	diva-publisher	metadata	publisherUpdateGroup
 recordType	diva-publisher	presentation	diva-publisherAutocompletePGroup
 recordType	diva-publisher	presentation	diva-publisherListPGroup
@@ -40030,6 +40044,7 @@ recordType	diva-publisher	text	diva-publisherText
 recordType	diva-publisher	user	161616
 recordType	diva-publisher	validationType	recordType
 recordType	diva-series	collectTerm	identifierIssnStorageTerm
+recordType	diva-series	collectTerm	oldIdStorageTerm
 recordType	diva-series	metadata	seriesUpdateGroup
 recordType	diva-series	presentation	diva-seriesAutocompletePGroup
 recordType	diva-series	presentation	diva-seriesListPGroup
@@ -40044,6 +40059,7 @@ recordType	diva-series	text	diva-seriesPluralText
 recordType	diva-series	text	diva-seriesText
 recordType	diva-series	user	161616
 recordType	diva-series	validationType	recordType
+recordType	diva-subject	collectTerm	oldIdStorageTerm
 recordType	diva-subject	metadata	subjectUpdateGroup
 recordType	diva-subject	presentation	diva-subjectAutocompletePGroup
 recordType	diva-subject	presentation	diva-subjectListPGroup
