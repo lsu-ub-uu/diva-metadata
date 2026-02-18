@@ -13227,7 +13227,6 @@ metadata	funderSearchGroup	validationType	metadataGroup
 metadata	funderUpdateGroup	collectTerm	doiCollectIndexTerm
 metadata	funderUpdateGroup	collectTerm	genericIdCollectIndexTerm
 metadata	funderUpdateGroup	collectTerm	identifierDoiStorageTerm
-metadata	funderUpdateGroup	collectTerm	identifierOrganisationNumberStorageTerm
 metadata	funderUpdateGroup	collectTerm	identifierRorStorageTerm
 metadata	funderUpdateGroup	collectTerm	organisationNumberCollectIndexTerm
 metadata	funderUpdateGroup	collectTerm	rorCollectIndexTerm
@@ -40147,7 +40146,6 @@ recordType	diva-course	text	diva-courseText
 recordType	diva-course	user	161616
 recordType	diva-course	validationType	recordType
 recordType	diva-funder	collectTerm	identifierDoiStorageTerm
-recordType	diva-funder	collectTerm	identifierOrganisationNumberStorageTerm
 recordType	diva-funder	collectTerm	identifierRorStorageTerm
 recordType	diva-funder	collectTerm	oldIdStorageTerm
 recordType	diva-funder	metadata	funderUpdateGroup
