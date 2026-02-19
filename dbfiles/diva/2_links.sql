@@ -28598,7 +28598,7 @@ presentation	attachmentsPGroup	presentation	noteAttachmentPVar
 presentation	attachmentsPGroup	recordType	presentation
 presentation	attachmentsPGroup	system	diva
 presentation	attachmentsPGroup	text	attachmentGroupText
-presentation	attachmentsPGroup	text	attachmentLabelText
+presentation	attachmentsPGroup	text	attachmentNoVersionLabelText
 presentation	attachmentsPGroup	text	attachmentVersionFullTextLabelText
 presentation	attachmentsPGroup	user	161616
 presentation	attachmentsPGroup	validationType	presentationGroup
@@ -44581,6 +44581,10 @@ text	attachmentLabelText	recordType	text
 text	attachmentLabelText	system	diva
 text	attachmentLabelText	user	161616
 text	attachmentLabelText	validationType	divaText
+text	attachmentNoVersionLabelText	recordType	text
+text	attachmentNoVersionLabelText	system	diva
+text	attachmentNoVersionLabelText	user	161616
+text	attachmentNoVersionLabelText	validationType	divaText
 text	attachmentRequestedVisibilityCollectionDefText	recordType	text
 text	attachmentRequestedVisibilityCollectionDefText	system	diva
 text	attachmentRequestedVisibilityCollectionDefText	user	161616
