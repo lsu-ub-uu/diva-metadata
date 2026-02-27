@@ -60158,6 +60158,9 @@ user	user:15433743141661287	permissionRole	divaIndexEverythingRole
 user	user:15433743141661287	permissionRole	divaSystemAdminRole
 user	user:15433743141661287	permissionRole	metadataAdmin
 user	user:15433743141661287	permissionRole	userAdminRole
+user	user:15433743141661287	permissionUnit	diva
+user	user:15433743141661287	permissionUnit	nordiskamuseet
+user	user:15433743141661287	permissionUnit	uu
 user	user:15433743141661287	recordType	user
 user	user:15433743141661287	system	diva
 user	user:15433743141661287	user	141414
