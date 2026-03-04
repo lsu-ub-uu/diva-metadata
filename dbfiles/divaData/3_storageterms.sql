@@ -5,5 +5,9 @@ diva-funder	8	identifierDoiStorageTerm	10.13123213/adkja93131	identifierDoi
 diva-funder	8	identifierRorStorageTerm	048a87297	identifierRor
 diva-journal	7	identifierIssnStorageTerm	6567-2432	identifierIssn
 diva-journal	7	identifierIssnStorageTerm	2334-5421	identifierIssn
-diva-organisation	7	identifierOrganisationNumberStorageTerm	1804804840840	identifierOrganisationNumber
+diva-journal	8	identifierIssnStorageTerm	0195-668X	identifierIssn
+diva-journal	8	identifierIssnStorageTerm	1522-9645	identifierIssn
 diva-organisation	7	identifierRorStorageTerm	048a87296	identifierRor
+diva-organisation	7	identifierOrganisationNumberStorageTerm	1804804840840	identifierOrganisationNumber
+diva-series	3	permissionUnitStorageTerm	permissionUnit_uu	permissionUnit
+diva-series	3	identifierIssnStorageTerm	0077-8923	identifierIssn
