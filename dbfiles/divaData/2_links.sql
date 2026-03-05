@@ -35,6 +35,11 @@ diva-organisation	8	recordType	diva-organisation
 diva-organisation	8	system	divaData
 diva-organisation	8	user	161616
 diva-organisation	8	validationType	diva-partOfOrganisation
+diva-person	13	diva-organisation	8
+diva-person	13	recordType	diva-person
+diva-person	13	system	divaData
+diva-person	13	user	161616
+diva-person	13	validationType	diva-person
 diva-programme	3	permissionUnit	uu
 diva-programme	3	recordType	diva-programme
 diva-programme	3	system	divaData
