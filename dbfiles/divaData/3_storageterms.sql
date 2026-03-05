@@ -1,15 +1,1 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
-diva-funder	6	identifierDoiStorageTerm	10.13123213/adkja93141	identifierDoi
-diva-funder	6	identifierRorStorageTerm	048a87296	identifierRor
-diva-funder	8	identifierDoiStorageTerm	10.13123213/adkja93131	identifierDoi
-diva-funder	8	identifierRorStorageTerm	048a87297	identifierRor
-diva-journal	7	identifierIssnStorageTerm	6567-2432	identifierIssn
-diva-journal	7	identifierIssnStorageTerm	2334-5421	identifierIssn
-diva-journal	8	identifierIssnStorageTerm	0195-668X	identifierIssn
-diva-journal	8	identifierIssnStorageTerm	1522-9645	identifierIssn
-diva-organisation	7	identifierRorStorageTerm	048a87296	identifierRor
-diva-organisation	7	identifierOrganisationNumberStorageTerm	1804804840840	identifierOrganisationNumber
-diva-person	13	nameIdentifierLocalIdStorageTerm	adasd	nameIdentifierLocalId
-diva-person	13	nameIdentifierOrcidStorageTerm	0000-0003-1377-5676	nameIdentifierOrcid
-diva-series	3	identifierIssnStorageTerm	0077-8923	identifierIssn
-diva-series	3	permissionUnitStorageTerm	permissionUnit_uu	permissionUnit
