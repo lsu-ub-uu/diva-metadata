@@ -73,7 +73,7 @@ user	coraUser:542161975513761	permissionRole	divaSystemAdminRole
 user	coraUser:542161975513761	permissionRole	metadataAdmin
 user	coraUser:542161975513761	recordType	user
 user	coraUser:542161975513761	system	divaPreview
-user	coraUser:542161975513761	user	161616
+user	coraUser:542161975513761	user	coraUser:1299694997493014
 user	coraUser:542161975513761	user	coraUser:490742519075086
 user	coraUser:542161975513761	validationType	coraUser
 user	coraUser:542165753711000	collectTerm	domainPermissionTerm
