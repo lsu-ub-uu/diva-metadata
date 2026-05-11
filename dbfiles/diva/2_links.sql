@@ -62133,17 +62133,6 @@ user	user:15433925923832105	system	diva
 user	user:15433925923832105	user	141414
 user	user:15433925923832105	user	161616
 user	user:15433925923832105	validationType	coraUser
-user	user:15433988457679920	collectTerm	systemPermissionTerm
-user	user:15433988457679920	permissionRole	binaryUserRole
-user	user:15433988457679920	permissionRole	divaIndexEverythingRole
-user	user:15433988457679920	permissionRole	divaSystemAdminRole
-user	user:15433988457679920	permissionRole	metadataAdmin
-user	user:15433988457679920	permissionRole	userAdminRole
-user	user:15433988457679920	recordType	user
-user	user:15433988457679920	system	diva
-user	user:15433988457679920	user	141414
-user	user:15433988457679920	user	161616
-user	user:15433988457679920	validationType	coraUser
 user	user:15434036318237201	collectTerm	systemPermissionTerm
 user	user:15434036318237201	permissionRole	binaryUserRole
 user	user:15434036318237201	permissionRole	divaIndexEverythingRole
