@@ -271,6 +271,10 @@ text	divaClient_identifierText	recordType	text
 text	divaClient_identifierText	system	divaClient
 text	divaClient_identifierText	user	161616
 text	divaClient_identifierText	validationType	coraText
+text	divaClient_imageAttributionModifiedText	recordType	text
+text	divaClient_imageAttributionModifiedText	system	divaClient
+text	divaClient_imageAttributionModifiedText	user	161616
+text	divaClient_imageAttributionModifiedText	validationType	coraText
 text	divaClient_invalidRangeMaxText	recordType	text
 text	divaClient_invalidRangeMaxText	system	divaClient
 text	divaClient_invalidRangeMaxText	user	161616
