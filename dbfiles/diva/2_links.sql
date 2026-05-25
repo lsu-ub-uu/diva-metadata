@@ -42232,7 +42232,7 @@ recordType	diva-output	presentation	diva-outputMenuPGroup
 recordType	diva-output	presentation	outputSimpleSearchListPGroup
 recordType	diva-output	presentation	outputUpdateOutputPGroup
 recordType	diva-output	recordType	recordType
-recordType	diva-output	search	diva-outputSearch
+recordType	diva-output	search	outputPublicSearch
 recordType	diva-output	sequence	outputSequence
 recordType	diva-output	system	diva
 recordType	diva-output	text	diva-outputDefText
