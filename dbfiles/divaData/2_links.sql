@@ -33,3 +33,15 @@ diva-output	42	recordType	diva-output
 diva-output	42	system	divaData
 diva-output	42	user	161616
 diva-output	42	validationType	publication_edited-book
+diva-output	44	diva-localLabel	12
+diva-output	44	permissionUnit	uu
+diva-output	44	recordType	diva-output
+diva-output	44	system	divaData
+diva-output	44	user	161616
+diva-output	44	validationType	publication_journal-article
+diva-output	45	diva-localLabel	12
+diva-output	45	permissionUnit	uu
+diva-output	45	recordType	diva-output
+diva-output	45	system	divaData
+diva-output	45	user	161616
+diva-output	45	validationType	publication_report
