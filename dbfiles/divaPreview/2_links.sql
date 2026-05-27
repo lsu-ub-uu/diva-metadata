@@ -1,10 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-diva-output	43	diva-localLabel	12
-diva-output	43	permissionUnit	uu
-diva-output	43	recordType	diva-output
-diva-output	43	system	divaPreview
-diva-output	43	user	161616
-diva-output	43	validationType	diva-output
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616
