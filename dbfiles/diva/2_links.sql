@@ -26970,6 +26970,7 @@ metadata	titleInfoAlternativeLangSweEngGroup	text	titleInfoAlternativeLangSweEng
 metadata	titleInfoAlternativeLangSweEngGroup	user	161616
 metadata	titleInfoAlternativeLangSweEngGroup	validationType	metadataGroup
 metadata	titleInfoGroup	collectTerm	genericIndexTerm
+metadata	titleInfoGroup	collectTerm	titleIndexTerm
 metadata	titleInfoGroup	metadata	subtitleTextVar
 metadata	titleInfoGroup	metadata	titleTextVar
 metadata	titleInfoGroup	recordType	metadata
@@ -31752,6 +31753,7 @@ presentation	divaPersonNameSearchOutputPVar	validationType	presentationVar
 presentation	divaPersonNameSearchPVar	metadata	divaPersonNameSearchTextVar
 presentation	divaPersonNameSearchPVar	recordType	presentation
 presentation	divaPersonNameSearchPVar	system	diva
+presentation	divaPersonNameSearchPVar	text	personNameSearchExampleText
 presentation	divaPersonNameSearchPVar	user	161616
 presentation	divaPersonNameSearchPVar	validationType	presentationVar
 presentation	diva-programmeAutocompletePGroup	metadata	programmeUpdateGroup
@@ -37520,7 +37522,6 @@ presentation	personSearchOutputPGroup	system	diva
 presentation	personSearchOutputPGroup	user	161616
 presentation	personSearchOutputPGroup	validationType	presentationGroup
 presentation	personSearchPGroup	metadata	personSearchGroup
-presentation	personSearchPGroup	presentation	outputSimpleIncludePGroup
 presentation	personSearchPGroup	presentation	personIncludePGroup
 presentation	personSearchPGroup	presentation	searchRowsPNumVar
 presentation	personSearchPGroup	presentation	searchStartPNumVar
@@ -38009,7 +38010,6 @@ presentation	projectSearchOutputPGroup	system	diva
 presentation	projectSearchOutputPGroup	user	161616
 presentation	projectSearchOutputPGroup	validationType	presentationGroup
 presentation	projectSearchPGroup	metadata	projectSearchGroup
-presentation	projectSearchPGroup	presentation	outputSimpleIncludePGroup
 presentation	projectSearchPGroup	presentation	projectIncludePGroup
 presentation	projectSearchPGroup	presentation	searchRowsPNumVar
 presentation	projectSearchPGroup	presentation	searchStartPNumVar
@@ -41541,6 +41541,7 @@ presentation	titleSearchOutputPVar	validationType	presentationVar
 presentation	titleSearchPVar	metadata	titleSearchTextVar
 presentation	titleSearchPVar	recordType	presentation
 presentation	titleSearchPVar	system	diva
+presentation	titleSearchPVar	text	titleSearchExampleText
 presentation	titleSearchPVar	user	161616
 presentation	titleSearchPVar	validationType	presentationVar
 presentation	titleWhenListPVar	metadata	titleTextVar
@@ -57184,6 +57185,10 @@ text	personLinkText	recordType	text
 text	personLinkText	system	diva
 text	personLinkText	user	161616
 text	personLinkText	validationType	divaText
+text	personNameSearchExampleText	recordType	text
+text	personNameSearchExampleText	system	diva
+text	personNameSearchExampleText	user	161616
+text	personNameSearchExampleText	validationType	divaText
 text	personNewGroupDefText	recordType	text
 text	personNewGroupDefText	system	diva
 text	personNewGroupDefText	user	161616
@@ -61356,6 +61361,10 @@ text	titleInfoLangSweEngGroupText	recordType	text
 text	titleInfoLangSweEngGroupText	system	diva
 text	titleInfoLangSweEngGroupText	user	161616
 text	titleInfoLangSweEngGroupText	validationType	divaText
+text	titleSearchExampleText	recordType	text
+text	titleSearchExampleText	system	diva
+text	titleSearchExampleText	user	161616
+text	titleSearchExampleText	validationType	divaText
 text	titleSearchTextVarDefText	recordType	text
 text	titleSearchTextVarDefText	system	diva
 text	titleSearchTextVarDefText	user	161616
