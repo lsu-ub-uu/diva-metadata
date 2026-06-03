@@ -1,4 +1,8 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+diva-clientContent	diva-clientContent	recordType	diva-clientContent
+diva-clientContent	diva-clientContent	system	divaPreview
+diva-clientContent	diva-clientContent	user	161616
+diva-clientContent	diva-clientContent	validationType	diva-clientContent
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616

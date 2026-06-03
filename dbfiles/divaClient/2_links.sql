@@ -46,6 +46,10 @@ text	divaClient_clearRecordLinkText	recordType	text
 text	divaClient_clearRecordLinkText	system	divaClient
 text	divaClient_clearRecordLinkText	user	161616
 text	divaClient_clearRecordLinkText	validationType	coraText
+text	divaClient_clientContentSettingsText	recordType	text
+text	divaClient_clientContentSettingsText	system	divaClient
+text	divaClient_clientContentSettingsText	user	161616
+text	divaClient_clientContentSettingsText	validationType	coraText
 text	divaClient_closeText	recordType	text
 text	divaClient_closeText	system	divaClient
 text	divaClient_closeText	user	161616
