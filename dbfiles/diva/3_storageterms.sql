@@ -2,15 +2,3 @@ COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey)
 user	161616	userLoginIdStorageTerm	divaAdmin@cora.epc.ub.uu.se	loginId
 user	coraUser:4412982402853626	userLoginIdStorageTerm	divaUser@cora.epc.ub.uu.se	loginId
 user	coraUser:5368656924943436	userLoginIdStorageTerm	divaguest@system.cora.uu.se	loginId
-user	user:15433743141661287	userLoginIdStorageTerm	sarto903@user.uu.se	loginId
-user	user:15433802151162560	userLoginIdStorageTerm	perba577@user.uu.se	loginId
-user	user:15433868478865974	userLoginIdStorageTerm	kenan399@user.uu.se	loginId
-user	user:15433925923832105	userLoginIdStorageTerm	egisw290@user.uu.se	loginId
-user	user:15434036318237201	userLoginIdStorageTerm	marvi707@user.uu.se	loginId
-user	user:15434154245590545	userLoginIdStorageTerm	olfel499@user.uu.se	loginId
-user	user:15434188209615056	userLoginIdStorageTerm	stand516@user.uu.se	loginId
-user	user:4595095479032845	userLoginIdStorageTerm	linje550@user.uu.se	loginId
-user	user:4595298832022798	userLoginIdStorageTerm	carme223@user.uu.se	loginId
-user	user:4662242537815856	userLoginIdStorageTerm	theto274@user.uu.se	loginId
-user	user:4662346064893637	userLoginIdStorageTerm	niclo931@user.uu.se	loginId
-user	user:9091016887765767	userLoginIdStorageTerm	leoda622@user.uu.se	loginId
