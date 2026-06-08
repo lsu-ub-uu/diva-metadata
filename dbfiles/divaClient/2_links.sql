@@ -230,6 +230,10 @@ text	divaClient_footerCookiesLinkText	recordType	text
 text	divaClient_footerCookiesLinkText	system	divaClient
 text	divaClient_footerCookiesLinkText	user	161616
 text	divaClient_footerCookiesLinkText	validationType	coraText
+text	divaClient_footerDeveloperLinkText	recordType	text
+text	divaClient_footerDeveloperLinkText	system	divaClient
+text	divaClient_footerDeveloperLinkText	user	161616
+text	divaClient_footerDeveloperLinkText	validationType	coraText
 text	divaClient_footerJsClientLinkText	recordType	text
 text	divaClient_footerJsClientLinkText	system	divaClient
 text	divaClient_footerJsClientLinkText	user	161616
