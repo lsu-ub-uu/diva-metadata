@@ -86,12 +86,6 @@ diva-member	nordiskamuseet	recordType	diva-member
 diva-member	nordiskamuseet	system	divaPreview
 diva-member	nordiskamuseet	user	161616
 diva-member	nordiskamuseet	validationType	diva-member
-diva-output	25	diva-localLabel	10
-diva-output	25	permissionUnit	uu
-diva-output	25	recordType	diva-output
-diva-output	25	system	divaPreview
-diva-output	25	user	161616
-diva-output	25	validationType	diva-output
 login	uuPreviewDiVAwr	recordType	login
 login	uuPreviewDiVAwr	system	divaPreview
 login	uuPreviewDiVAwr	user	161616

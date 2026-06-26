@@ -5,9 +5,8 @@ diva-member	diva	memberHostnameStorageTerm	pre.diva-portal.org	hostname
 diva-member	diva	memberHostnameStorageTerm	preview.diva.cora.epc.ub.uu.se	hostname
 diva-member	diva	memberHostnameStorageTerm	localhost	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.preview.diva.cora.epc.ub.uu.se	hostname
-diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.pre.diva-portal.org	hostname
 diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.localhost	hostname
-diva-output	25	urnStorageTerm	urn:nbn:se:diva-25	urn
+diva-member	nordiskamuseet	memberHostnameStorageTerm	nordiskamuseet.pre.diva-portal.org	hostname
 user	coraUser:1299694997493014	userLoginIdStorageTerm	divaFitnesseEverything@system.cora.uu.se	loginId
 user	coraUser:490742519075086	userLoginIdStorageTerm	divaEverything@diva.cora.uu.se	loginId
 user	coraUser:491144693381458	userLoginIdStorageTerm	dominAdminUU@diva.cora.uu.se	loginId
