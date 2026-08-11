@@ -210,6 +210,10 @@ text	divaClient_fileInputText	recordType	text
 text	divaClient_fileInputText	system	divaClient
 text	divaClient_fileInputText	user	161616
 text	divaClient_fileInputText	validationType	coraText
+text	divaClient_filteringText	recordType	text
+text	divaClient_filteringText	system	divaClient
+text	divaClient_filteringText	user	161616
+text	divaClient_filteringText	validationType	coraText
 text	divaClient_filterRemoveText	recordType	text
 text	divaClient_filterRemoveText	system	divaClient
 text	divaClient_filterRemoveText	user	161616
