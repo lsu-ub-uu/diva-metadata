@@ -475,6 +475,10 @@ text	divaClient_optionNoneText	recordType	text
 text	divaClient_optionNoneText	system	divaClient
 text	divaClient_optionNoneText	user	161616
 text	divaClient_optionNoneText	validationType	coraText
+text	divaClient_outputLinksText	recordType	text
+text	divaClient_outputLinksText	system	divaClient
+text	divaClient_outputLinksText	user	161616
+text	divaClient_outputLinksText	validationType	coraText
 text	divaClient_paginationFirstPageText	recordType	text
 text	divaClient_paginationFirstPageText	system	divaClient
 text	divaClient_paginationFirstPageText	user	161616
