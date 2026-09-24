@@ -204,7 +204,6 @@ user	user:182924359788077	permissionRole	divaAdminRole
 user	user:182924359788077	permissionUnit	nordiskamuseet
 user	user:182924359788077	recordType	user
 user	user:182924359788077	system	divaPreview
-user	user:182924359788077	systemSecret	systemSecret:8024331851404878
 user	user:182924359788077	user	141414
 user	user:182924359788077	user	161616
 user	user:182924359788077	validationType	coraUser
@@ -214,7 +213,6 @@ user	user:8985188367779791	permissionRole	divaMemberAdminRole
 user	user:8985188367779791	permissionUnit	nordiskamuseet
 user	user:8985188367779791	recordType	user
 user	user:8985188367779791	system	divaPreview
-user	user:8985188367779791	systemSecret	systemSecret:8023643215629147
 user	user:8985188367779791	user	141414
 user	user:8985188367779791	user	161616
 user	user:8985188367779791	validationType	coraUser
