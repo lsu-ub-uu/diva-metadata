@@ -503,6 +503,10 @@ text	divaClient_paginationRowsPerPageText	recordType	text
 text	divaClient_paginationRowsPerPageText	system	divaClient
 text	divaClient_paginationRowsPerPageText	user	161616
 text	divaClient_paginationRowsPerPageText	validationType	coraText
+text	divaClient_publishBinaryText	recordType	text
+text	divaClient_publishBinaryText	system	divaClient
+text	divaClient_publishBinaryText	user	161616
+text	divaClient_publishBinaryText	validationType	coraText
 text	divaClient_publishRecordText	recordType	text
 text	divaClient_publishRecordText	system	divaClient
 text	divaClient_publishRecordText	user	161616
@@ -693,6 +697,10 @@ text	divaClient_unknownErrorTitleText	recordType	text
 text	divaClient_unknownErrorTitleText	system	divaClient
 text	divaClient_unknownErrorTitleText	user	161616
 text	divaClient_unknownErrorTitleText	validationType	coraText
+text	divaClient_unpublishBinaryText	recordType	text
+text	divaClient_unpublishBinaryText	system	divaClient
+text	divaClient_unpublishBinaryText	user	161616
+text	divaClient_unpublishBinaryText	validationType	coraText
 text	divaClient_unpublishRecordText	recordType	text
 text	divaClient_unpublishRecordText	system	divaClient
 text	divaClient_unpublishRecordText	user	161616
