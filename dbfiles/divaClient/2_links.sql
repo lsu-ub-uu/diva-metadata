@@ -750,6 +750,10 @@ text	divaClient_viewInApiText	recordType	text
 text	divaClient_viewInApiText	system	divaClient
 text	divaClient_viewInApiText	user	161616
 text	divaClient_viewInApiText	validationType	coraText
+text	divaClient_viewOldRecordText	recordType	text
+text	divaClient_viewOldRecordText	system	divaClient
+text	divaClient_viewOldRecordText	user	161616
+text	divaClient_viewOldRecordText	validationType	coraText
 text	divaClient_viewRecordText	recordType	text
 text	divaClient_viewRecordText	system	divaClient
 text	divaClient_viewRecordText	user	161616
