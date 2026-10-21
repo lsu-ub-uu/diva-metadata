@@ -1,4 +1,16 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+binary	binary:10373178927381150	diva-member	nordiskamuseet
+binary	binary:10373178927381150	recordType	binary
+binary	binary:10373178927381150	system	divaPreview
+binary	binary:10373178927381150	user	161616
+binary	binary:10373178927381150	user	binaryConverter
+binary	binary:10373178927381150	validationType	genericBinary
+binary	binary:10373367378600852	diva-member	nordiskamuseet
+binary	binary:10373367378600852	recordType	binary
+binary	binary:10373367378600852	system	divaPreview
+binary	binary:10373367378600852	user	161616
+binary	binary:10373367378600852	user	binaryConverter
+binary	binary:10373367378600852	validationType	genericBinary
 diva-clientArticle	developer	recordType	diva-clientArticle
 diva-clientArticle	developer	system	divaPreview
 diva-clientArticle	developer	user	161616
