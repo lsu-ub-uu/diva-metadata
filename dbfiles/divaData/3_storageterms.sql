@@ -1,1 +1,5 @@
 COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;
+diva-person	14	nameIdentifierOpenAlexStorageTerm	A5086928770	nameIdentifierOpenAlex
+diva-person	16	nameIdentifierOpenAlexStorageTerm	A50869287701	nameIdentifierOpenAlex
+diva-person	22	nameIdentifierOpenAlexStorageTerm	A50869287702	nameIdentifierOpenAlex
+diva-person	22	nameIdentifierOpenAlexStorageTerm	A5086928770	nameIdentifierOpenAlex
