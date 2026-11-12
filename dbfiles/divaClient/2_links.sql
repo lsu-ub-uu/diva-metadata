@@ -78,6 +78,10 @@ text	divaClient_continueText	recordType	text
 text	divaClient_continueText	system	divaClient
 text	divaClient_continueText	user	161616
 text	divaClient_continueText	validationType	coraText
+text	divaClient_copyAsNewText	recordType	text
+text	divaClient_copyAsNewText	system	divaClient
+text	divaClient_copyAsNewText	user	161616
+text	divaClient_copyAsNewText	validationType	coraText
 text	divaClient_createdText	recordType	text
 text	divaClient_createdText	system	divaClient
 text	divaClient_createdText	user	161616
@@ -729,6 +733,10 @@ text	divaClient_untrashButtonText	recordType	text
 text	divaClient_untrashButtonText	system	divaClient
 text	divaClient_untrashButtonText	user	161616
 text	divaClient_untrashButtonText	validationType	coraText
+text	divaClient_untrashRecordText	recordType	text
+text	divaClient_untrashRecordText	system	divaClient
+text	divaClient_untrashRecordText	user	161616
+text	divaClient_untrashRecordText	validationType	coraText
 text	divaClient_updatedText	recordType	text
 text	divaClient_updatedText	system	divaClient
 text	divaClient_updatedText	user	161616
