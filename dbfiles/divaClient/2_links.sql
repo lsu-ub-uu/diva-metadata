@@ -42,6 +42,10 @@ text	divaClient_clearAllFiltersText	recordType	text
 text	divaClient_clearAllFiltersText	system	divaClient
 text	divaClient_clearAllFiltersText	user	161616
 text	divaClient_clearAllFiltersText	validationType	coraText
+text	divaClient_clearFilterText	recordType	text
+text	divaClient_clearFilterText	system	divaClient
+text	divaClient_clearFilterText	user	161616
+text	divaClient_clearFilterText	validationType	coraText
 text	divaClient_clearRecordLinkText	recordType	text
 text	divaClient_clearRecordLinkText	system	divaClient
 text	divaClient_clearRecordLinkText	user	161616
